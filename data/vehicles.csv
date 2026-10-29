@@ -1,0 +1,3001 @@
+vehicle_id,driver_id,make,model,year,license_plate,color,is_active
+1,1,Tata,Altroz,2024,OD14DC6101,White,True
+2,2,Honda,Amaze,2026,OD07YE4716,Red,True
+3,3,Maruti Suzuki,Swift,2022,OD35OD6313,Red,False
+4,4,Toyota,Glanza,2016,OD29OT8313,Blue,True
+5,5,Hyundai,i10,2026,OD20ZY5374,Silver,False
+6,6,Toyota,Etios,2020,OD27PS5807,White,True
+7,7,Honda,City,2020,OD02CN4570,Black,True
+8,8,Honda,Amaze,2023,OD33VG2950,Silver,False
+9,9,Tata,Tigor,2018,OD10VO4826,White,False
+10,10,Toyota,Glanza,2016,OD09SC6430,Blue,True
+11,11,Tata,Altroz,2018,OD15HF5916,White,False
+12,12,Tata,Tiago,2024,OD23UX5166,Blue,True
+13,13,Toyota,Etios,2022,OD02OG5913,Silver,False
+14,14,Honda,City,2022,OD12XD6658,Red,True
+15,15,Toyota,Etios,2026,OD06UP5386,Red,True
+16,16,Honda,Amaze,2023,OD01KA3647,Black,True
+17,17,Toyota,Glanza,2022,OD05UJ2620,Black,True
+18,18,Tata,Altroz,2023,OD25WB5180,Blue,True
+19,19,Honda,City,2020,OD02XE3054,Blue,False
+20,20,Tata,Altroz,2026,OD16GY1469,Black,False
+21,21,Tata,Altroz,2016,OD25WF2909,Blue,True
+22,22,Honda,City,2023,OD30DT7185,Grey,False
+23,23,Honda,Amaze,2016,OD09KX7457,Black,True
+24,24,Hyundai,i10,2018,OD09EV4607,Silver,True
+25,25,Maruti Suzuki,Swift,2023,OD28RH7897,Grey,True
+26,26,Toyota,Glanza,2017,OD31OT2182,Silver,True
+27,27,Tata,Tigor,2022,OD08IJ1440,Blue,True
+28,28,Hyundai,i10,2021,OD05OJ7479,Silver,False
+29,29,Tata,Tiago,2022,OD04DR7287,Black,False
+30,30,Hyundai,i20,2019,OD05SS6844,Red,False
+31,31,Toyota,Etios,2021,OD11UF8962,Red,False
+32,32,Honda,City,2017,OD20TB1431,Black,True
+33,33,Maruti Suzuki,Swift,2021,OD22CX4412,Silver,True
+34,34,Tata,Altroz,2022,OD31EF9739,Blue,True
+35,35,Toyota,Glanza,2020,OD31YH4824,White,True
+36,36,Tata,Tigor,2022,OD06LV8900,Silver,True
+37,37,Hyundai,i20,2017,OD08IW8503,Blue,False
+38,38,Toyota,Etios,2019,OD05EW1132,Silver,True
+39,39,Toyota,Etios,2020,OD16OP8134,Grey,True
+40,40,Toyota,Glanza,2016,OD34ZL9225,White,True
+41,41,Maruti Suzuki,Baleno,2024,OD31HC6112,Black,True
+42,42,Tata,Tiago,2017,OD17HN8886,Blue,False
+43,43,Hyundai,Aura,2017,OD01PZ9986,White,False
+44,44,Maruti Suzuki,Swift,2025,OD26UQ6244,Grey,True
+45,45,Hyundai,i20,2023,OD04NU9977,Red,True
+46,46,Hyundai,i20,2025,OD13HZ2181,Silver,True
+47,47,Hyundai,Aura,2019,OD01MB1864,Black,True
+48,48,Maruti Suzuki,Swift,2024,OD28KU6490,Red,True
+49,49,Tata,Tiago,2018,OD19XD2570,Silver,True
+50,50,Maruti Suzuki,Dzire,2022,OD31BD6161,White,True
+51,51,Tata,Altroz,2025,OD10AD7583,Grey,True
+52,52,Hyundai,Aura,2024,OD10EE3238,Silver,True
+53,53,Maruti Suzuki,Dzire,2019,OD09FV3885,White,True
+54,54,Honda,Amaze,2026,OD02DV1759,White,True
+55,55,Hyundai,i20,2024,OD20GH2655,Black,True
+56,56,Hyundai,i20,2018,OD34MD4517,Black,True
+57,57,Toyota,Etios,2021,OD27VJ6460,Black,True
+58,58,Tata,Tiago,2024,OD26JY5881,Blue,False
+59,59,Honda,Amaze,2018,OD17SQ8045,Grey,True
+60,60,Tata,Tiago,2016,OD23HN8435,Red,False
+61,61,Hyundai,i20,2026,OD24FT8731,Black,True
+62,62,Honda,Amaze,2021,OD12MM7077,Silver,True
+63,63,Tata,Tigor,2022,OD11LZ5035,Red,True
+64,64,Toyota,Etios,2022,OD20DI8745,Silver,True
+65,65,Hyundai,i20,2025,OD24FJ8234,Silver,False
+66,66,Honda,City,2026,OD15KG7680,Black,True
+67,67,Hyundai,i10,2020,OD13WY7361,Grey,True
+68,68,Tata,Tiago,2021,OD31CF8498,Red,False
+69,69,Hyundai,Aura,2026,OD15KI4481,Red,True
+70,70,Honda,City,2024,OD28HV1428,Grey,True
+71,71,Honda,Amaze,2020,OD31SU4872,Blue,True
+72,72,Honda,Amaze,2021,OD15VQ2364,White,False
+73,73,Toyota,Glanza,2023,OD06AH1378,Grey,True
+74,74,Honda,Amaze,2022,OD04PW3720,White,True
+75,75,Tata,Altroz,2025,OD28PR1312,Blue,True
+76,76,Honda,City,2025,OD14DE3006,Silver,False
+77,77,Hyundai,Aura,2020,OD29MF6297,Red,True
+78,78,Hyundai,Aura,2025,OD11MW5858,Silver,False
+79,79,Hyundai,i10,2025,OD07OE5924,White,True
+80,80,Honda,City,2024,OD06VD3974,Red,False
+81,81,Honda,City,2025,OD30CT7717,Grey,True
+82,82,Honda,Amaze,2019,OD22HT2817,White,True
+83,83,Honda,Amaze,2018,OD23ZY1451,White,False
+84,84,Hyundai,Aura,2025,OD18XS1555,White,True
+85,85,Hyundai,i10,2020,OD18GP7869,Grey,True
+86,86,Tata,Altroz,2017,OD19BS9937,Red,True
+87,87,Maruti Suzuki,Baleno,2016,OD05NP4547,White,True
+88,88,Tata,Altroz,2017,OD07MA5635,Blue,True
+89,89,Maruti Suzuki,Swift,2020,OD11BE9677,Blue,False
+90,90,Honda,Amaze,2022,OD35BX2185,Blue,True
+91,91,Hyundai,i20,2018,OD08YG5224,Blue,True
+92,92,Tata,Altroz,2020,OD10BG6230,Black,True
+93,93,Honda,Amaze,2023,OD07PS2633,Black,False
+94,94,Maruti Suzuki,Swift,2021,OD31DW2415,Grey,True
+95,95,Hyundai,i10,2017,OD20AE5971,Grey,True
+96,96,Hyundai,Aura,2024,OD06JC2953,Black,False
+97,97,Tata,Tigor,2018,OD32WC4491,Grey,False
+98,98,Toyota,Etios,2023,OD25JN4072,Blue,True
+99,99,Hyundai,Aura,2017,OD03UP5942,Blue,True
+100,100,Honda,Amaze,2025,OD19FH3486,White,True
+101,101,Tata,Tiago,2017,OD16CK4568,Silver,True
+102,102,Honda,City,2026,OD12MC7660,Blue,True
+103,103,Tata,Tigor,2018,OD21FY9140,Red,True
+104,104,Maruti Suzuki,Swift,2018,OD24JP2065,Red,False
+105,105,Toyota,Etios,2024,OD34LN7396,Blue,True
+106,106,Toyota,Glanza,2016,OD02LD6582,Grey,False
+107,107,Tata,Altroz,2022,OD14LL9271,Silver,True
+108,108,Hyundai,i20,2026,OD06OE7385,Grey,True
+109,109,Tata,Tigor,2021,OD02IM1130,Grey,True
+110,110,Maruti Suzuki,Swift,2020,OD18DH1083,Grey,False
+111,111,Hyundai,i20,2016,OD33OY2681,White,True
+112,112,Honda,City,2024,OD04VI2643,Grey,True
+113,113,Toyota,Glanza,2016,OD31NF4148,Blue,True
+114,114,Maruti Suzuki,Dzire,2026,OD11EH3340,Blue,True
+115,115,Hyundai,i10,2024,OD10JA9782,Silver,False
+116,116,Tata,Tiago,2024,OD13LT5868,White,True
+117,117,Tata,Tiago,2016,OD18OT2897,Black,True
+118,118,Maruti Suzuki,Baleno,2017,OD16LV1486,Silver,True
+119,119,Tata,Tigor,2018,OD11YU9693,Blue,True
+120,120,Maruti Suzuki,Dzire,2020,OD08UW6888,Grey,True
+121,121,Toyota,Etios,2024,OD16AE9854,White,True
+122,122,Maruti Suzuki,Dzire,2017,OD19WK4974,Silver,True
+123,123,Toyota,Etios,2018,OD33YD5303,Silver,False
+124,124,Toyota,Etios,2023,OD19XU3111,Blue,True
+125,125,Hyundai,i10,2026,OD33VR4658,White,False
+126,126,Hyundai,i20,2023,OD02VH8612,Blue,True
+127,127,Hyundai,i10,2019,OD29IH7594,Blue,True
+128,128,Tata,Tigor,2024,OD21LP7096,Blue,True
+129,129,Maruti Suzuki,Baleno,2020,OD12SX1010,Grey,False
+130,130,Toyota,Glanza,2020,OD23EQ9900,Grey,True
+131,131,Honda,Amaze,2016,OD25KN8531,Black,True
+132,132,Honda,City,2021,OD29BC7538,Silver,True
+133,133,Honda,City,2017,OD15NV2132,Silver,True
+134,134,Hyundai,i20,2019,OD02QI4185,Grey,False
+135,135,Toyota,Glanza,2026,OD26JI5936,Grey,False
+136,136,Hyundai,i20,2016,OD35JV4017,Black,True
+137,137,Tata,Tiago,2019,OD20QA1522,Silver,True
+138,138,Honda,Amaze,2020,OD08XK6603,Black,False
+139,139,Toyota,Glanza,2021,OD35KK8512,Silver,True
+140,140,Honda,Amaze,2023,OD25AF5547,Black,True
+141,141,Honda,Amaze,2019,OD14HV3365,Blue,True
+142,142,Toyota,Etios,2021,OD12HC6278,Red,True
+143,143,Toyota,Etios,2019,OD03IA3290,Blue,False
+144,144,Honda,Amaze,2025,OD06OF2625,Grey,True
+145,145,Hyundai,Aura,2018,OD09AJ2425,Grey,False
+146,146,Toyota,Glanza,2017,OD23VH3885,Grey,False
+147,147,Toyota,Glanza,2023,OD01MH3067,Silver,True
+148,148,Hyundai,i10,2019,OD11QB5949,Blue,True
+149,149,Maruti Suzuki,Swift,2018,OD03ND1798,White,True
+150,150,Hyundai,i10,2021,OD15PT8982,White,True
+151,151,Maruti Suzuki,Swift,2026,OD02FW6596,Grey,True
+152,152,Honda,Amaze,2018,OD22MW5600,Red,False
+153,153,Maruti Suzuki,Baleno,2021,OD23TJ1040,Red,False
+154,154,Toyota,Glanza,2019,OD01JZ6638,Red,True
+155,155,Hyundai,Aura,2019,OD06MU8679,Grey,True
+156,156,Tata,Tigor,2022,OD19OX5717,Black,False
+157,157,Maruti Suzuki,Baleno,2017,OD19YL4208,Red,True
+158,158,Maruti Suzuki,Baleno,2023,OD32NN8012,Silver,True
+159,159,Tata,Tiago,2026,OD31UY7849,White,True
+160,160,Maruti Suzuki,Baleno,2018,OD06WU6261,Grey,True
+161,161,Honda,Amaze,2025,OD04EE5028,White,True
+162,162,Honda,City,2026,OD29AM8828,Red,False
+163,163,Hyundai,i20,2019,OD09EG8967,White,True
+164,164,Toyota,Glanza,2017,OD09MU9467,Red,True
+165,165,Toyota,Etios,2022,OD15PC2361,Silver,True
+166,166,Toyota,Etios,2019,OD02BA5011,Grey,True
+167,167,Hyundai,Aura,2024,OD10HW2198,Black,True
+168,168,Tata,Tigor,2021,OD33MM4419,Black,False
+169,169,Toyota,Etios,2017,OD32VR4304,Red,False
+170,170,Honda,City,2025,OD05KG9581,Black,True
+171,171,Maruti Suzuki,Swift,2020,OD02MZ6785,Black,False
+172,172,Honda,City,2018,OD28OZ4609,Silver,True
+173,173,Hyundai,i20,2018,OD18KL4614,Black,False
+174,174,Tata,Altroz,2022,OD21YM8688,Grey,True
+175,175,Toyota,Etios,2024,OD19SN3617,Black,True
+176,176,Toyota,Etios,2021,OD08AJ7664,Red,True
+177,177,Tata,Tiago,2022,OD09SN6357,Grey,True
+178,178,Maruti Suzuki,Swift,2026,OD04NY3070,Grey,False
+179,179,Honda,Amaze,2025,OD15XK1356,Blue,False
+180,180,Toyota,Glanza,2020,OD18EC3146,Blue,True
+181,181,Tata,Tigor,2026,OD24AF3414,Black,True
+182,182,Honda,City,2024,OD01JL9073,Red,False
+183,183,Hyundai,i20,2017,OD34JW1850,Grey,True
+184,184,Hyundai,i10,2026,OD34EC5794,Grey,True
+185,185,Hyundai,i10,2023,OD10WB5419,Silver,True
+186,186,Honda,City,2022,OD29AM4229,Grey,True
+187,187,Hyundai,Aura,2022,OD13AD2103,Black,True
+188,188,Maruti Suzuki,Swift,2026,OD34JQ5397,Black,False
+189,189,Tata,Altroz,2019,OD14YG7928,Grey,False
+190,190,Maruti Suzuki,Baleno,2018,OD35TM9171,Red,True
+191,191,Hyundai,i20,2016,OD22UV5148,Blue,True
+192,192,Honda,Amaze,2016,OD24NI1851,White,True
+193,193,Hyundai,i20,2025,OD24YC4525,Silver,True
+194,194,Maruti Suzuki,Swift,2017,OD22JM2797,Grey,True
+195,195,Toyota,Glanza,2024,OD04GQ9348,Blue,True
+196,196,Tata,Tigor,2026,OD05BJ2006,Silver,True
+197,197,Maruti Suzuki,Dzire,2022,OD25QK2242,Red,True
+198,198,Tata,Tiago,2024,OD07IQ4559,Grey,True
+199,199,Honda,City,2021,OD33BG1689,Blue,True
+200,200,Maruti Suzuki,Dzire,2024,OD21MJ8329,White,False
+201,201,Honda,City,2016,OD06TB3535,Grey,True
+202,202,Honda,Amaze,2023,OD07NC2748,Silver,False
+203,203,Honda,City,2017,OD06SS8700,Grey,False
+204,204,Tata,Altroz,2024,OD13VG3618,Grey,True
+205,205,Honda,Amaze,2021,OD02KR4397,Silver,True
+206,206,Tata,Tigor,2026,OD35CS6697,Grey,True
+207,207,Honda,Amaze,2024,OD24HL4922,Black,True
+208,208,Tata,Tiago,2022,OD26VE2544,Grey,False
+209,209,Tata,Altroz,2016,OD05VK9837,Silver,False
+210,210,Honda,City,2025,OD14AY4316,White,True
+211,211,Toyota,Etios,2019,OD11OF8847,Grey,False
+212,212,Toyota,Glanza,2020,OD21CU7078,Red,True
+213,213,Hyundai,i20,2018,OD34LJ7987,White,True
+214,214,Maruti Suzuki,Baleno,2023,OD13AR8731,Black,True
+215,215,Honda,Amaze,2024,OD11PZ8784,Grey,False
+216,216,Maruti Suzuki,Swift,2024,OD19EK3101,Red,False
+217,217,Toyota,Etios,2019,OD01YT2007,White,False
+218,218,Maruti Suzuki,Swift,2017,OD04EW5565,Black,True
+219,219,Tata,Altroz,2020,OD32GV1849,Silver,False
+220,220,Honda,City,2017,OD28DV8778,White,False
+221,221,Tata,Altroz,2025,OD28LY7533,Grey,False
+222,222,Honda,City,2016,OD25QH4191,Silver,True
+223,223,Maruti Suzuki,Swift,2025,OD24EF5612,Black,False
+224,224,Tata,Tiago,2023,OD13WF3083,White,True
+225,225,Tata,Tiago,2025,OD01OA6928,Red,True
+226,226,Honda,Amaze,2022,OD04YD6481,Grey,True
+227,227,Maruti Suzuki,Dzire,2016,OD07BC7503,Red,True
+228,228,Honda,Amaze,2016,OD33BE7575,Silver,True
+229,229,Tata,Tigor,2021,OD30RG4615,Silver,True
+230,230,Toyota,Glanza,2021,OD32CT4062,White,True
+231,231,Toyota,Etios,2023,OD06IM4972,Red,False
+232,232,Honda,City,2026,OD16ZE1375,Black,True
+233,233,Honda,Amaze,2026,OD27NL3396,Blue,True
+234,234,Tata,Tigor,2024,OD22IS3727,Red,False
+235,235,Hyundai,i20,2016,OD03ZB3314,White,False
+236,236,Maruti Suzuki,Swift,2020,OD25ZA6236,White,True
+237,237,Toyota,Etios,2020,OD14EP2876,Grey,True
+238,238,Maruti Suzuki,Baleno,2019,OD16KN4556,Grey,True
+239,239,Maruti Suzuki,Swift,2016,OD04XB1858,Blue,True
+240,240,Maruti Suzuki,Baleno,2023,OD34DX1058,Silver,True
+241,241,Hyundai,Aura,2026,OD15KW5565,White,True
+242,242,Toyota,Glanza,2025,OD04TX4770,White,True
+243,243,Hyundai,Aura,2023,OD27NC4972,Grey,False
+244,244,Hyundai,Aura,2026,OD02QZ2349,Black,True
+245,245,Honda,Amaze,2021,OD20YO5201,Grey,True
+246,246,Tata,Altroz,2019,OD05CB6715,Red,True
+247,247,Hyundai,i10,2025,OD28PG8337,Blue,True
+248,248,Hyundai,i10,2024,OD08XJ3292,Red,False
+249,249,Toyota,Glanza,2023,OD27XL1471,Red,True
+250,250,Honda,City,2022,OD31WD9340,Grey,False
+251,251,Honda,Amaze,2026,OD34RZ4551,Grey,True
+252,252,Honda,City,2016,OD06XU7496,Red,True
+253,253,Honda,City,2018,OD11FN8082,Grey,False
+254,254,Toyota,Glanza,2025,OD13OU7505,White,False
+255,255,Tata,Tiago,2018,OD35TA8598,Silver,True
+256,256,Tata,Altroz,2024,OD07EK6593,Blue,False
+257,257,Honda,City,2018,OD28KT9126,Grey,True
+258,258,Maruti Suzuki,Baleno,2019,OD24XR1403,Silver,True
+259,259,Maruti Suzuki,Baleno,2020,OD08YO2791,Grey,True
+260,260,Honda,Amaze,2025,OD05ES6775,Grey,True
+261,261,Maruti Suzuki,Baleno,2024,OD29CU2870,Silver,False
+262,262,Maruti Suzuki,Swift,2026,OD24YB1071,Red,True
+263,263,Tata,Tigor,2025,OD12QO9049,Silver,False
+264,264,Maruti Suzuki,Baleno,2019,OD02YE4214,White,True
+265,265,Maruti Suzuki,Baleno,2018,OD22UA2045,Red,False
+266,266,Maruti Suzuki,Dzire,2020,OD11SY1376,Grey,True
+267,267,Hyundai,i10,2018,OD15GN4454,White,True
+268,268,Honda,Amaze,2016,OD01ZP4204,White,True
+269,269,Tata,Tiago,2022,OD28EI8392,Silver,True
+270,270,Honda,City,2016,OD21PZ2507,Red,True
+271,271,Tata,Tigor,2026,OD24NV9127,Silver,True
+272,272,Honda,City,2019,OD24UJ5147,Silver,True
+273,273,Tata,Tigor,2017,OD18MU8030,Blue,False
+274,274,Tata,Altroz,2019,OD18QG5860,Blue,True
+275,275,Tata,Altroz,2024,OD28UF7823,Grey,True
+276,276,Honda,City,2020,OD34KH3527,White,False
+277,277,Honda,City,2024,OD31AQ5763,Black,True
+278,278,Honda,Amaze,2026,OD17JH8055,Blue,True
+279,279,Toyota,Glanza,2021,OD02YX6006,Silver,True
+280,280,Tata,Altroz,2016,OD12RI7568,Grey,True
+281,281,Maruti Suzuki,Swift,2023,OD13IF4213,Blue,True
+282,282,Honda,City,2019,OD32ES6156,Silver,True
+283,283,Maruti Suzuki,Swift,2024,OD02CN3256,Silver,True
+284,284,Maruti Suzuki,Dzire,2016,OD09WW1079,Silver,True
+285,285,Maruti Suzuki,Baleno,2018,OD07JG6626,Black,True
+286,286,Hyundai,i20,2025,OD17YV4809,Black,False
+287,287,Toyota,Etios,2019,OD06ZX2647,White,True
+288,288,Hyundai,Aura,2021,OD02IF7571,Silver,True
+289,289,Honda,City,2018,OD28VM4001,Red,True
+290,290,Maruti Suzuki,Baleno,2016,OD34LP4660,Blue,True
+291,291,Toyota,Etios,2021,OD19KC5252,Red,False
+292,292,Maruti Suzuki,Baleno,2026,OD06SH6311,White,True
+293,293,Honda,City,2021,OD23KY4603,Red,False
+294,294,Maruti Suzuki,Dzire,2018,OD31FR2763,Grey,False
+295,295,Hyundai,i10,2023,OD17MD3300,White,True
+296,296,Honda,City,2022,OD11YN5216,White,True
+297,297,Honda,Amaze,2024,OD17QD9374,Red,False
+298,298,Honda,Amaze,2016,OD04NS4834,White,False
+299,299,Hyundai,i10,2019,OD22CN9094,White,True
+300,300,Tata,Tiago,2021,OD35EE7861,Grey,True
+301,301,Maruti Suzuki,Swift,2019,OD18ZH9700,Blue,True
+302,302,Tata,Altroz,2021,OD06VJ3494,White,True
+303,303,Tata,Altroz,2019,OD26JL1756,Red,True
+304,304,Toyota,Glanza,2019,OD07HI3171,Grey,True
+305,305,Tata,Tigor,2022,OD30FT2047,White,True
+306,306,Tata,Altroz,2016,OD19UI4179,White,True
+307,307,Tata,Tiago,2022,OD24HZ2385,White,True
+308,308,Toyota,Etios,2023,OD08VU2756,Silver,True
+309,309,Honda,Amaze,2026,OD08VO3072,Grey,True
+310,310,Maruti Suzuki,Dzire,2019,OD11QD8001,Black,True
+311,311,Maruti Suzuki,Baleno,2024,OD32HT3549,Black,True
+312,312,Toyota,Glanza,2022,OD05ZK8252,Black,False
+313,313,Honda,City,2017,OD02LE9418,Red,False
+314,314,Honda,Amaze,2023,OD19LT2326,Silver,True
+315,315,Maruti Suzuki,Dzire,2020,OD21BA3909,White,True
+316,316,Honda,Amaze,2024,OD32RT1560,Black,True
+317,317,Tata,Tiago,2018,OD21QM8415,Grey,True
+318,318,Hyundai,Aura,2016,OD18AT4370,Silver,False
+319,319,Honda,City,2020,OD05RW3395,Black,False
+320,320,Toyota,Glanza,2016,OD05HR3165,Grey,True
+321,321,Maruti Suzuki,Swift,2021,OD07HH5600,Grey,True
+322,322,Maruti Suzuki,Baleno,2020,OD11EA2614,Black,True
+323,323,Tata,Tiago,2018,OD03YR4227,Red,True
+324,324,Honda,Amaze,2026,OD27HN1148,Black,True
+325,325,Honda,Amaze,2022,OD01OX9360,Blue,True
+326,326,Honda,City,2023,OD12BB1379,Silver,True
+327,327,Maruti Suzuki,Dzire,2017,OD04PA8483,White,False
+328,328,Hyundai,i20,2024,OD24ZA9734,Blue,True
+329,329,Maruti Suzuki,Swift,2019,OD30AQ7083,White,True
+330,330,Toyota,Glanza,2025,OD17ZU5979,Silver,True
+331,331,Tata,Tigor,2025,OD31ET7478,Silver,True
+332,332,Honda,Amaze,2025,OD12ON9167,White,True
+333,333,Honda,City,2026,OD08WY9208,Blue,False
+334,334,Hyundai,i20,2019,OD23MD3203,Red,False
+335,335,Honda,City,2024,OD15AL6954,Grey,True
+336,336,Honda,Amaze,2019,OD35QP5693,White,True
+337,337,Hyundai,i10,2026,OD19VM2127,Silver,True
+338,338,Honda,City,2018,OD32NG4578,White,True
+339,339,Maruti Suzuki,Swift,2023,OD27YD5885,Black,True
+340,340,Tata,Tiago,2020,OD33HD7500,Blue,False
+341,341,Hyundai,i20,2020,OD31AI7361,Silver,False
+342,342,Toyota,Etios,2025,OD33PA4546,Grey,True
+343,343,Maruti Suzuki,Swift,2020,OD35HP4732,Grey,True
+344,344,Maruti Suzuki,Dzire,2025,OD12XE2861,Red,True
+345,345,Honda,Amaze,2022,OD22TH5590,White,True
+346,346,Tata,Tiago,2022,OD10SD2342,Blue,False
+347,347,Hyundai,i10,2024,OD11IP3032,Blue,True
+348,348,Maruti Suzuki,Swift,2024,OD08OW7561,Red,True
+349,349,Honda,City,2026,OD29QT9530,Red,True
+350,350,Toyota,Etios,2020,OD29TT1931,Silver,True
+351,351,Hyundai,i10,2023,OD08DI9950,Grey,True
+352,352,Honda,City,2024,OD07RT9757,Red,True
+353,353,Maruti Suzuki,Dzire,2017,OD32GU6134,Grey,True
+354,354,Maruti Suzuki,Dzire,2019,OD07FT8552,Silver,True
+355,355,Honda,Amaze,2022,OD07NT5998,Blue,False
+356,356,Hyundai,i20,2024,OD33CC4461,Blue,True
+357,357,Honda,Amaze,2016,OD08YG1212,Grey,True
+358,358,Honda,City,2021,OD13ZV3813,White,False
+359,359,Hyundai,Aura,2019,OD27DZ4966,White,False
+360,360,Toyota,Etios,2020,OD03YB6086,Red,True
+361,361,Hyundai,i20,2026,OD11TL5847,Silver,True
+362,362,Toyota,Glanza,2021,OD27HV9981,White,True
+363,363,Honda,City,2019,OD10EK6603,White,False
+364,364,Tata,Tiago,2025,OD12KR2093,Red,True
+365,365,Honda,City,2018,OD07WF4078,Grey,True
+366,366,Maruti Suzuki,Baleno,2024,OD26HS5278,Silver,True
+367,367,Maruti Suzuki,Swift,2024,OD17KH2537,Silver,False
+368,368,Hyundai,i10,2025,OD16AY8705,Blue,False
+369,369,Toyota,Etios,2025,OD03US8022,Red,True
+370,370,Tata,Altroz,2024,OD30EU5547,Red,True
+371,371,Toyota,Glanza,2017,OD30PU4083,Silver,True
+372,372,Honda,City,2024,OD05CG4535,Blue,False
+373,373,Hyundai,i20,2023,OD02PW3229,White,False
+374,374,Hyundai,Aura,2020,OD01WF6007,Black,True
+375,375,Hyundai,Aura,2020,OD07WT9605,Red,True
+376,376,Maruti Suzuki,Dzire,2026,OD16FX4845,Grey,True
+377,377,Tata,Tiago,2017,OD35DU6079,Silver,True
+378,378,Hyundai,i20,2024,OD18EV1504,Black,True
+379,379,Hyundai,i20,2016,OD20ON6751,Red,True
+380,380,Maruti Suzuki,Baleno,2024,OD28VC6510,Grey,True
+381,381,Maruti Suzuki,Baleno,2025,OD19DJ9109,Silver,True
+382,382,Toyota,Glanza,2019,OD30BK6096,Red,True
+383,383,Tata,Tigor,2017,OD04QF7316,White,True
+384,384,Maruti Suzuki,Baleno,2019,OD21MK5377,Black,True
+385,385,Maruti Suzuki,Baleno,2018,OD16PM7252,Grey,False
+386,386,Toyota,Glanza,2018,OD23HH9802,Grey,True
+387,387,Toyota,Etios,2017,OD05UR4143,Blue,True
+388,388,Toyota,Glanza,2020,OD09IU3437,Silver,True
+389,389,Honda,City,2026,OD12QX4077,Silver,False
+390,390,Hyundai,i10,2020,OD34RT4769,Black,True
+391,391,Hyundai,i20,2021,OD07XQ7246,Grey,True
+392,392,Maruti Suzuki,Baleno,2022,OD24ZJ3879,Silver,True
+393,393,Toyota,Glanza,2022,OD09RK6628,White,False
+394,394,Tata,Tiago,2021,OD02SL3672,Blue,True
+395,395,Toyota,Etios,2023,OD01HS7994,Blue,False
+396,396,Tata,Tigor,2019,OD21TD8705,Grey,True
+397,397,Maruti Suzuki,Dzire,2023,OD08ZR9569,Black,True
+398,398,Maruti Suzuki,Baleno,2025,OD22IE9333,Grey,True
+399,399,Tata,Tigor,2025,OD26VM9459,Grey,False
+400,400,Honda,City,2023,OD02NW2744,Grey,True
+401,401,Honda,Amaze,2017,OD17TO2344,White,True
+402,402,Hyundai,Aura,2020,OD29DK7425,Grey,True
+403,403,Honda,City,2021,OD01UK2254,Blue,False
+404,404,Maruti Suzuki,Baleno,2017,OD25PV5792,Silver,True
+405,405,Hyundai,i20,2019,OD24TU8126,Blue,True
+406,406,Maruti Suzuki,Dzire,2021,OD02UK7700,Grey,True
+407,407,Honda,City,2020,OD03EW5330,Black,False
+408,408,Maruti Suzuki,Dzire,2024,OD11KZ8302,White,True
+409,409,Maruti Suzuki,Swift,2021,OD04VH9829,Silver,False
+410,410,Honda,Amaze,2022,OD20QZ2168,Red,False
+411,411,Hyundai,Aura,2026,OD19SH7671,Blue,True
+412,412,Honda,Amaze,2021,OD33LH1310,Red,True
+413,413,Maruti Suzuki,Swift,2018,OD29RS7182,Blue,True
+414,414,Maruti Suzuki,Baleno,2026,OD14AY5816,Red,True
+415,415,Hyundai,Aura,2023,OD30LQ7161,Grey,True
+416,416,Hyundai,i20,2021,OD27EB4183,Red,False
+417,417,Hyundai,i20,2020,OD19GU5229,Grey,False
+418,418,Hyundai,i10,2017,OD35CV3466,Black,True
+419,419,Tata,Tigor,2026,OD27CP1783,Grey,True
+420,420,Maruti Suzuki,Dzire,2020,OD18LO8562,Grey,True
+421,421,Honda,Amaze,2022,OD16MO9817,Silver,True
+422,422,Toyota,Etios,2023,OD17ZP7133,Blue,True
+423,423,Tata,Altroz,2019,OD19QW6476,Black,True
+424,424,Hyundai,i20,2023,OD17AY4932,Grey,False
+425,425,Honda,City,2024,OD31JA5344,Black,True
+426,426,Honda,City,2023,OD23CJ8293,Silver,True
+427,427,Tata,Tiago,2017,OD21YP4402,Red,True
+428,428,Maruti Suzuki,Baleno,2025,OD04ZB1762,Blue,True
+429,429,Maruti Suzuki,Dzire,2021,OD26LX9294,Black,True
+430,430,Tata,Altroz,2020,OD22HQ6464,Red,False
+431,431,Tata,Tiago,2021,OD12GV3132,Grey,False
+432,432,Maruti Suzuki,Baleno,2026,OD01BI8641,White,True
+433,433,Maruti Suzuki,Swift,2019,OD20SY6925,Grey,True
+434,434,Maruti Suzuki,Baleno,2025,OD33SS7538,Silver,True
+435,435,Maruti Suzuki,Baleno,2017,OD21QG8337,Silver,False
+436,436,Honda,Amaze,2020,OD20PO7964,White,False
+437,437,Toyota,Etios,2026,OD01IX8562,Red,False
+438,438,Honda,City,2024,OD10WT1259,Red,True
+439,439,Hyundai,i20,2022,OD22TS7142,White,True
+440,440,Tata,Altroz,2018,OD15WH1059,Red,True
+441,441,Toyota,Glanza,2023,OD28JA6169,Silver,False
+442,442,Hyundai,Aura,2024,OD28FE2099,Silver,True
+443,443,Tata,Tiago,2019,OD06RM7161,White,True
+444,444,Honda,City,2023,OD16GR2479,Silver,False
+445,445,Toyota,Etios,2018,OD17OJ5955,Black,True
+446,446,Hyundai,i20,2025,OD17JD1273,Red,True
+447,447,Hyundai,Aura,2023,OD15LC9802,Red,False
+448,448,Honda,City,2023,OD31JD4338,White,True
+449,449,Tata,Tiago,2024,OD13AE6821,Blue,True
+450,450,Hyundai,i20,2022,OD21RC6722,Black,True
+451,451,Hyundai,Aura,2017,OD32RT6371,Silver,True
+452,452,Toyota,Etios,2026,OD05FR7145,Silver,True
+453,453,Toyota,Glanza,2022,OD30LY3913,Black,True
+454,454,Maruti Suzuki,Baleno,2019,OD20RY2502,Blue,True
+455,455,Maruti Suzuki,Swift,2024,OD05IM4097,Silver,True
+456,456,Toyota,Glanza,2020,OD11DW7061,Blue,False
+457,457,Hyundai,i10,2025,OD07FC9437,Silver,True
+458,458,Honda,Amaze,2020,OD06CJ7579,White,True
+459,459,Hyundai,i10,2021,OD23LG1884,White,True
+460,460,Hyundai,i10,2019,OD04ZJ5863,White,False
+461,461,Honda,Amaze,2026,OD07BT7672,Silver,True
+462,462,Tata,Tigor,2023,OD27XW8080,Black,True
+463,463,Tata,Tigor,2017,OD12TS2610,Black,False
+464,464,Toyota,Etios,2021,OD10BN6026,Red,True
+465,465,Toyota,Glanza,2016,OD27DW7265,Red,False
+466,466,Toyota,Glanza,2016,OD04YW9625,Red,True
+467,467,Hyundai,Aura,2020,OD09ZX3023,Grey,True
+468,468,Honda,Amaze,2018,OD06UZ9179,Silver,False
+469,469,Hyundai,Aura,2022,OD25EA9668,Black,True
+470,470,Honda,Amaze,2016,OD01LS4774,Black,True
+471,471,Honda,Amaze,2018,OD30BW4297,Black,True
+472,472,Maruti Suzuki,Swift,2026,OD30IR6564,Blue,False
+473,473,Hyundai,i20,2019,OD30DE6728,White,True
+474,474,Tata,Tiago,2016,OD22VQ1377,Red,True
+475,475,Toyota,Etios,2016,OD25BJ1469,Black,True
+476,476,Tata,Tiago,2022,OD23JP5317,Grey,False
+477,477,Toyota,Etios,2016,OD02IC9235,Red,True
+478,478,Honda,City,2020,OD14BD7372,Silver,True
+479,479,Honda,Amaze,2019,OD33RP9697,Blue,False
+480,480,Honda,City,2022,OD16CG7379,Red,True
+481,481,Honda,Amaze,2018,OD02CD4170,Blue,False
+482,482,Maruti Suzuki,Dzire,2023,OD18VY8327,White,True
+483,483,Hyundai,Aura,2016,OD14KD5200,Blue,True
+484,484,Hyundai,Aura,2018,OD19JC2999,Silver,False
+485,485,Toyota,Glanza,2021,OD15JO3099,Blue,True
+486,486,Toyota,Etios,2017,OD27PG1922,Blue,True
+487,487,Hyundai,i10,2026,OD26PA5191,Blue,False
+488,488,Toyota,Etios,2021,OD25WV3445,Blue,True
+489,489,Tata,Altroz,2026,OD35VF3602,Blue,True
+490,490,Toyota,Glanza,2017,OD34GE5021,Silver,True
+491,491,Maruti Suzuki,Dzire,2024,OD33KN9768,Red,True
+492,492,Honda,City,2022,OD32QA7540,Silver,True
+493,493,Toyota,Glanza,2023,OD18XI6332,Blue,False
+494,494,Tata,Tiago,2017,OD15LU4287,White,False
+495,495,Tata,Tigor,2026,OD22TU3599,Blue,False
+496,496,Tata,Altroz,2023,OD18CV2054,Red,True
+497,497,Toyota,Etios,2026,OD11NO6295,White,True
+498,498,Toyota,Etios,2022,OD17KH5394,Blue,False
+499,499,Tata,Tigor,2017,OD23YU8140,Silver,True
+500,500,Toyota,Etios,2023,OD34TN4892,Red,True
+501,501,Maruti Suzuki,Baleno,2019,OD23XQ4009,White,True
+502,502,Honda,Amaze,2016,OD06YX6362,Blue,False
+503,503,Hyundai,i10,2020,OD10EQ5600,Blue,True
+504,504,Tata,Altroz,2025,OD11PM7720,Blue,True
+505,505,Toyota,Etios,2022,OD04CZ9292,White,True
+506,506,Maruti Suzuki,Swift,2019,OD20RA2179,Silver,True
+507,507,Honda,Amaze,2021,OD34MM8962,White,True
+508,508,Tata,Tigor,2020,OD27AL5014,Blue,True
+509,509,Honda,Amaze,2025,OD28PI7601,Red,True
+510,510,Honda,Amaze,2016,OD22XG7473,Red,True
+511,511,Toyota,Glanza,2017,OD10WQ6718,Grey,False
+512,512,Hyundai,Aura,2021,OD03FC6855,Silver,True
+513,513,Toyota,Glanza,2016,OD32OK6243,Blue,True
+514,514,Maruti Suzuki,Swift,2022,OD12NI4564,Blue,True
+515,515,Honda,City,2026,OD33IJ7478,White,False
+516,516,Toyota,Glanza,2023,OD22CV2639,Blue,True
+517,517,Honda,City,2021,OD24CE5543,Silver,True
+518,518,Tata,Altroz,2018,OD22GV2643,Grey,True
+519,519,Toyota,Glanza,2024,OD16QY6510,Red,False
+520,520,Tata,Tigor,2023,OD28LM6230,Blue,True
+521,521,Honda,Amaze,2021,OD21JX5314,Red,True
+522,522,Tata,Tiago,2022,OD35PV9071,White,True
+523,523,Honda,Amaze,2018,OD01SI1880,Grey,False
+524,524,Hyundai,i20,2017,OD23GL8599,Grey,True
+525,525,Maruti Suzuki,Baleno,2016,OD08DK5133,Grey,False
+526,526,Hyundai,i20,2025,OD17HV2175,Red,True
+527,527,Toyota,Etios,2018,OD12LL8672,Blue,True
+528,528,Honda,City,2017,OD15KI8992,Silver,True
+529,529,Honda,City,2026,OD24OG6145,Black,True
+530,530,Hyundai,Aura,2021,OD24LR1289,Red,True
+531,531,Honda,City,2023,OD24QD7697,Grey,True
+532,532,Hyundai,Aura,2020,OD08YG7726,Black,True
+533,533,Hyundai,Aura,2026,OD20OA5924,White,False
+534,534,Maruti Suzuki,Dzire,2022,OD29UW2573,Silver,False
+535,535,Toyota,Etios,2019,OD19DR6722,Red,True
+536,536,Toyota,Etios,2016,OD34WG9180,Silver,True
+537,537,Honda,Amaze,2017,OD30AG7361,White,True
+538,538,Maruti Suzuki,Dzire,2021,OD02VB2718,Grey,True
+539,539,Honda,City,2025,OD18SB9009,Blue,False
+540,540,Toyota,Glanza,2024,OD21KV2603,Grey,True
+541,541,Maruti Suzuki,Baleno,2021,OD16VR7950,Grey,False
+542,542,Hyundai,i20,2019,OD28PH7029,Red,True
+543,543,Toyota,Etios,2016,OD32BO3098,Black,True
+544,544,Tata,Tiago,2019,OD15ZL2744,Black,True
+545,545,Maruti Suzuki,Dzire,2019,OD04TO6077,Black,False
+546,546,Tata,Altroz,2019,OD28MV4686,Silver,False
+547,547,Toyota,Etios,2023,OD05WI9522,White,True
+548,548,Maruti Suzuki,Baleno,2016,OD30VX4740,Silver,False
+549,549,Tata,Altroz,2018,OD25AQ3852,Silver,True
+550,550,Honda,Amaze,2023,OD17WY2119,Black,False
+551,551,Honda,Amaze,2017,OD09VE4213,Black,True
+552,552,Tata,Altroz,2026,OD11KF7186,White,True
+553,553,Toyota,Etios,2026,OD35SZ3404,Silver,True
+554,554,Honda,City,2023,OD17UU5470,Grey,True
+555,555,Hyundai,i10,2021,OD21IJ2251,White,True
+556,556,Toyota,Etios,2017,OD14MO4073,Blue,True
+557,557,Tata,Tiago,2016,OD14RU9845,White,True
+558,558,Honda,City,2024,OD20YD9799,Silver,False
+559,559,Maruti Suzuki,Dzire,2022,OD09FA2220,Silver,True
+560,560,Hyundai,i10,2021,OD18BD2823,Black,False
+561,561,Hyundai,Aura,2019,OD25AG1026,Blue,False
+562,562,Honda,City,2023,OD31BX1173,Grey,False
+563,563,Honda,Amaze,2024,OD16YO7180,Black,True
+564,564,Maruti Suzuki,Dzire,2022,OD31WC7816,Black,True
+565,565,Honda,Amaze,2016,OD19RQ9456,Grey,True
+566,566,Tata,Tiago,2024,OD25SH1732,Black,True
+567,567,Honda,City,2026,OD22ZM5205,Blue,False
+568,568,Honda,City,2017,OD06MB6290,Red,True
+569,569,Toyota,Glanza,2022,OD17ZZ1543,Blue,False
+570,570,Maruti Suzuki,Swift,2020,OD09KV2875,Red,False
+571,571,Maruti Suzuki,Swift,2024,OD05XL2635,Black,False
+572,572,Toyota,Glanza,2025,OD26OA8575,Silver,True
+573,573,Maruti Suzuki,Dzire,2019,OD05TH7520,Red,True
+574,574,Tata,Tiago,2022,OD01EF2852,Grey,True
+575,575,Toyota,Etios,2021,OD18QA3319,Blue,True
+576,576,Hyundai,i20,2024,OD15YQ5883,Black,True
+577,577,Maruti Suzuki,Dzire,2021,OD29HZ6345,White,False
+578,578,Tata,Tigor,2020,OD25SG6655,White,True
+579,579,Hyundai,Aura,2017,OD20BZ2448,Black,True
+580,580,Hyundai,i10,2025,OD22LQ8900,Blue,True
+581,581,Hyundai,i20,2025,OD30DP9076,White,False
+582,582,Maruti Suzuki,Swift,2016,OD23NQ8403,White,True
+583,583,Maruti Suzuki,Swift,2020,OD25AK2527,Grey,True
+584,584,Toyota,Glanza,2026,OD21GH8343,Grey,True
+585,585,Maruti Suzuki,Baleno,2023,OD26OO8136,White,True
+586,586,Honda,City,2019,OD20KU8455,Red,True
+587,587,Maruti Suzuki,Baleno,2023,OD16BH4699,Black,True
+588,588,Toyota,Etios,2023,OD22YP5325,Silver,True
+589,589,Maruti Suzuki,Dzire,2024,OD18RB5972,Red,False
+590,590,Hyundai,i10,2024,OD06LM1320,Silver,True
+591,591,Hyundai,i20,2016,OD30TY6896,Blue,True
+592,592,Honda,City,2017,OD07DB8931,Blue,False
+593,593,Honda,City,2023,OD24JV6752,Grey,True
+594,594,Honda,Amaze,2024,OD30EF7347,Red,True
+595,595,Tata,Altroz,2021,OD18VA4329,Blue,True
+596,596,Toyota,Etios,2026,OD25QL7829,White,False
+597,597,Honda,Amaze,2026,OD27CG9509,Black,False
+598,598,Toyota,Etios,2016,OD29OO8193,Blue,True
+599,599,Honda,Amaze,2026,OD14SS7656,Black,False
+600,600,Hyundai,i20,2023,OD12XZ8275,White,True
+601,601,Maruti Suzuki,Dzire,2019,OD23DE7872,Black,True
+602,602,Maruti Suzuki,Dzire,2024,OD11JG3686,Black,True
+603,603,Hyundai,i10,2018,OD14TS4764,Silver,True
+604,604,Honda,Amaze,2022,OD02MS5236,Red,True
+605,605,Maruti Suzuki,Dzire,2025,OD23UE4124,Silver,False
+606,606,Toyota,Etios,2021,OD09TJ2480,Black,True
+607,607,Hyundai,i20,2016,OD03ZM5340,Silver,True
+608,608,Tata,Altroz,2023,OD22HD2907,Blue,True
+609,609,Tata,Tiago,2021,OD23JE9673,White,True
+610,610,Hyundai,i20,2022,OD20EL6456,White,False
+611,611,Toyota,Etios,2024,OD34UO9918,Grey,True
+612,612,Hyundai,i10,2019,OD09FD5081,White,False
+613,613,Maruti Suzuki,Swift,2025,OD21RM7794,Black,True
+614,614,Toyota,Etios,2025,OD34YP3612,Blue,False
+615,615,Hyundai,Aura,2017,OD17ZF6074,Blue,True
+616,616,Honda,Amaze,2025,OD08PV7427,Silver,True
+617,617,Maruti Suzuki,Dzire,2016,OD16GY3994,Blue,True
+618,618,Honda,Amaze,2016,OD21CW1677,Black,False
+619,619,Tata,Tigor,2026,OD06EA3410,Red,True
+620,620,Maruti Suzuki,Swift,2023,OD24JL5449,White,False
+621,621,Tata,Altroz,2023,OD09VW2116,White,True
+622,622,Honda,City,2018,OD30KU1293,White,True
+623,623,Hyundai,i20,2026,OD29II3798,White,True
+624,624,Honda,Amaze,2023,OD35YK5789,Red,True
+625,625,Hyundai,i10,2025,OD24QP3322,Black,True
+626,626,Honda,Amaze,2022,OD04ZC5253,Silver,False
+627,627,Toyota,Glanza,2019,OD09MP2236,Silver,True
+628,628,Toyota,Glanza,2025,OD30AD6979,White,True
+629,629,Toyota,Etios,2023,OD31VE1453,Blue,True
+630,630,Tata,Tiago,2025,OD09BD3535,Blue,True
+631,631,Hyundai,i10,2019,OD10SO1061,Silver,True
+632,632,Honda,City,2024,OD11SD6630,Blue,True
+633,633,Tata,Tiago,2017,OD28GZ8268,White,True
+634,634,Toyota,Glanza,2016,OD30KO5959,Red,True
+635,635,Tata,Tiago,2020,OD30HS7750,Black,False
+636,636,Hyundai,i20,2025,OD06QR4895,Red,True
+637,637,Hyundai,i20,2026,OD31XO4860,Red,False
+638,638,Honda,City,2018,OD17JG6008,Black,True
+639,639,Tata,Altroz,2023,OD34PF7166,Silver,False
+640,640,Maruti Suzuki,Dzire,2022,OD20HQ1704,Black,True
+641,641,Hyundai,i20,2024,OD02UJ3053,Silver,False
+642,642,Toyota,Etios,2016,OD02XB5703,White,True
+643,643,Honda,City,2023,OD15PN3088,Silver,True
+644,644,Honda,City,2018,OD09LI3519,White,True
+645,645,Honda,Amaze,2016,OD06WI1960,White,True
+646,646,Hyundai,i20,2019,OD07WD8538,Black,True
+647,647,Honda,City,2017,OD17PK7899,Blue,True
+648,648,Maruti Suzuki,Baleno,2017,OD34IE4649,Black,True
+649,649,Toyota,Etios,2023,OD20FF9826,Red,True
+650,650,Tata,Altroz,2022,OD27WP8809,White,True
+651,651,Hyundai,Aura,2016,OD11FN3679,Red,True
+652,652,Honda,Amaze,2022,OD21AB4322,Black,True
+653,653,Toyota,Glanza,2026,OD04NJ8426,Grey,True
+654,654,Tata,Tigor,2018,OD29QP5086,Red,True
+655,655,Tata,Tigor,2026,OD04WJ3884,Red,True
+656,656,Maruti Suzuki,Dzire,2025,OD32TE2002,Red,False
+657,657,Honda,City,2020,OD15TG6009,Black,False
+658,658,Toyota,Glanza,2020,OD21GX4001,Red,True
+659,659,Hyundai,Aura,2023,OD15KO4246,Black,True
+660,660,Hyundai,i10,2016,OD31HI6576,Black,True
+661,661,Maruti Suzuki,Swift,2019,OD28JD3928,Black,True
+662,662,Honda,City,2016,OD35LG8514,Black,True
+663,663,Hyundai,i10,2021,OD03KC7549,White,True
+664,664,Hyundai,i10,2021,OD07AP2470,Silver,True
+665,665,Tata,Altroz,2023,OD04ZS5370,Red,True
+666,666,Tata,Tiago,2018,OD20KM6006,White,True
+667,667,Toyota,Glanza,2021,OD24CE6255,Black,True
+668,668,Honda,Amaze,2025,OD06HX6656,White,True
+669,669,Hyundai,Aura,2020,OD17YC8707,White,True
+670,670,Honda,City,2021,OD32DM8081,Black,True
+671,671,Toyota,Glanza,2020,OD27HA8054,White,False
+672,672,Hyundai,i10,2026,OD35VL8087,Black,True
+673,673,Hyundai,i10,2016,OD30NC6122,White,True
+674,674,Hyundai,i10,2021,OD25QZ6873,Red,False
+675,675,Toyota,Etios,2023,OD05JG4535,Red,False
+676,676,Maruti Suzuki,Baleno,2016,OD03DB2288,Silver,False
+677,677,Maruti Suzuki,Swift,2019,OD10PQ9592,Blue,True
+678,678,Toyota,Glanza,2016,OD18ZM2877,Grey,True
+679,679,Toyota,Glanza,2022,OD33PW9776,Red,True
+680,680,Maruti Suzuki,Baleno,2026,OD23NT1749,Silver,True
+681,681,Toyota,Etios,2021,OD26YR9786,Black,False
+682,682,Honda,Amaze,2024,OD03AP3557,Red,False
+683,683,Hyundai,i10,2026,OD08VV5757,Grey,True
+684,684,Hyundai,i20,2019,OD23NJ1290,Grey,True
+685,685,Maruti Suzuki,Baleno,2019,OD04YM8265,Blue,True
+686,686,Maruti Suzuki,Baleno,2020,OD23JT9988,Black,False
+687,687,Honda,Amaze,2020,OD25PI1578,Grey,False
+688,688,Toyota,Etios,2023,OD24CR6531,Grey,True
+689,689,Maruti Suzuki,Dzire,2020,OD23NB6752,Red,True
+690,690,Honda,Amaze,2020,OD16YC9253,White,False
+691,691,Hyundai,Aura,2018,OD02XB3206,Silver,True
+692,692,Honda,City,2019,OD16YP8812,Grey,True
+693,693,Maruti Suzuki,Baleno,2019,OD07MP8881,White,True
+694,694,Honda,Amaze,2021,OD19RP3518,White,True
+695,695,Hyundai,i20,2026,OD04EL5752,Silver,True
+696,696,Maruti Suzuki,Baleno,2016,OD22JS1513,Blue,True
+697,697,Toyota,Glanza,2025,OD32MU8507,Black,False
+698,698,Hyundai,i20,2022,OD07MG1216,Black,True
+699,699,Hyundai,Aura,2019,OD04AA2302,Silver,True
+700,700,Tata,Tiago,2025,OD20TH1290,Grey,True
+701,701,Maruti Suzuki,Dzire,2025,OD27KI7771,Grey,True
+702,702,Toyota,Etios,2019,OD23DQ7186,Black,True
+703,703,Tata,Tiago,2023,OD21UM1912,White,True
+704,704,Hyundai,i10,2016,OD09HJ1638,Silver,False
+705,705,Honda,City,2017,OD12LC7045,Blue,True
+706,706,Tata,Tiago,2024,OD11YQ1196,Silver,True
+707,707,Honda,City,2022,OD03WR2880,Black,True
+708,708,Toyota,Glanza,2023,OD34RJ5512,Grey,True
+709,709,Toyota,Etios,2019,OD27CK3302,Grey,False
+710,710,Toyota,Etios,2024,OD19JJ3544,White,True
+711,711,Hyundai,i20,2024,OD10IR9916,Grey,True
+712,712,Maruti Suzuki,Swift,2023,OD16OC5918,Silver,True
+713,713,Hyundai,i10,2017,OD35BW3498,Grey,False
+714,714,Toyota,Glanza,2020,OD08TY5072,Red,False
+715,715,Maruti Suzuki,Dzire,2017,OD02IO2515,Blue,True
+716,716,Maruti Suzuki,Baleno,2025,OD09XK7199,Red,True
+717,717,Tata,Altroz,2023,OD27RR4463,Silver,True
+718,718,Maruti Suzuki,Swift,2020,OD06IC4244,White,True
+719,719,Maruti Suzuki,Baleno,2026,OD07JA6600,White,True
+720,720,Hyundai,i20,2026,OD08OS1036,Silver,True
+721,721,Honda,Amaze,2024,OD24NA5503,White,False
+722,722,Honda,Amaze,2020,OD33OQ4484,White,True
+723,723,Hyundai,i10,2020,OD23YM5452,Silver,False
+724,724,Hyundai,i10,2023,OD21VP5403,White,False
+725,725,Tata,Tiago,2019,OD14OI5231,Blue,False
+726,726,Maruti Suzuki,Baleno,2019,OD16TD4747,Grey,True
+727,727,Maruti Suzuki,Swift,2026,OD26JC1070,Grey,True
+728,728,Hyundai,i10,2022,OD29LH2070,Red,True
+729,729,Tata,Tigor,2022,OD16CV1593,White,True
+730,730,Toyota,Etios,2026,OD22JN2550,Black,True
+731,731,Hyundai,i20,2016,OD25JA2006,Silver,False
+732,732,Tata,Altroz,2022,OD30TJ7202,Red,True
+733,733,Toyota,Etios,2024,OD05OA5037,Grey,True
+734,734,Maruti Suzuki,Swift,2023,OD30AY2176,Grey,False
+735,735,Hyundai,Aura,2023,OD21SJ4232,Black,True
+736,736,Honda,Amaze,2017,OD05OD7932,White,True
+737,737,Tata,Altroz,2016,OD11CI5695,Silver,True
+738,738,Tata,Tigor,2025,OD28OI4726,Black,True
+739,739,Toyota,Etios,2026,OD27WK7128,Black,True
+740,740,Toyota,Glanza,2023,OD02GX4836,Silver,True
+741,741,Maruti Suzuki,Swift,2020,OD12MU7622,Silver,True
+742,742,Honda,Amaze,2025,OD31UO4856,White,False
+743,743,Hyundai,Aura,2020,OD28WE5473,Blue,False
+744,744,Hyundai,i10,2024,OD23QM6399,Red,True
+745,745,Toyota,Glanza,2023,OD25RO2515,Silver,True
+746,746,Hyundai,i20,2025,OD13ZD8890,Blue,False
+747,747,Honda,Amaze,2022,OD01LL2659,Grey,True
+748,748,Tata,Tigor,2025,OD09DW2989,Grey,True
+749,749,Tata,Tiago,2022,OD13LY5308,Grey,True
+750,750,Honda,Amaze,2025,OD35WT8337,White,True
+751,751,Tata,Altroz,2026,OD21LP1080,Black,True
+752,752,Tata,Altroz,2018,OD31WD9863,Grey,False
+753,753,Toyota,Glanza,2021,OD21ET1897,Silver,True
+754,754,Toyota,Glanza,2022,OD04AB2314,White,True
+755,755,Maruti Suzuki,Dzire,2022,OD05NC8531,Black,True
+756,756,Tata,Altroz,2025,OD33CE2437,Black,True
+757,757,Maruti Suzuki,Baleno,2024,OD33EU4165,Blue,True
+758,758,Honda,Amaze,2026,OD26PE4221,Red,True
+759,759,Maruti Suzuki,Swift,2020,OD17QD9090,Red,False
+760,760,Hyundai,Aura,2022,OD24KX7864,White,True
+761,761,Hyundai,i10,2024,OD09EA7728,Black,True
+762,762,Toyota,Etios,2020,OD08PM2034,Red,True
+763,763,Maruti Suzuki,Swift,2019,OD27IY2906,Red,False
+764,764,Toyota,Glanza,2022,OD33GK2083,Grey,False
+765,765,Honda,City,2016,OD16EH2109,Red,True
+766,766,Hyundai,i20,2018,OD35EU7591,Grey,True
+767,767,Hyundai,i20,2025,OD16OS5260,Blue,True
+768,768,Hyundai,i10,2021,OD12TN5214,Silver,True
+769,769,Toyota,Etios,2019,OD28YW9882,Grey,True
+770,770,Maruti Suzuki,Swift,2020,OD15HB7980,Silver,True
+771,771,Toyota,Glanza,2021,OD32PC6471,Silver,True
+772,772,Toyota,Glanza,2026,OD25WF8888,Blue,False
+773,773,Toyota,Glanza,2018,OD23SD3489,White,True
+774,774,Honda,Amaze,2023,OD11DN3925,Red,False
+775,775,Honda,Amaze,2019,OD10GK9334,Silver,True
+776,776,Toyota,Glanza,2018,OD21LV9023,Grey,True
+777,777,Honda,Amaze,2025,OD23PS6174,Silver,True
+778,778,Toyota,Glanza,2020,OD29IV2398,White,True
+779,779,Honda,Amaze,2022,OD30AG9645,Grey,True
+780,780,Tata,Tigor,2026,OD30ND2694,Black,True
+781,781,Toyota,Etios,2018,OD14GA1236,Blue,True
+782,782,Tata,Tigor,2019,OD03XQ3394,Blue,True
+783,783,Tata,Altroz,2024,OD09QO4656,Black,True
+784,784,Maruti Suzuki,Dzire,2026,OD34QG2363,Black,False
+785,785,Hyundai,Aura,2022,OD23YJ9925,Silver,True
+786,786,Hyundai,i10,2023,OD09AC8359,White,True
+787,787,Hyundai,Aura,2023,OD17VC8157,Red,True
+788,788,Honda,City,2019,OD26KC3572,Blue,True
+789,789,Tata,Tigor,2017,OD02AL2323,White,True
+790,790,Toyota,Etios,2024,OD17WE3110,Grey,True
+791,791,Hyundai,Aura,2016,OD01GN1175,Grey,True
+792,792,Hyundai,i10,2021,OD03EX9666,Black,True
+793,793,Hyundai,Aura,2020,OD10UI4235,Grey,True
+794,794,Hyundai,Aura,2017,OD28YS3319,Blue,True
+795,795,Toyota,Glanza,2022,OD26HD7914,Grey,False
+796,796,Toyota,Etios,2026,OD20AH4380,White,True
+797,797,Tata,Tigor,2020,OD05AM2631,Grey,False
+798,798,Tata,Altroz,2023,OD01AV9955,Silver,True
+799,799,Tata,Altroz,2016,OD07KX2556,Grey,False
+800,800,Tata,Tiago,2025,OD27WF9449,White,True
+801,801,Tata,Tiago,2017,OD23AK1297,Red,False
+802,802,Toyota,Etios,2017,OD13DK3661,Red,True
+803,803,Tata,Tiago,2019,OD11EV1786,Silver,True
+804,804,Honda,City,2026,OD20HL5440,Red,True
+805,805,Tata,Tigor,2022,OD12KX4251,Blue,True
+806,806,Maruti Suzuki,Swift,2017,OD08KY3607,Silver,True
+807,807,Toyota,Etios,2018,OD30OW9901,Blue,True
+808,808,Honda,Amaze,2019,OD06OI9708,Blue,True
+809,809,Hyundai,i10,2020,OD23ZR9314,White,False
+810,810,Maruti Suzuki,Baleno,2022,OD05ZJ3150,Black,True
+811,811,Tata,Altroz,2021,OD19VX6971,Blue,True
+812,812,Maruti Suzuki,Dzire,2021,OD27OK8289,Grey,True
+813,813,Maruti Suzuki,Baleno,2019,OD29SZ9982,Black,True
+814,814,Tata,Tigor,2023,OD27EO5097,Silver,True
+815,815,Maruti Suzuki,Dzire,2016,OD23QS8614,White,True
+816,816,Tata,Altroz,2018,OD12DY4360,Black,False
+817,817,Toyota,Etios,2016,OD01QG5461,Grey,False
+818,818,Maruti Suzuki,Swift,2026,OD33US9457,Blue,True
+819,819,Maruti Suzuki,Baleno,2023,OD18MD2914,Red,True
+820,820,Toyota,Etios,2025,OD09OD6379,Red,False
+821,821,Maruti Suzuki,Swift,2019,OD34VP9863,Blue,True
+822,822,Hyundai,Aura,2021,OD33MQ2718,Blue,True
+823,823,Hyundai,Aura,2023,OD26WH1838,Red,True
+824,824,Maruti Suzuki,Dzire,2019,OD32SJ5869,Silver,True
+825,825,Honda,City,2020,OD18DB8403,Grey,True
+826,826,Honda,Amaze,2022,OD22JU4805,Silver,False
+827,827,Tata,Altroz,2017,OD26AZ5245,Black,True
+828,828,Toyota,Glanza,2025,OD34KU1887,Grey,False
+829,829,Tata,Altroz,2021,OD29QY4653,Red,False
+830,830,Tata,Tigor,2026,OD05MP9622,Silver,True
+831,831,Tata,Altroz,2016,OD32WG1930,Grey,True
+832,832,Honda,City,2022,OD07VU4167,Silver,True
+833,833,Maruti Suzuki,Dzire,2024,OD35GM3567,Black,True
+834,834,Hyundai,Aura,2024,OD21JA4871,Black,False
+835,835,Toyota,Etios,2018,OD22VY1708,Red,True
+836,836,Hyundai,i10,2018,OD26KG3598,Grey,True
+837,837,Tata,Altroz,2026,OD22ZD5665,Blue,False
+838,838,Hyundai,i20,2025,OD04GE3096,Black,True
+839,839,Honda,City,2017,OD19NZ6402,White,True
+840,840,Tata,Tigor,2021,OD23WO1686,Black,True
+841,841,Maruti Suzuki,Dzire,2017,OD31IC4187,Grey,True
+842,842,Tata,Tigor,2025,OD18ZP7416,White,True
+843,843,Maruti Suzuki,Baleno,2025,OD16VT2527,Red,True
+844,844,Honda,Amaze,2022,OD21AO7639,White,True
+845,845,Hyundai,i10,2024,OD16UW1432,Silver,False
+846,846,Tata,Tigor,2022,OD23HV1071,Silver,True
+847,847,Tata,Tigor,2021,OD22BE7682,Black,True
+848,848,Honda,Amaze,2023,OD32PY9829,Blue,True
+849,849,Hyundai,i10,2026,OD09PN4140,Blue,True
+850,850,Tata,Altroz,2022,OD03AQ3915,Red,True
+851,851,Honda,City,2026,OD10NS1284,Black,True
+852,852,Hyundai,i10,2025,OD29LK1382,Grey,True
+853,853,Honda,Amaze,2022,OD30AX2099,Silver,True
+854,854,Hyundai,i10,2016,OD14SG5142,Silver,True
+855,855,Honda,City,2025,OD31FD7265,Black,True
+856,856,Toyota,Glanza,2026,OD16YV4788,Blue,True
+857,857,Toyota,Glanza,2025,OD25ZU3403,White,True
+858,858,Tata,Tiago,2016,OD31CF3839,Grey,True
+859,859,Maruti Suzuki,Baleno,2018,OD10QH8590,Grey,True
+860,860,Hyundai,i20,2016,OD21JT6310,Grey,False
+861,861,Hyundai,Aura,2018,OD04MG3469,Black,True
+862,862,Maruti Suzuki,Swift,2022,OD04JI7815,Red,False
+863,863,Tata,Altroz,2025,OD21EX5435,Grey,False
+864,864,Maruti Suzuki,Baleno,2022,OD02UN5346,Grey,True
+865,865,Tata,Tigor,2018,OD24OG8422,Blue,False
+866,866,Tata,Tigor,2023,OD35IA8233,White,True
+867,867,Honda,City,2023,OD30OY1866,Grey,True
+868,868,Hyundai,Aura,2024,OD33TO3509,Blue,True
+869,869,Hyundai,i20,2024,OD04ZT3233,Blue,True
+870,870,Honda,Amaze,2026,OD25ID8168,White,True
+871,871,Tata,Tiago,2023,OD05UQ7950,White,True
+872,872,Honda,City,2024,OD33AZ4297,White,False
+873,873,Honda,City,2023,OD24UC3364,Grey,True
+874,874,Maruti Suzuki,Swift,2020,OD09RV6914,Black,True
+875,875,Tata,Tiago,2022,OD02CS2402,Blue,True
+876,876,Toyota,Glanza,2024,OD29AW2941,Grey,True
+877,877,Toyota,Etios,2023,OD07LF1645,Grey,False
+878,878,Maruti Suzuki,Baleno,2016,OD31JB5669,Black,True
+879,879,Honda,City,2023,OD25OW3484,Red,True
+880,880,Honda,Amaze,2026,OD04KC2500,White,True
+881,881,Maruti Suzuki,Baleno,2023,OD04DP6932,White,True
+882,882,Maruti Suzuki,Dzire,2016,OD10LV5735,Blue,False
+883,883,Hyundai,Aura,2026,OD15WV3877,White,True
+884,884,Maruti Suzuki,Baleno,2018,OD31LT8755,Silver,False
+885,885,Tata,Altroz,2019,OD28KT8394,Red,True
+886,886,Tata,Tiago,2021,OD10MV5225,Red,True
+887,887,Maruti Suzuki,Dzire,2017,OD26JD6721,Red,True
+888,888,Honda,City,2016,OD24CG4905,Grey,True
+889,889,Honda,City,2022,OD29MR2887,Red,False
+890,890,Maruti Suzuki,Baleno,2021,OD22PY2448,Grey,True
+891,891,Toyota,Glanza,2021,OD34JT7405,Blue,True
+892,892,Tata,Tigor,2025,OD03QB4464,Silver,False
+893,893,Hyundai,i20,2016,OD23OI5350,Silver,True
+894,894,Toyota,Etios,2019,OD12IL4989,Silver,True
+895,895,Honda,Amaze,2017,OD08CW1929,Red,True
+896,896,Maruti Suzuki,Baleno,2020,OD27VN9383,Blue,True
+897,897,Toyota,Glanza,2018,OD05HL7751,White,True
+898,898,Maruti Suzuki,Baleno,2023,OD13UI9714,White,True
+899,899,Hyundai,i10,2026,OD27IE6671,Blue,False
+900,900,Hyundai,i10,2021,OD22JR3686,Blue,False
+901,901,Toyota,Glanza,2025,OD10CY5618,Grey,True
+902,902,Toyota,Etios,2023,OD20MA5828,Black,True
+903,903,Honda,Amaze,2023,OD17VP3953,White,True
+904,904,Honda,Amaze,2023,OD12PK9770,White,True
+905,905,Tata,Tiago,2025,OD12NO8010,Blue,False
+906,906,Toyota,Etios,2023,OD22JI6396,Blue,True
+907,907,Honda,City,2017,OD16IA2893,Blue,True
+908,908,Toyota,Glanza,2022,OD01WK8126,Black,False
+909,909,Tata,Altroz,2017,OD14IM5082,Blue,True
+910,910,Maruti Suzuki,Swift,2020,OD34JZ5826,Grey,True
+911,911,Honda,City,2022,OD08CL7710,Blue,False
+912,912,Hyundai,Aura,2018,OD16BZ8624,White,False
+913,913,Tata,Altroz,2020,OD34AK4802,White,False
+914,914,Maruti Suzuki,Swift,2018,OD29UJ4953,Black,True
+915,915,Hyundai,i20,2026,OD12ZU9061,White,False
+916,916,Hyundai,i20,2020,OD30LN4081,White,True
+917,917,Hyundai,Aura,2017,OD14RW1234,Grey,True
+918,918,Toyota,Etios,2024,OD04MN2270,Silver,True
+919,919,Tata,Altroz,2024,OD22QM7171,Black,True
+920,920,Honda,City,2020,OD06QA3707,Red,True
+921,921,Tata,Tiago,2017,OD11VQ9852,Grey,False
+922,922,Toyota,Glanza,2021,OD18MS9617,Silver,True
+923,923,Toyota,Glanza,2024,OD19OB6379,Black,True
+924,924,Hyundai,i10,2026,OD15VF9853,Blue,False
+925,925,Maruti Suzuki,Baleno,2018,OD14XF1274,Black,False
+926,926,Honda,City,2020,OD09ZO8873,Blue,False
+927,927,Hyundai,i20,2024,OD22FP3359,Blue,False
+928,928,Honda,Amaze,2019,OD10AQ8915,Grey,True
+929,929,Tata,Tigor,2017,OD01NF9797,Black,True
+930,930,Tata,Altroz,2026,OD23YY7033,Grey,True
+931,931,Tata,Tigor,2018,OD13UE8420,Grey,True
+932,932,Maruti Suzuki,Dzire,2021,OD14KQ6840,Red,False
+933,933,Hyundai,i10,2018,OD30HX3073,Black,True
+934,934,Honda,Amaze,2020,OD11ZI1684,Red,True
+935,935,Tata,Tigor,2021,OD19NQ4652,Blue,False
+936,936,Honda,Amaze,2020,OD07DN8809,Blue,True
+937,937,Tata,Altroz,2022,OD19MU8540,Black,False
+938,938,Tata,Tigor,2025,OD01JI9436,Red,True
+939,939,Honda,City,2019,OD14FW3921,Blue,True
+940,940,Hyundai,i20,2024,OD22LR8622,Red,False
+941,941,Maruti Suzuki,Swift,2026,OD28FH5288,Silver,True
+942,942,Hyundai,i20,2020,OD03PN1393,Red,True
+943,943,Hyundai,i10,2017,OD09WB4692,Black,True
+944,944,Maruti Suzuki,Swift,2024,OD32CY7159,Black,True
+945,945,Hyundai,i20,2022,OD04KR2240,White,True
+946,946,Maruti Suzuki,Dzire,2019,OD14OI4239,Silver,False
+947,947,Honda,Amaze,2018,OD29PF9380,Grey,True
+948,948,Tata,Tigor,2021,OD28VT7030,Grey,True
+949,949,Tata,Tigor,2021,OD22TS7076,Silver,True
+950,950,Tata,Tigor,2026,OD16WU7336,Black,True
+951,951,Honda,Amaze,2020,OD33LJ2217,Blue,True
+952,952,Toyota,Etios,2018,OD21EX7012,Black,True
+953,953,Honda,Amaze,2017,OD26UK2577,White,True
+954,954,Maruti Suzuki,Dzire,2021,OD32JW5847,Silver,True
+955,955,Maruti Suzuki,Swift,2016,OD09PU7319,Blue,True
+956,956,Honda,Amaze,2016,OD33XY9960,Black,True
+957,957,Maruti Suzuki,Swift,2021,OD16FX2500,Black,True
+958,958,Tata,Tiago,2018,OD13YN4826,Silver,True
+959,959,Toyota,Etios,2017,OD12ZW2450,Blue,True
+960,960,Tata,Altroz,2026,OD11LP6193,Blue,True
+961,961,Maruti Suzuki,Dzire,2023,OD17CE4877,Black,True
+962,962,Tata,Tigor,2016,OD06RT2424,White,True
+963,963,Tata,Altroz,2019,OD17ZQ7011,Grey,True
+964,964,Hyundai,i10,2025,OD28WF8564,Grey,False
+965,965,Maruti Suzuki,Swift,2023,OD16JE2900,White,True
+966,966,Maruti Suzuki,Swift,2025,OD06WW4339,Blue,True
+967,967,Hyundai,i10,2017,OD19SJ1563,Black,True
+968,968,Toyota,Glanza,2025,OD25VN5948,Silver,True
+969,969,Hyundai,i10,2025,OD07VS1591,Blue,True
+970,970,Maruti Suzuki,Baleno,2019,OD13KM4389,White,False
+971,971,Hyundai,i10,2022,OD26PB5921,Red,True
+972,972,Honda,Amaze,2016,OD14WR2511,Blue,True
+973,973,Toyota,Etios,2020,OD03KA2835,Black,True
+974,974,Hyundai,i10,2019,OD18ZI7027,Grey,True
+975,975,Honda,Amaze,2020,OD34PY7403,Silver,True
+976,976,Honda,City,2021,OD10LW8524,Black,True
+977,977,Maruti Suzuki,Dzire,2019,OD08MA4208,Red,False
+978,978,Toyota,Glanza,2017,OD04KY8200,White,True
+979,979,Toyota,Etios,2019,OD04NM8563,White,True
+980,980,Tata,Altroz,2025,OD18MT7502,Grey,True
+981,981,Hyundai,i10,2019,OD30BA9079,White,True
+982,982,Toyota,Glanza,2016,OD32CI1795,Blue,False
+983,983,Hyundai,i10,2018,OD14JG1501,Grey,True
+984,984,Toyota,Etios,2020,OD19WR9620,Blue,True
+985,985,Toyota,Glanza,2019,OD30KT1085,Blue,False
+986,986,Hyundai,i10,2024,OD21RW3316,Red,True
+987,987,Toyota,Etios,2020,OD23KD4466,Blue,True
+988,988,Toyota,Etios,2016,OD14JQ3704,Black,False
+989,989,Honda,Amaze,2024,OD32GM4154,Black,True
+990,990,Toyota,Glanza,2016,OD17WH7737,Silver,False
+991,991,Tata,Altroz,2020,OD27NZ5480,Blue,False
+992,992,Honda,City,2017,OD26HP2447,Black,True
+993,993,Honda,Amaze,2017,OD30KL3763,Blue,False
+994,994,Honda,City,2016,OD08IL9411,Silver,True
+995,995,Toyota,Glanza,2017,OD18IZ2302,Silver,False
+996,996,Hyundai,Aura,2017,OD20WG7213,White,True
+997,997,Honda,City,2017,OD07JM1508,Black,False
+998,998,Maruti Suzuki,Swift,2024,OD11MX1362,Silver,True
+999,999,Tata,Altroz,2026,OD18ML5230,Black,False
+1000,1000,Toyota,Glanza,2022,OD33YI4792,Grey,False
+1001,1001,Maruti Suzuki,Dzire,2016,OD13JZ5467,Red,True
+1002,1002,Tata,Tigor,2025,OD23VN7946,White,True
+1003,1003,Hyundai,i10,2017,OD06TN3255,Black,False
+1004,1004,Hyundai,i10,2024,OD25ZS8726,Silver,True
+1005,1005,Maruti Suzuki,Baleno,2023,OD14MZ9689,Black,True
+1006,1006,Maruti Suzuki,Baleno,2021,OD29AZ4173,Silver,True
+1007,1007,Toyota,Glanza,2022,OD24BR2859,White,True
+1008,1008,Honda,City,2016,OD16IQ5126,Blue,True
+1009,1009,Hyundai,Aura,2023,OD30BA7880,Black,False
+1010,1010,Toyota,Etios,2026,OD22WD5995,Black,True
+1011,1011,Tata,Tigor,2025,OD25NS6395,Silver,True
+1012,1012,Maruti Suzuki,Baleno,2023,OD23NE8776,Silver,True
+1013,1013,Toyota,Glanza,2016,OD08NX2095,Red,False
+1014,1014,Hyundai,i20,2020,OD30SV5662,Red,True
+1015,1015,Toyota,Glanza,2019,OD21VD7705,Red,True
+1016,1016,Toyota,Glanza,2018,OD28IX9427,Blue,False
+1017,1017,Maruti Suzuki,Baleno,2026,OD03BC8290,White,False
+1018,1018,Toyota,Glanza,2018,OD19UU6535,Grey,False
+1019,1019,Maruti Suzuki,Baleno,2019,OD03IY5943,Blue,True
+1020,1020,Maruti Suzuki,Baleno,2020,OD12UW5017,Silver,True
+1021,1021,Hyundai,Aura,2019,OD14PF9763,Grey,True
+1022,1022,Honda,City,2025,OD08VG1790,Black,False
+1023,1023,Tata,Tigor,2020,OD30WP2570,White,True
+1024,1024,Toyota,Glanza,2017,OD34OB9548,Blue,True
+1025,1025,Maruti Suzuki,Baleno,2016,OD32XS2979,White,False
+1026,1026,Maruti Suzuki,Swift,2020,OD26II7255,Red,True
+1027,1027,Maruti Suzuki,Baleno,2024,OD16BY8495,Silver,True
+1028,1028,Hyundai,Aura,2020,OD32GX9457,Blue,True
+1029,1029,Hyundai,i10,2023,OD31JR9119,Grey,True
+1030,1030,Maruti Suzuki,Dzire,2024,OD08UE6580,Black,True
+1031,1031,Tata,Tiago,2018,OD06YU1504,Blue,True
+1032,1032,Hyundai,i20,2023,OD04TN7649,Grey,True
+1033,1033,Hyundai,Aura,2022,OD24XG9999,Black,True
+1034,1034,Honda,Amaze,2022,OD20MY9677,Black,True
+1035,1035,Maruti Suzuki,Swift,2019,OD31AY1346,Grey,True
+1036,1036,Hyundai,i20,2024,OD04QU9390,Red,False
+1037,1037,Honda,Amaze,2018,OD03PZ1575,Blue,True
+1038,1038,Tata,Altroz,2020,OD10VW8130,Grey,True
+1039,1039,Toyota,Etios,2022,OD12TN6695,White,False
+1040,1040,Tata,Altroz,2020,OD22MK8235,Black,False
+1041,1041,Honda,City,2021,OD18CY9353,Black,True
+1042,1042,Honda,City,2023,OD31SL1057,White,True
+1043,1043,Tata,Tigor,2018,OD10BF8167,Black,False
+1044,1044,Toyota,Glanza,2016,OD14EX7372,Red,True
+1045,1045,Tata,Tiago,2021,OD29HH1165,Blue,True
+1046,1046,Honda,City,2016,OD25HK2417,Grey,True
+1047,1047,Hyundai,Aura,2018,OD18OM8841,Silver,True
+1048,1048,Hyundai,i20,2024,OD13PY1405,White,True
+1049,1049,Hyundai,i20,2022,OD14GE9070,Grey,True
+1050,1050,Hyundai,i20,2018,OD10RL7557,Black,True
+1051,1051,Honda,Amaze,2019,OD32VF4051,Silver,True
+1052,1052,Maruti Suzuki,Swift,2019,OD15WP1871,White,True
+1053,1053,Hyundai,Aura,2019,OD17BG8303,White,True
+1054,1054,Hyundai,i10,2019,OD13VD9804,Blue,True
+1055,1055,Toyota,Etios,2021,OD26UY2351,Black,True
+1056,1056,Honda,Amaze,2020,OD30HO2655,Blue,True
+1057,1057,Maruti Suzuki,Dzire,2022,OD25RA7326,Silver,True
+1058,1058,Tata,Tigor,2020,OD10DL9019,Red,True
+1059,1059,Honda,Amaze,2022,OD19AK4379,Red,True
+1060,1060,Honda,Amaze,2026,OD28QQ6941,Blue,True
+1061,1061,Tata,Altroz,2018,OD34RG1622,Black,False
+1062,1062,Toyota,Etios,2026,OD34GV4460,White,True
+1063,1063,Maruti Suzuki,Swift,2018,OD07TQ7129,Blue,False
+1064,1064,Tata,Tigor,2017,OD02EK1191,Grey,False
+1065,1065,Honda,City,2026,OD03MU8499,Black,True
+1066,1066,Honda,City,2023,OD06JS9714,Grey,True
+1067,1067,Hyundai,Aura,2025,OD23XT2458,Red,True
+1068,1068,Hyundai,Aura,2021,OD12JE8695,Grey,True
+1069,1069,Hyundai,i10,2021,OD23SY7560,Black,False
+1070,1070,Tata,Tiago,2025,OD27HT5213,Blue,True
+1071,1071,Toyota,Etios,2016,OD13RS6699,Silver,True
+1072,1072,Honda,City,2022,OD24GC8699,White,False
+1073,1073,Hyundai,i10,2016,OD10XC1257,Red,True
+1074,1074,Honda,Amaze,2022,OD25HV3748,Silver,False
+1075,1075,Honda,Amaze,2018,OD11XG5670,Blue,False
+1076,1076,Tata,Altroz,2019,OD05NV7413,White,True
+1077,1077,Toyota,Glanza,2016,OD01JR9509,Grey,False
+1078,1078,Maruti Suzuki,Baleno,2023,OD14XE7772,Silver,True
+1079,1079,Honda,Amaze,2026,OD31QL6948,Red,True
+1080,1080,Maruti Suzuki,Dzire,2022,OD04ZT1380,Blue,True
+1081,1081,Honda,Amaze,2022,OD19YW6992,Red,True
+1082,1082,Maruti Suzuki,Dzire,2021,OD32HW5454,Grey,False
+1083,1083,Toyota,Etios,2020,OD32ZG4830,Blue,False
+1084,1084,Toyota,Glanza,2021,OD09QS1491,Red,True
+1085,1085,Honda,City,2021,OD06RG8249,Blue,True
+1086,1086,Honda,City,2017,OD34YR9232,Black,False
+1087,1087,Tata,Tiago,2020,OD23BT7607,Blue,True
+1088,1088,Toyota,Glanza,2024,OD03MF6298,White,True
+1089,1089,Hyundai,i10,2024,OD25IM3709,Silver,True
+1090,1090,Tata,Tiago,2021,OD17QM6406,Black,True
+1091,1091,Hyundai,i10,2026,OD23MB4852,Blue,False
+1092,1092,Maruti Suzuki,Swift,2024,OD35BG6408,Silver,False
+1093,1093,Toyota,Etios,2022,OD28AJ1960,Black,False
+1094,1094,Honda,City,2023,OD18ON3007,Red,True
+1095,1095,Honda,Amaze,2018,OD12DZ6538,White,True
+1096,1096,Toyota,Etios,2021,OD23RZ7697,Red,True
+1097,1097,Toyota,Glanza,2016,OD20DK9538,Blue,True
+1098,1098,Hyundai,i10,2021,OD09RN7571,White,True
+1099,1099,Hyundai,Aura,2021,OD21XA1424,Black,True
+1100,1100,Honda,Amaze,2024,OD01DA2123,Black,True
+1101,1101,Tata,Tigor,2017,OD35CL1897,Grey,True
+1102,1102,Toyota,Etios,2025,OD08GM7122,White,True
+1103,1103,Tata,Tiago,2025,OD07VX4647,Blue,False
+1104,1104,Toyota,Etios,2017,OD33NZ9068,White,False
+1105,1105,Maruti Suzuki,Baleno,2016,OD20TE4342,Red,True
+1106,1106,Toyota,Etios,2016,OD32WD7923,White,True
+1107,1107,Toyota,Glanza,2019,OD09CY4190,Silver,True
+1108,1108,Hyundai,i10,2016,OD17BV1854,Black,False
+1109,1109,Maruti Suzuki,Dzire,2023,OD24QR6714,Grey,True
+1110,1110,Honda,City,2024,OD01MM2740,White,True
+1111,1111,Honda,Amaze,2016,OD15BM7071,White,False
+1112,1112,Tata,Tigor,2026,OD06FD2931,Blue,False
+1113,1113,Maruti Suzuki,Baleno,2017,OD35CD3158,Red,True
+1114,1114,Toyota,Glanza,2019,OD04FK6851,Blue,False
+1115,1115,Toyota,Glanza,2016,OD28ZE4623,White,True
+1116,1116,Tata,Altroz,2022,OD33WT2727,White,False
+1117,1117,Maruti Suzuki,Baleno,2022,OD04JL1505,Silver,True
+1118,1118,Maruti Suzuki,Swift,2018,OD04GZ7917,White,True
+1119,1119,Honda,City,2017,OD01II7669,White,True
+1120,1120,Toyota,Etios,2017,OD17BZ4868,Silver,False
+1121,1121,Toyota,Etios,2020,OD18SL1488,Grey,True
+1122,1122,Toyota,Etios,2024,OD03NE8483,Silver,True
+1123,1123,Honda,City,2025,OD15VT9951,Silver,True
+1124,1124,Honda,City,2018,OD18CJ3344,Red,True
+1125,1125,Tata,Altroz,2021,OD30UO8062,Black,True
+1126,1126,Hyundai,Aura,2026,OD35JO7655,Grey,True
+1127,1127,Toyota,Etios,2019,OD03DM5680,Grey,True
+1128,1128,Toyota,Etios,2017,OD31JV7149,Blue,True
+1129,1129,Toyota,Glanza,2018,OD25ET8307,Grey,True
+1130,1130,Maruti Suzuki,Dzire,2022,OD09YX9849,Grey,False
+1131,1131,Maruti Suzuki,Swift,2020,OD34EI7553,Blue,False
+1132,1132,Honda,Amaze,2017,OD26LM3578,Grey,False
+1133,1133,Tata,Tiago,2018,OD05LP3164,Black,True
+1134,1134,Hyundai,i20,2018,OD18FG6573,Black,True
+1135,1135,Honda,Amaze,2016,OD34KX9560,Blue,True
+1136,1136,Toyota,Etios,2017,OD29FD6930,White,True
+1137,1137,Hyundai,i10,2026,OD24XH6414,Black,True
+1138,1138,Hyundai,Aura,2017,OD33IL7778,White,True
+1139,1139,Toyota,Glanza,2020,OD10HE3078,Red,True
+1140,1140,Maruti Suzuki,Baleno,2017,OD10SI5229,Red,True
+1141,1141,Maruti Suzuki,Dzire,2026,OD05IA9818,Grey,True
+1142,1142,Tata,Altroz,2019,OD30PS9912,Black,True
+1143,1143,Maruti Suzuki,Swift,2017,OD08NQ3412,Black,True
+1144,1144,Hyundai,i20,2025,OD34CQ2786,Red,True
+1145,1145,Maruti Suzuki,Baleno,2025,OD25EJ3664,Grey,True
+1146,1146,Honda,City,2019,OD22LQ8757,Grey,True
+1147,1147,Tata,Tiago,2022,OD14YW5923,Blue,True
+1148,1148,Hyundai,Aura,2023,OD10KJ5840,Red,True
+1149,1149,Hyundai,Aura,2021,OD13KD2107,Grey,True
+1150,1150,Toyota,Glanza,2021,OD03HI6511,Silver,True
+1151,1151,Toyota,Glanza,2024,OD31FA5292,Grey,False
+1152,1152,Honda,City,2022,OD25WB9720,Black,False
+1153,1153,Tata,Tigor,2024,OD29CX3119,White,False
+1154,1154,Tata,Tiago,2017,OD14WM6896,Blue,True
+1155,1155,Maruti Suzuki,Dzire,2018,OD26ED1564,Grey,True
+1156,1156,Maruti Suzuki,Dzire,2020,OD15AU2995,White,False
+1157,1157,Maruti Suzuki,Dzire,2020,OD23ES7257,Silver,True
+1158,1158,Honda,City,2020,OD14GC8845,White,True
+1159,1159,Tata,Tiago,2019,OD16IZ8387,Black,False
+1160,1160,Toyota,Etios,2016,OD06AY1748,Red,True
+1161,1161,Tata,Tiago,2020,OD20TT9131,Silver,True
+1162,1162,Toyota,Etios,2026,OD05XQ9576,Blue,True
+1163,1163,Honda,City,2016,OD09DL3514,Grey,True
+1164,1164,Hyundai,i20,2022,OD15QE9045,Silver,True
+1165,1165,Hyundai,i10,2017,OD11FF4753,Blue,True
+1166,1166,Tata,Altroz,2016,OD29AJ8380,Black,True
+1167,1167,Tata,Altroz,2024,OD14ZM8591,Silver,False
+1168,1168,Honda,City,2020,OD01OA4623,Grey,False
+1169,1169,Honda,City,2022,OD01AV8361,Grey,True
+1170,1170,Hyundai,Aura,2018,OD08FZ9827,Black,True
+1171,1171,Toyota,Glanza,2024,OD27RF8876,Blue,True
+1172,1172,Honda,Amaze,2022,OD17WZ4530,Blue,True
+1173,1173,Hyundai,i10,2020,OD24US8059,Blue,True
+1174,1174,Maruti Suzuki,Dzire,2022,OD26BI9897,Silver,True
+1175,1175,Maruti Suzuki,Swift,2019,OD17UI4368,Silver,True
+1176,1176,Toyota,Glanza,2017,OD34VJ8094,Silver,True
+1177,1177,Hyundai,i20,2018,OD08AM4850,Grey,True
+1178,1178,Honda,Amaze,2020,OD15ZM5135,Red,True
+1179,1179,Maruti Suzuki,Baleno,2022,OD22SL6921,Red,True
+1180,1180,Toyota,Etios,2018,OD05TH9186,Blue,True
+1181,1181,Maruti Suzuki,Swift,2022,OD13WM6512,Blue,False
+1182,1182,Hyundai,i20,2022,OD30NQ9067,Grey,False
+1183,1183,Tata,Altroz,2019,OD24ZR7965,White,True
+1184,1184,Tata,Tiago,2023,OD17TC6669,Black,True
+1185,1185,Toyota,Etios,2018,OD28ZP3134,Black,True
+1186,1186,Toyota,Glanza,2026,OD32MD6952,White,True
+1187,1187,Maruti Suzuki,Swift,2017,OD15TD6477,Silver,True
+1188,1188,Tata,Tigor,2018,OD13NI9182,Blue,True
+1189,1189,Maruti Suzuki,Dzire,2025,OD01CA9594,Grey,True
+1190,1190,Honda,City,2023,OD02JU2467,Silver,False
+1191,1191,Hyundai,Aura,2026,OD02MO7240,Grey,True
+1192,1192,Honda,City,2018,OD03SV7461,White,True
+1193,1193,Hyundai,i10,2023,OD12NJ4665,Red,True
+1194,1194,Maruti Suzuki,Dzire,2024,OD25SS8189,Black,True
+1195,1195,Tata,Altroz,2023,OD07VY6964,Silver,False
+1196,1196,Toyota,Glanza,2018,OD32OA2942,White,True
+1197,1197,Tata,Altroz,2025,OD07OV9177,Black,True
+1198,1198,Honda,Amaze,2025,OD28QK7656,Blue,False
+1199,1199,Maruti Suzuki,Swift,2024,OD22VT8770,Black,True
+1200,1200,Toyota,Etios,2023,OD19GW4187,Grey,True
+1201,1201,Tata,Tigor,2016,OD11MG3463,Grey,False
+1202,1202,Honda,City,2021,OD26ZZ5322,Red,True
+1203,1203,Toyota,Etios,2026,OD25MT5248,Blue,True
+1204,1204,Honda,Amaze,2021,OD23UZ4909,Silver,False
+1205,1205,Tata,Tigor,2026,OD03WU3125,Silver,True
+1206,1206,Tata,Tiago,2023,OD32FT1091,Blue,True
+1207,1207,Toyota,Etios,2021,OD15UT5238,Silver,True
+1208,1208,Hyundai,i20,2021,OD18RB8897,Blue,True
+1209,1209,Tata,Tiago,2024,OD14GX9743,Silver,False
+1210,1210,Toyota,Glanza,2018,OD08HN7222,Silver,True
+1211,1211,Tata,Tiago,2023,OD15OG1907,Silver,True
+1212,1212,Tata,Tiago,2022,OD14FZ5219,White,True
+1213,1213,Maruti Suzuki,Swift,2018,OD27LQ4775,Blue,False
+1214,1214,Toyota,Etios,2019,OD13JM8655,Silver,False
+1215,1215,Tata,Altroz,2022,OD28XB5057,Black,True
+1216,1216,Honda,Amaze,2025,OD31ID6499,Blue,True
+1217,1217,Maruti Suzuki,Baleno,2025,OD19CB2454,White,True
+1218,1218,Honda,City,2016,OD31ZR2805,Red,True
+1219,1219,Maruti Suzuki,Dzire,2020,OD34IS8560,Grey,False
+1220,1220,Hyundai,Aura,2019,OD16AN2428,Silver,True
+1221,1221,Hyundai,i20,2023,OD24IW8750,Blue,True
+1222,1222,Tata,Tiago,2021,OD12NB4042,Grey,True
+1223,1223,Honda,City,2021,OD28YP1990,Grey,True
+1224,1224,Toyota,Glanza,2018,OD12HX7539,White,True
+1225,1225,Toyota,Glanza,2018,OD13PO5154,Silver,True
+1226,1226,Maruti Suzuki,Baleno,2019,OD16PN9200,Grey,True
+1227,1227,Tata,Altroz,2024,OD01PS2083,White,False
+1228,1228,Tata,Tiago,2016,OD28IB9125,White,False
+1229,1229,Toyota,Glanza,2024,OD20OQ5405,Blue,True
+1230,1230,Maruti Suzuki,Swift,2020,OD34YL8576,Black,False
+1231,1231,Tata,Altroz,2020,OD01JI3118,Grey,True
+1232,1232,Toyota,Glanza,2025,OD01GD8400,Blue,True
+1233,1233,Honda,City,2019,OD06NP9507,Silver,True
+1234,1234,Tata,Tigor,2016,OD21XS4532,White,True
+1235,1235,Hyundai,Aura,2016,OD30UL8138,White,True
+1236,1236,Hyundai,i20,2025,OD04DX6924,Black,True
+1237,1237,Maruti Suzuki,Swift,2025,OD26MG4587,White,True
+1238,1238,Hyundai,i20,2022,OD23IA5011,White,False
+1239,1239,Toyota,Glanza,2021,OD18ZZ1985,Black,False
+1240,1240,Hyundai,i10,2016,OD08EU6853,Black,True
+1241,1241,Toyota,Etios,2016,OD02JE4284,White,True
+1242,1242,Maruti Suzuki,Baleno,2022,OD34EZ1908,Silver,True
+1243,1243,Maruti Suzuki,Baleno,2019,OD04LJ9694,Silver,False
+1244,1244,Hyundai,Aura,2021,OD29YP8324,Black,True
+1245,1245,Tata,Altroz,2021,OD21HQ2719,Silver,True
+1246,1246,Toyota,Glanza,2023,OD10VG9441,Black,False
+1247,1247,Tata,Tiago,2025,OD23DQ6624,Black,True
+1248,1248,Tata,Altroz,2023,OD27YQ9617,Red,True
+1249,1249,Tata,Tigor,2025,OD03HB9409,White,False
+1250,1250,Toyota,Etios,2020,OD17XQ8429,Grey,True
+1251,1251,Tata,Tiago,2020,OD33RJ2886,Red,True
+1252,1252,Maruti Suzuki,Baleno,2025,OD09UI5720,Grey,True
+1253,1253,Maruti Suzuki,Swift,2021,OD02ON6916,Silver,True
+1254,1254,Toyota,Glanza,2021,OD22QQ2274,White,True
+1255,1255,Hyundai,i20,2023,OD22JO8405,Red,False
+1256,1256,Honda,City,2021,OD12LJ2924,Black,True
+1257,1257,Toyota,Etios,2018,OD19XS5068,Grey,False
+1258,1258,Toyota,Glanza,2016,OD32BW5669,Silver,True
+1259,1259,Toyota,Etios,2024,OD20SW7816,Grey,True
+1260,1260,Maruti Suzuki,Dzire,2022,OD09GV6585,Grey,False
+1261,1261,Maruti Suzuki,Swift,2021,OD24SH6628,White,True
+1262,1262,Honda,City,2023,OD17TX1341,Grey,True
+1263,1263,Maruti Suzuki,Swift,2018,OD32EV8908,Grey,True
+1264,1264,Hyundai,i10,2020,OD24DW4308,Silver,True
+1265,1265,Honda,Amaze,2016,OD22JL6511,Blue,True
+1266,1266,Tata,Tigor,2021,OD22LN4069,White,False
+1267,1267,Toyota,Glanza,2019,OD24ZV8924,Red,False
+1268,1268,Honda,Amaze,2024,OD23YA5940,Red,True
+1269,1269,Maruti Suzuki,Baleno,2022,OD04JG2301,Grey,True
+1270,1270,Tata,Tigor,2026,OD31RK3599,White,False
+1271,1271,Toyota,Glanza,2019,OD26RM1757,Blue,True
+1272,1272,Maruti Suzuki,Baleno,2026,OD27BQ9481,Blue,True
+1273,1273,Maruti Suzuki,Swift,2016,OD24LZ4226,Blue,True
+1274,1274,Maruti Suzuki,Swift,2021,OD14FB3650,Grey,True
+1275,1275,Maruti Suzuki,Swift,2025,OD13VV4888,Red,True
+1276,1276,Toyota,Etios,2019,OD32SB4030,White,True
+1277,1277,Toyota,Etios,2024,OD11UC9721,Blue,True
+1278,1278,Toyota,Etios,2020,OD29QD7753,Grey,False
+1279,1279,Honda,Amaze,2020,OD09XA9907,Black,True
+1280,1280,Toyota,Glanza,2018,OD19FX7631,Grey,True
+1281,1281,Honda,City,2018,OD27JI1491,Silver,False
+1282,1282,Toyota,Glanza,2026,OD11YP8112,Grey,True
+1283,1283,Honda,City,2024,OD06VW8772,Grey,True
+1284,1284,Tata,Altroz,2025,OD11JM9625,Grey,True
+1285,1285,Tata,Tigor,2022,OD14ZS6487,Black,True
+1286,1286,Tata,Tigor,2022,OD26JU3362,Black,True
+1287,1287,Maruti Suzuki,Swift,2026,OD25ZZ1182,Blue,False
+1288,1288,Tata,Altroz,2022,OD25NV9509,White,True
+1289,1289,Toyota,Glanza,2018,OD10HV3234,Silver,False
+1290,1290,Toyota,Etios,2018,OD12BH8662,Black,True
+1291,1291,Honda,City,2016,OD25VW2053,Black,False
+1292,1292,Honda,City,2024,OD21PQ5007,White,True
+1293,1293,Tata,Tigor,2025,OD25VZ6333,Red,False
+1294,1294,Honda,City,2023,OD33MR1034,White,True
+1295,1295,Tata,Tiago,2018,OD26UX8847,Red,False
+1296,1296,Tata,Altroz,2020,OD17GN4673,Black,False
+1297,1297,Maruti Suzuki,Dzire,2022,OD07IN6818,Black,True
+1298,1298,Tata,Tiago,2016,OD04JE2438,Red,False
+1299,1299,Honda,City,2023,OD07LE1830,Black,True
+1300,1300,Maruti Suzuki,Baleno,2025,OD06SQ6695,Red,True
+1301,1301,Tata,Tigor,2021,OD07HH6187,Blue,True
+1302,1302,Maruti Suzuki,Baleno,2017,OD17GF4044,Red,False
+1303,1303,Honda,City,2019,OD12PV1780,Silver,True
+1304,1304,Hyundai,i10,2024,OD07AM1664,Red,True
+1305,1305,Honda,Amaze,2016,OD24EE2335,Blue,True
+1306,1306,Tata,Tigor,2026,OD19SY7658,Silver,True
+1307,1307,Tata,Tiago,2023,OD02WF6756,Blue,False
+1308,1308,Maruti Suzuki,Swift,2020,OD14KQ4174,White,True
+1309,1309,Maruti Suzuki,Baleno,2023,OD31XX7001,White,True
+1310,1310,Maruti Suzuki,Dzire,2017,OD01TY3509,Black,True
+1311,1311,Honda,City,2020,OD22ZG8535,White,True
+1312,1312,Honda,Amaze,2018,OD03JH2354,Blue,True
+1313,1313,Honda,City,2019,OD06FN7962,Grey,True
+1314,1314,Honda,Amaze,2018,OD15GM2416,Grey,True
+1315,1315,Tata,Altroz,2016,OD27YE5104,Grey,True
+1316,1316,Tata,Tigor,2018,OD27OE1887,Red,True
+1317,1317,Honda,City,2016,OD10OX6145,White,True
+1318,1318,Maruti Suzuki,Dzire,2026,OD28RP1682,Grey,True
+1319,1319,Tata,Tigor,2017,OD05FC9561,White,False
+1320,1320,Honda,Amaze,2018,OD16LZ4074,Blue,True
+1321,1321,Hyundai,i10,2026,OD24IQ5618,Red,True
+1322,1322,Maruti Suzuki,Dzire,2021,OD31BO5862,Black,True
+1323,1323,Maruti Suzuki,Baleno,2024,OD15BE5446,Black,False
+1324,1324,Tata,Tigor,2024,OD22UV6421,Red,True
+1325,1325,Toyota,Glanza,2018,OD03JC2061,Silver,True
+1326,1326,Toyota,Glanza,2021,OD07BT4626,Black,True
+1327,1327,Honda,City,2019,OD15NG4901,White,True
+1328,1328,Honda,City,2020,OD13OW1867,White,True
+1329,1329,Maruti Suzuki,Dzire,2020,OD15OO1540,Red,True
+1330,1330,Maruti Suzuki,Dzire,2016,OD18OB2823,Black,True
+1331,1331,Toyota,Glanza,2024,OD15GU8711,White,False
+1332,1332,Toyota,Etios,2022,OD34DO7202,Blue,False
+1333,1333,Tata,Tiago,2021,OD07PX4878,Red,True
+1334,1334,Maruti Suzuki,Baleno,2017,OD04VL6948,Blue,True
+1335,1335,Honda,Amaze,2019,OD05PS4471,Grey,True
+1336,1336,Honda,Amaze,2024,OD17XJ1707,Grey,True
+1337,1337,Tata,Tigor,2018,OD22SG7039,Grey,True
+1338,1338,Honda,City,2021,OD01SI7421,Black,True
+1339,1339,Honda,City,2022,OD10UX3986,Grey,True
+1340,1340,Toyota,Glanza,2022,OD02YE7275,Red,True
+1341,1341,Maruti Suzuki,Baleno,2022,OD33AX2925,White,True
+1342,1342,Honda,Amaze,2025,OD05SI1057,Blue,True
+1343,1343,Honda,Amaze,2016,OD13EP7655,Red,True
+1344,1344,Toyota,Glanza,2021,OD34OO9043,Grey,True
+1345,1345,Maruti Suzuki,Dzire,2026,OD30EW7319,Blue,True
+1346,1346,Maruti Suzuki,Swift,2025,OD22NU7573,Silver,False
+1347,1347,Maruti Suzuki,Dzire,2023,OD13UK6931,Grey,True
+1348,1348,Toyota,Glanza,2018,OD03LD4353,Silver,False
+1349,1349,Hyundai,Aura,2025,OD30ZJ9694,Red,True
+1350,1350,Tata,Tiago,2016,OD32LD7953,Grey,True
+1351,1351,Toyota,Etios,2026,OD31GL9869,White,True
+1352,1352,Maruti Suzuki,Dzire,2023,OD17QO5622,Grey,False
+1353,1353,Toyota,Glanza,2021,OD22UR6028,Black,True
+1354,1354,Tata,Tigor,2025,OD31YD3907,Silver,True
+1355,1355,Maruti Suzuki,Swift,2025,OD13BW7225,Silver,False
+1356,1356,Toyota,Glanza,2018,OD25ZP2833,Blue,True
+1357,1357,Toyota,Etios,2025,OD13GL4915,Red,True
+1358,1358,Hyundai,Aura,2017,OD16YR8837,Blue,True
+1359,1359,Maruti Suzuki,Dzire,2026,OD26QE9447,Red,False
+1360,1360,Tata,Tiago,2019,OD22KF7939,Red,True
+1361,1361,Maruti Suzuki,Swift,2025,OD18YR9043,Silver,False
+1362,1362,Toyota,Glanza,2017,OD12RF7606,Blue,True
+1363,1363,Tata,Altroz,2021,OD08OH3706,Black,True
+1364,1364,Toyota,Glanza,2017,OD29UO9367,Grey,True
+1365,1365,Maruti Suzuki,Swift,2025,OD18VX8198,Silver,True
+1366,1366,Tata,Tigor,2023,OD32XP2292,Grey,True
+1367,1367,Hyundai,i10,2018,OD20GJ6230,Black,True
+1368,1368,Hyundai,Aura,2017,OD05WK9109,Silver,True
+1369,1369,Toyota,Glanza,2023,OD11BT5451,Blue,True
+1370,1370,Hyundai,i20,2025,OD24OU6772,Grey,True
+1371,1371,Toyota,Etios,2019,OD13SD7667,Blue,False
+1372,1372,Honda,Amaze,2024,OD35KK1271,Grey,True
+1373,1373,Hyundai,Aura,2026,OD18IZ2739,White,True
+1374,1374,Maruti Suzuki,Dzire,2018,OD32YX8765,Silver,True
+1375,1375,Tata,Tigor,2025,OD10DA2749,Blue,True
+1376,1376,Toyota,Etios,2025,OD08GE5020,Silver,False
+1377,1377,Tata,Tiago,2024,OD20ZQ2270,White,True
+1378,1378,Tata,Altroz,2023,OD03GJ8504,Silver,False
+1379,1379,Maruti Suzuki,Baleno,2017,OD27JV3643,Grey,True
+1380,1380,Tata,Tigor,2021,OD19NF1053,Black,True
+1381,1381,Hyundai,i20,2020,OD25TW3779,Black,True
+1382,1382,Toyota,Etios,2016,OD32CY8287,Black,True
+1383,1383,Hyundai,i20,2022,OD25BZ6579,Silver,False
+1384,1384,Maruti Suzuki,Baleno,2026,OD04NB5093,Blue,True
+1385,1385,Maruti Suzuki,Dzire,2025,OD23DM4111,Silver,True
+1386,1386,Maruti Suzuki,Dzire,2026,OD06XF1007,Black,True
+1387,1387,Tata,Altroz,2017,OD32KM2103,Grey,True
+1388,1388,Toyota,Etios,2022,OD17VC9663,Red,True
+1389,1389,Tata,Tiago,2019,OD14VG8122,Grey,True
+1390,1390,Maruti Suzuki,Swift,2024,OD22TZ2103,Silver,False
+1391,1391,Tata,Altroz,2017,OD29UT2620,Red,True
+1392,1392,Honda,Amaze,2025,OD04WK3911,Red,True
+1393,1393,Toyota,Glanza,2018,OD06SD2681,Red,True
+1394,1394,Hyundai,Aura,2025,OD18QD5754,White,True
+1395,1395,Maruti Suzuki,Swift,2019,OD33LW7500,Blue,True
+1396,1396,Toyota,Glanza,2020,OD11NK3520,White,True
+1397,1397,Hyundai,Aura,2016,OD07OJ1703,Black,True
+1398,1398,Toyota,Etios,2020,OD28TQ9413,Blue,False
+1399,1399,Honda,City,2025,OD20RC9887,Black,False
+1400,1400,Hyundai,Aura,2017,OD16VM8488,Red,True
+1401,1401,Toyota,Glanza,2022,OD20IW3027,Silver,True
+1402,1402,Hyundai,Aura,2017,OD02DD4124,White,True
+1403,1403,Hyundai,i10,2017,OD23MR3798,Black,True
+1404,1404,Hyundai,Aura,2020,OD01XE3417,Red,True
+1405,1405,Honda,Amaze,2022,OD31CU4976,Black,True
+1406,1406,Hyundai,i20,2019,OD17FH9796,Grey,False
+1407,1407,Maruti Suzuki,Dzire,2023,OD25AJ3205,Blue,True
+1408,1408,Toyota,Etios,2026,OD28WM8696,Silver,True
+1409,1409,Toyota,Etios,2023,OD09CB8353,Red,True
+1410,1410,Hyundai,i20,2016,OD02HG1586,Silver,True
+1411,1411,Maruti Suzuki,Baleno,2026,OD32EJ8568,Black,True
+1412,1412,Tata,Tiago,2022,OD23JC8157,Red,True
+1413,1413,Toyota,Glanza,2023,OD28YX4832,Blue,True
+1414,1414,Hyundai,i10,2024,OD07ZR3773,Blue,True
+1415,1415,Honda,Amaze,2026,OD11YO9999,Red,False
+1416,1416,Toyota,Glanza,2023,OD03IF4805,Silver,False
+1417,1417,Hyundai,i10,2024,OD24SH2159,White,False
+1418,1418,Toyota,Glanza,2026,OD06UG6222,Black,True
+1419,1419,Honda,Amaze,2021,OD01PU1054,Grey,False
+1420,1420,Tata,Tiago,2024,OD20SJ7545,Black,True
+1421,1421,Honda,City,2024,OD27WN3052,White,True
+1422,1422,Toyota,Glanza,2021,OD23CT5214,Blue,True
+1423,1423,Tata,Tigor,2018,OD11LS6452,Silver,True
+1424,1424,Hyundai,i10,2016,OD21TC6751,Silver,True
+1425,1425,Toyota,Etios,2019,OD23DX2630,White,False
+1426,1426,Honda,City,2021,OD07VH8026,Black,False
+1427,1427,Tata,Altroz,2025,OD01KX1498,Silver,True
+1428,1428,Honda,Amaze,2023,OD10EH5273,Black,False
+1429,1429,Honda,City,2016,OD13VF4546,Red,True
+1430,1430,Hyundai,Aura,2017,OD29CZ9623,Blue,True
+1431,1431,Tata,Tigor,2026,OD29XV6245,Black,True
+1432,1432,Maruti Suzuki,Swift,2023,OD21SN5000,Grey,True
+1433,1433,Maruti Suzuki,Swift,2020,OD14HD1264,Blue,False
+1434,1434,Hyundai,i10,2016,OD28XY6477,Blue,True
+1435,1435,Maruti Suzuki,Swift,2019,OD35DQ1306,Black,False
+1436,1436,Tata,Altroz,2021,OD06VB1729,Black,True
+1437,1437,Toyota,Glanza,2020,OD05WI1388,Blue,True
+1438,1438,Honda,Amaze,2018,OD34IN2026,Grey,False
+1439,1439,Toyota,Etios,2026,OD13FY2052,Silver,False
+1440,1440,Maruti Suzuki,Swift,2026,OD09AI4075,Red,True
+1441,1441,Honda,City,2019,OD14JJ3125,White,True
+1442,1442,Honda,City,2017,OD03ZA5820,Grey,True
+1443,1443,Maruti Suzuki,Swift,2026,OD19DG2998,Black,True
+1444,1444,Tata,Tigor,2023,OD20EB8739,Black,True
+1445,1445,Hyundai,Aura,2021,OD28YW8606,Black,True
+1446,1446,Honda,City,2017,OD34ZY9139,Red,False
+1447,1447,Honda,City,2023,OD29LC4567,Blue,False
+1448,1448,Honda,Amaze,2018,OD14TR2376,Blue,True
+1449,1449,Toyota,Etios,2026,OD11BI9301,Grey,True
+1450,1450,Maruti Suzuki,Dzire,2021,OD08SI6227,Silver,False
+1451,1451,Toyota,Glanza,2026,OD30XH5596,White,True
+1452,1452,Honda,City,2020,OD03HU2752,Silver,False
+1453,1453,Tata,Altroz,2021,OD13SD9836,Red,True
+1454,1454,Hyundai,Aura,2022,OD09BL5569,Silver,True
+1455,1455,Hyundai,Aura,2018,OD29CV6180,Silver,True
+1456,1456,Honda,Amaze,2024,OD21NO1138,Black,True
+1457,1457,Honda,Amaze,2021,OD13OR5572,Black,True
+1458,1458,Tata,Tigor,2026,OD23XK4588,Red,True
+1459,1459,Tata,Tigor,2016,OD29YQ7769,Grey,False
+1460,1460,Toyota,Glanza,2026,OD09ZD1512,Red,True
+1461,1461,Honda,Amaze,2026,OD01IA6084,Grey,True
+1462,1462,Maruti Suzuki,Swift,2020,OD26DW8267,Silver,False
+1463,1463,Toyota,Glanza,2020,OD07AW6089,Blue,False
+1464,1464,Honda,City,2017,OD34NI5479,Black,False
+1465,1465,Hyundai,i20,2020,OD32BW5239,Blue,False
+1466,1466,Honda,Amaze,2017,OD02DQ8588,Grey,True
+1467,1467,Hyundai,i10,2018,OD21OY1770,Red,True
+1468,1468,Tata,Tiago,2016,OD30HE6045,Grey,False
+1469,1469,Toyota,Etios,2026,OD17TZ1980,Black,True
+1470,1470,Tata,Tiago,2024,OD07ZO8246,Blue,True
+1471,1471,Tata,Tigor,2025,OD11JO1365,Silver,True
+1472,1472,Maruti Suzuki,Baleno,2019,OD04CQ7979,Silver,True
+1473,1473,Hyundai,i10,2017,OD17LW7208,Silver,True
+1474,1474,Toyota,Glanza,2018,OD30LT2321,Grey,True
+1475,1475,Maruti Suzuki,Swift,2020,OD16YO5436,Black,True
+1476,1476,Tata,Tigor,2026,OD31JA6416,Black,False
+1477,1477,Hyundai,i20,2017,OD10GD2196,Silver,True
+1478,1478,Maruti Suzuki,Baleno,2017,OD08SA3252,White,False
+1479,1479,Maruti Suzuki,Dzire,2017,OD16XM4340,White,True
+1480,1480,Tata,Tiago,2018,OD05VJ5338,Black,False
+1481,1481,Honda,Amaze,2021,OD13RI3229,Silver,False
+1482,1482,Maruti Suzuki,Swift,2022,OD07VK6096,Silver,True
+1483,1483,Honda,Amaze,2024,OD18KK4434,Grey,True
+1484,1484,Toyota,Glanza,2022,OD34EX7041,White,True
+1485,1485,Tata,Altroz,2025,OD20BF4137,Black,True
+1486,1486,Tata,Altroz,2021,OD15LQ1916,Red,True
+1487,1487,Tata,Altroz,2018,OD33QA6506,White,False
+1488,1488,Tata,Tiago,2023,OD33CS8390,Black,True
+1489,1489,Tata,Tigor,2018,OD23FI8755,Grey,False
+1490,1490,Honda,City,2020,OD18SM5334,Blue,True
+1491,1491,Maruti Suzuki,Dzire,2022,OD19ZB1799,Grey,True
+1492,1492,Honda,Amaze,2022,OD20RN3062,Red,False
+1493,1493,Tata,Tigor,2019,OD32OS4733,Blue,True
+1494,1494,Tata,Altroz,2022,OD02SD3289,White,True
+1495,1495,Tata,Tiago,2023,OD11LI6803,Red,True
+1496,1496,Toyota,Etios,2016,OD06YN1990,Blue,True
+1497,1497,Hyundai,Aura,2020,OD30AO3348,Grey,True
+1498,1498,Tata,Altroz,2017,OD31JG3037,Red,False
+1499,1499,Maruti Suzuki,Swift,2018,OD24BU4786,Red,True
+1500,1500,Hyundai,Aura,2026,OD33QI5381,Black,False
+1501,1501,Toyota,Etios,2018,OD16NC9181,Blue,True
+1502,1502,Toyota,Etios,2020,OD22ZJ6805,Red,True
+1503,1503,Honda,Amaze,2018,OD29XG2789,Grey,True
+1504,1504,Hyundai,i20,2017,OD34HE3376,Red,True
+1505,1505,Maruti Suzuki,Swift,2019,OD14MV3119,Grey,False
+1506,1506,Maruti Suzuki,Dzire,2022,OD18WA5534,White,True
+1507,1507,Honda,City,2026,OD24DC3676,Blue,False
+1508,1508,Hyundai,Aura,2017,OD08AL1107,Black,True
+1509,1509,Toyota,Glanza,2016,OD31YU5783,Red,True
+1510,1510,Toyota,Etios,2018,OD34WE8247,Grey,False
+1511,1511,Honda,City,2018,OD14TG6215,Red,True
+1512,1512,Hyundai,i10,2026,OD30GX3182,Red,False
+1513,1513,Toyota,Glanza,2025,OD27YX4065,White,True
+1514,1514,Maruti Suzuki,Swift,2016,OD09MA9023,Grey,True
+1515,1515,Maruti Suzuki,Dzire,2019,OD17WQ7313,Blue,False
+1516,1516,Tata,Tiago,2023,OD05LL8805,Black,True
+1517,1517,Maruti Suzuki,Dzire,2018,OD01RS4187,White,False
+1518,1518,Hyundai,i10,2026,OD24BP4433,Black,False
+1519,1519,Honda,Amaze,2017,OD09TP4158,Silver,True
+1520,1520,Tata,Altroz,2021,OD04YF8436,Red,True
+1521,1521,Toyota,Glanza,2024,OD10NR1303,White,True
+1522,1522,Honda,Amaze,2018,OD02RU8824,White,True
+1523,1523,Maruti Suzuki,Baleno,2025,OD18LF5019,Blue,True
+1524,1524,Toyota,Etios,2016,OD09HG2235,Silver,False
+1525,1525,Tata,Tiago,2023,OD24OZ1484,Black,True
+1526,1526,Hyundai,i10,2024,OD34RB8109,White,True
+1527,1527,Maruti Suzuki,Dzire,2021,OD01FZ5582,White,True
+1528,1528,Maruti Suzuki,Swift,2023,OD33UR7933,Grey,True
+1529,1529,Toyota,Etios,2021,OD22VR6539,White,True
+1530,1530,Toyota,Glanza,2020,OD22BJ8171,Black,True
+1531,1531,Honda,City,2025,OD19VM3096,Grey,True
+1532,1532,Toyota,Etios,2021,OD07RD5719,Red,True
+1533,1533,Maruti Suzuki,Dzire,2019,OD18YV6307,White,True
+1534,1534,Honda,Amaze,2017,OD32MI4168,Silver,True
+1535,1535,Toyota,Etios,2017,OD28ZW7187,Grey,True
+1536,1536,Maruti Suzuki,Dzire,2024,OD27SQ6896,Blue,True
+1537,1537,Honda,City,2025,OD05YC1894,Grey,False
+1538,1538,Honda,Amaze,2022,OD19CQ8333,Blue,True
+1539,1539,Toyota,Etios,2024,OD21GO8744,White,True
+1540,1540,Hyundai,i20,2025,OD14DN5357,Silver,True
+1541,1541,Tata,Tiago,2023,OD35AI8215,White,True
+1542,1542,Maruti Suzuki,Dzire,2026,OD13ML2118,Blue,False
+1543,1543,Tata,Tigor,2025,OD12NW3286,White,True
+1544,1544,Hyundai,i20,2019,OD22YP2930,Black,True
+1545,1545,Honda,City,2018,OD05EH1079,White,True
+1546,1546,Honda,City,2025,OD08LH3324,Red,True
+1547,1547,Hyundai,i20,2022,OD25AA9841,Red,True
+1548,1548,Tata,Tigor,2024,OD14NU1756,Red,True
+1549,1549,Maruti Suzuki,Swift,2020,OD05HU7646,Silver,True
+1550,1550,Hyundai,Aura,2024,OD21NX9783,Silver,False
+1551,1551,Honda,Amaze,2023,OD03NB1407,Grey,True
+1552,1552,Honda,Amaze,2020,OD16HO1514,White,True
+1553,1553,Toyota,Glanza,2026,OD32JJ4227,Grey,False
+1554,1554,Maruti Suzuki,Baleno,2026,OD25HQ8510,Grey,True
+1555,1555,Maruti Suzuki,Dzire,2023,OD32ZJ1101,Red,True
+1556,1556,Tata,Tigor,2024,OD28ND9577,Black,True
+1557,1557,Toyota,Etios,2020,OD05IF9012,Blue,True
+1558,1558,Hyundai,Aura,2017,OD17DX9243,Blue,False
+1559,1559,Hyundai,i20,2019,OD17VS3818,White,True
+1560,1560,Hyundai,i10,2019,OD34FD6145,Blue,True
+1561,1561,Maruti Suzuki,Dzire,2017,OD14EV1110,Silver,True
+1562,1562,Toyota,Etios,2021,OD27OZ8913,White,True
+1563,1563,Tata,Tiago,2023,OD25MA5861,Silver,False
+1564,1564,Toyota,Glanza,2025,OD06DM6080,Silver,False
+1565,1565,Honda,City,2026,OD29YM7102,Grey,False
+1566,1566,Honda,City,2020,OD31MB6780,Black,True
+1567,1567,Toyota,Etios,2026,OD09SN6092,Silver,True
+1568,1568,Hyundai,i10,2023,OD24BJ9802,Blue,False
+1569,1569,Toyota,Glanza,2025,OD33PE8668,Silver,True
+1570,1570,Tata,Tiago,2018,OD01NC6927,Red,True
+1571,1571,Honda,Amaze,2025,OD35OZ4803,Red,False
+1572,1572,Tata,Tiago,2016,OD25ZP3288,Silver,False
+1573,1573,Honda,Amaze,2025,OD03HF2437,Silver,True
+1574,1574,Maruti Suzuki,Swift,2017,OD35WG4916,Black,True
+1575,1575,Maruti Suzuki,Swift,2017,OD33IV1351,Grey,True
+1576,1576,Tata,Altroz,2024,OD21KQ9161,Silver,True
+1577,1577,Hyundai,Aura,2020,OD23ES7433,White,True
+1578,1578,Maruti Suzuki,Dzire,2019,OD27TO5144,Silver,False
+1579,1579,Toyota,Glanza,2021,OD05OS9949,Black,False
+1580,1580,Maruti Suzuki,Baleno,2019,OD22LM7950,Blue,False
+1581,1581,Hyundai,Aura,2019,OD35WZ6822,Red,False
+1582,1582,Tata,Tiago,2023,OD35EK7341,White,True
+1583,1583,Toyota,Glanza,2022,OD09IN6022,Red,False
+1584,1584,Honda,Amaze,2025,OD13MZ9792,Silver,True
+1585,1585,Honda,City,2017,OD32SO4133,Grey,False
+1586,1586,Toyota,Glanza,2017,OD01EU9101,White,True
+1587,1587,Toyota,Etios,2026,OD09AG9847,Red,False
+1588,1588,Hyundai,i10,2018,OD08YZ6985,Red,True
+1589,1589,Toyota,Glanza,2026,OD18LX7270,Black,True
+1590,1590,Tata,Tigor,2018,OD10BD7401,Silver,False
+1591,1591,Honda,Amaze,2026,OD16TG6780,White,True
+1592,1592,Tata,Tiago,2018,OD25EK4941,Red,True
+1593,1593,Tata,Tiago,2019,OD04UP6142,Silver,True
+1594,1594,Maruti Suzuki,Baleno,2020,OD11BE5638,Blue,True
+1595,1595,Hyundai,i20,2016,OD32IL1237,Red,True
+1596,1596,Hyundai,i10,2024,OD04SU8628,White,True
+1597,1597,Tata,Tigor,2016,OD20ZG2409,White,True
+1598,1598,Honda,City,2017,OD12HV6382,Red,True
+1599,1599,Hyundai,i20,2023,OD15PN6809,Silver,True
+1600,1600,Honda,City,2017,OD29EO6848,Grey,True
+1601,1601,Tata,Tigor,2020,OD07JO2594,Black,False
+1602,1602,Honda,City,2017,OD22VH4557,Blue,True
+1603,1603,Toyota,Etios,2018,OD30WB3274,White,True
+1604,1604,Maruti Suzuki,Baleno,2017,OD14IH5088,Blue,True
+1605,1605,Honda,Amaze,2023,OD35TU6415,Blue,True
+1606,1606,Tata,Tigor,2023,OD13GW2144,Black,True
+1607,1607,Hyundai,i20,2017,OD08EO6679,Blue,True
+1608,1608,Toyota,Etios,2021,OD30VC5715,Black,True
+1609,1609,Maruti Suzuki,Dzire,2026,OD12FB7415,Red,True
+1610,1610,Toyota,Glanza,2016,OD01WI5119,Black,False
+1611,1611,Tata,Tiago,2022,OD18JI4444,Black,False
+1612,1612,Toyota,Glanza,2020,OD10FW1122,Red,True
+1613,1613,Honda,Amaze,2018,OD29MW9195,Black,True
+1614,1614,Hyundai,i20,2024,OD04UQ8307,Blue,True
+1615,1615,Honda,Amaze,2016,OD14GR7097,Black,True
+1616,1616,Maruti Suzuki,Swift,2025,OD03BV7930,Black,True
+1617,1617,Tata,Altroz,2022,OD31OK5647,Grey,True
+1618,1618,Toyota,Etios,2017,OD31FR6063,Grey,True
+1619,1619,Hyundai,i20,2020,OD27UG4608,Black,True
+1620,1620,Honda,City,2026,OD27QJ2065,Silver,True
+1621,1621,Honda,Amaze,2021,OD08OK9111,Black,True
+1622,1622,Maruti Suzuki,Baleno,2021,OD07ZX9187,Grey,False
+1623,1623,Tata,Altroz,2025,OD24SN6360,Grey,True
+1624,1624,Maruti Suzuki,Baleno,2019,OD15OX6157,Black,True
+1625,1625,Toyota,Etios,2020,OD34IU3288,White,True
+1626,1626,Toyota,Glanza,2018,OD09KC5351,Silver,True
+1627,1627,Honda,City,2019,OD30UE4765,Grey,False
+1628,1628,Honda,Amaze,2020,OD05JE8039,Silver,True
+1629,1629,Maruti Suzuki,Swift,2025,OD31BR2269,Black,False
+1630,1630,Hyundai,i10,2025,OD10DA4281,Silver,True
+1631,1631,Tata,Altroz,2019,OD10FT7050,White,True
+1632,1632,Tata,Altroz,2022,OD09RI1419,Grey,False
+1633,1633,Toyota,Etios,2019,OD04RO9822,Black,True
+1634,1634,Honda,City,2023,OD02BO9286,Black,True
+1635,1635,Tata,Tigor,2022,OD26MT6056,Red,True
+1636,1636,Honda,Amaze,2026,OD20GQ7692,Blue,True
+1637,1637,Tata,Altroz,2016,OD34KK3961,Silver,False
+1638,1638,Hyundai,Aura,2023,OD12MM3397,Black,True
+1639,1639,Tata,Tigor,2018,OD32HU5983,Red,False
+1640,1640,Toyota,Glanza,2023,OD04XV5431,Grey,True
+1641,1641,Hyundai,Aura,2026,OD16IU5119,Grey,False
+1642,1642,Honda,Amaze,2016,OD23DJ7329,White,True
+1643,1643,Honda,City,2018,OD33RM9518,Red,False
+1644,1644,Toyota,Glanza,2020,OD17TI1311,Black,True
+1645,1645,Maruti Suzuki,Baleno,2022,OD21NZ2420,Black,True
+1646,1646,Tata,Tiago,2024,OD35HW4855,White,True
+1647,1647,Toyota,Glanza,2017,OD26SX4123,Silver,False
+1648,1648,Honda,Amaze,2018,OD14PP5058,Red,True
+1649,1649,Maruti Suzuki,Baleno,2018,OD11ZA2257,Grey,True
+1650,1650,Maruti Suzuki,Baleno,2021,OD12AA3511,Black,True
+1651,1651,Tata,Tiago,2019,OD05GH7471,Red,True
+1652,1652,Maruti Suzuki,Dzire,2016,OD12CF8946,White,True
+1653,1653,Hyundai,i10,2024,OD28PF1572,White,True
+1654,1654,Toyota,Etios,2025,OD02HD8479,Grey,True
+1655,1655,Honda,Amaze,2016,OD01WD2297,Grey,False
+1656,1656,Tata,Tiago,2018,OD19JQ4906,Silver,True
+1657,1657,Toyota,Etios,2017,OD24CK5664,Red,False
+1658,1658,Tata,Tigor,2025,OD08DO1959,Red,False
+1659,1659,Maruti Suzuki,Swift,2023,OD10RF1543,Silver,True
+1660,1660,Maruti Suzuki,Baleno,2019,OD34AR4311,Silver,True
+1661,1661,Hyundai,i10,2018,OD08MV1206,White,True
+1662,1662,Toyota,Glanza,2018,OD17WC9951,Black,True
+1663,1663,Tata,Tiago,2023,OD25FL3417,Red,True
+1664,1664,Hyundai,i10,2019,OD08DN8656,Blue,True
+1665,1665,Tata,Tiago,2024,OD14FM9095,Red,True
+1666,1666,Maruti Suzuki,Baleno,2017,OD26OQ2815,White,False
+1667,1667,Honda,City,2018,OD01FK2570,Silver,True
+1668,1668,Toyota,Etios,2020,OD11NO4831,White,True
+1669,1669,Hyundai,i10,2025,OD20CP6537,Black,True
+1670,1670,Tata,Altroz,2016,OD24ZG2271,Blue,True
+1671,1671,Maruti Suzuki,Swift,2026,OD22AO6281,Silver,True
+1672,1672,Toyota,Etios,2024,OD21FR5771,Grey,False
+1673,1673,Honda,Amaze,2019,OD32QI8146,Grey,False
+1674,1674,Maruti Suzuki,Baleno,2016,OD15AU8364,Grey,True
+1675,1675,Tata,Tiago,2021,OD33HK6368,Red,True
+1676,1676,Maruti Suzuki,Dzire,2018,OD29FO8253,Black,True
+1677,1677,Toyota,Glanza,2025,OD02DW9964,Black,True
+1678,1678,Maruti Suzuki,Dzire,2017,OD06YF2035,Black,True
+1679,1679,Maruti Suzuki,Dzire,2019,OD25RA2195,Blue,True
+1680,1680,Tata,Tiago,2018,OD20BM6157,White,True
+1681,1681,Honda,City,2023,OD05XC8551,White,False
+1682,1682,Tata,Altroz,2021,OD29SN9359,Blue,False
+1683,1683,Hyundai,Aura,2026,OD06FZ5171,White,False
+1684,1684,Toyota,Glanza,2020,OD20RV2314,Black,True
+1685,1685,Toyota,Glanza,2017,OD07YI6493,Red,False
+1686,1686,Honda,City,2023,OD29NC6543,Black,True
+1687,1687,Toyota,Etios,2016,OD07PB3511,White,False
+1688,1688,Honda,City,2021,OD05PO1657,Black,True
+1689,1689,Hyundai,Aura,2016,OD17WL4768,Silver,False
+1690,1690,Toyota,Glanza,2023,OD30VE6285,Black,True
+1691,1691,Maruti Suzuki,Baleno,2021,OD12RI9587,Blue,False
+1692,1692,Hyundai,i20,2024,OD32FO3808,Blue,True
+1693,1693,Hyundai,Aura,2021,OD31VU1260,Black,True
+1694,1694,Maruti Suzuki,Baleno,2019,OD33MV7941,Black,True
+1695,1695,Honda,City,2024,OD19IE8453,Black,True
+1696,1696,Tata,Altroz,2022,OD23EW4928,Blue,True
+1697,1697,Toyota,Etios,2026,OD30MF3548,Grey,True
+1698,1698,Tata,Tiago,2019,OD20AM3589,White,True
+1699,1699,Honda,City,2019,OD16IY1968,White,True
+1700,1700,Hyundai,i10,2021,OD26WG5184,Red,True
+1701,1701,Hyundai,i20,2019,OD26FZ9653,Blue,False
+1702,1702,Hyundai,i10,2019,OD24OB5641,Silver,True
+1703,1703,Tata,Tigor,2017,OD20GI5759,Black,True
+1704,1704,Maruti Suzuki,Swift,2023,OD22IS5341,Silver,True
+1705,1705,Honda,City,2018,OD06UR9707,Red,True
+1706,1706,Hyundai,Aura,2020,OD25HQ2796,Silver,True
+1707,1707,Hyundai,Aura,2017,OD08NI9046,Red,True
+1708,1708,Tata,Altroz,2022,OD19FS9210,Grey,True
+1709,1709,Tata,Tigor,2019,OD21GU9655,Grey,True
+1710,1710,Toyota,Glanza,2021,OD16AB8613,Silver,True
+1711,1711,Tata,Tigor,2026,OD05ZQ4608,Silver,False
+1712,1712,Toyota,Glanza,2026,OD16BK8627,Blue,True
+1713,1713,Tata,Tigor,2019,OD05AX9243,White,True
+1714,1714,Tata,Tigor,2020,OD16XP9766,Red,False
+1715,1715,Hyundai,i20,2019,OD04UC5401,Red,False
+1716,1716,Maruti Suzuki,Dzire,2022,OD25DX1433,Grey,False
+1717,1717,Hyundai,Aura,2023,OD20TD3409,White,False
+1718,1718,Toyota,Glanza,2022,OD22AN2270,Silver,False
+1719,1719,Maruti Suzuki,Dzire,2025,OD01DD3698,Silver,True
+1720,1720,Hyundai,Aura,2019,OD06NB1026,Silver,True
+1721,1721,Hyundai,i20,2018,OD35NZ9379,Black,True
+1722,1722,Maruti Suzuki,Swift,2016,OD26CI9978,Silver,True
+1723,1723,Tata,Tiago,2023,OD26YM8416,Blue,True
+1724,1724,Hyundai,i10,2016,OD05JC5559,Silver,True
+1725,1725,Tata,Tigor,2016,OD31HP3778,Black,False
+1726,1726,Maruti Suzuki,Baleno,2021,OD24FQ6276,Red,True
+1727,1727,Honda,City,2026,OD31WN4495,Grey,True
+1728,1728,Toyota,Glanza,2016,OD22KP8829,Blue,False
+1729,1729,Toyota,Glanza,2022,OD29NA8684,Silver,True
+1730,1730,Maruti Suzuki,Dzire,2025,OD14TI9773,White,True
+1731,1731,Maruti Suzuki,Dzire,2019,OD04HK8104,Red,True
+1732,1732,Hyundai,Aura,2021,OD27TU7276,Grey,True
+1733,1733,Toyota,Etios,2019,OD23JV8667,Grey,True
+1734,1734,Honda,City,2017,OD11CB2451,Blue,True
+1735,1735,Hyundai,i20,2018,OD09MJ5681,White,True
+1736,1736,Hyundai,i20,2021,OD19BQ6718,Blue,True
+1737,1737,Tata,Tigor,2021,OD16KF5528,Red,True
+1738,1738,Honda,City,2025,OD22BO7837,Red,True
+1739,1739,Tata,Tigor,2019,OD32IR6777,Red,True
+1740,1740,Tata,Tiago,2018,OD11KX5758,Grey,False
+1741,1741,Toyota,Glanza,2017,OD32ZK3783,Black,False
+1742,1742,Toyota,Glanza,2025,OD18SV8014,Silver,True
+1743,1743,Hyundai,Aura,2022,OD32IV1864,Black,True
+1744,1744,Hyundai,Aura,2024,OD22IB8170,White,True
+1745,1745,Toyota,Etios,2017,OD22SW2345,Black,True
+1746,1746,Hyundai,i20,2025,OD21PK4627,Red,True
+1747,1747,Maruti Suzuki,Baleno,2019,OD31MW5057,Silver,True
+1748,1748,Toyota,Etios,2022,OD05JE8116,Red,True
+1749,1749,Maruti Suzuki,Dzire,2016,OD33LE1367,Grey,True
+1750,1750,Hyundai,i20,2022,OD05CQ9162,Blue,False
+1751,1751,Hyundai,i20,2018,OD34FU7265,Silver,True
+1752,1752,Hyundai,Aura,2024,OD03JD2080,Grey,True
+1753,1753,Honda,Amaze,2019,OD13XZ4791,White,True
+1754,1754,Tata,Tigor,2017,OD34UJ5092,Grey,False
+1755,1755,Maruti Suzuki,Baleno,2018,OD02UT4263,White,True
+1756,1756,Honda,Amaze,2018,OD05BS4936,Grey,False
+1757,1757,Honda,City,2023,OD30OH7816,Silver,False
+1758,1758,Honda,City,2021,OD23JK1953,Black,True
+1759,1759,Toyota,Glanza,2025,OD22ZW5097,Black,True
+1760,1760,Maruti Suzuki,Swift,2016,OD09MT4347,Blue,True
+1761,1761,Tata,Tiago,2019,OD04RT3216,Black,True
+1762,1762,Hyundai,Aura,2017,OD14LV2144,Silver,True
+1763,1763,Tata,Altroz,2016,OD30AE7168,Silver,True
+1764,1764,Honda,Amaze,2022,OD01MO5611,Red,True
+1765,1765,Tata,Altroz,2017,OD20JQ8823,Grey,True
+1766,1766,Maruti Suzuki,Dzire,2020,OD16XI3225,Grey,False
+1767,1767,Hyundai,i10,2018,OD19BN6360,Grey,True
+1768,1768,Tata,Tiago,2026,OD03FH6918,Blue,True
+1769,1769,Honda,City,2017,OD11LR3961,Blue,True
+1770,1770,Toyota,Glanza,2025,OD20TL2352,Grey,True
+1771,1771,Toyota,Glanza,2025,OD18KM5803,Silver,False
+1772,1772,Tata,Tigor,2018,OD16SA1494,Silver,True
+1773,1773,Tata,Tiago,2020,OD10XQ7155,Grey,True
+1774,1774,Tata,Tigor,2023,OD01ZC9226,Blue,False
+1775,1775,Honda,City,2016,OD08VJ7156,Grey,True
+1776,1776,Toyota,Glanza,2022,OD32EY6631,White,True
+1777,1777,Toyota,Glanza,2016,OD20VC8560,Grey,True
+1778,1778,Honda,Amaze,2020,OD28BV5066,White,False
+1779,1779,Maruti Suzuki,Swift,2026,OD20AX8984,Blue,True
+1780,1780,Maruti Suzuki,Dzire,2020,OD23PK3907,Grey,True
+1781,1781,Tata,Altroz,2018,OD33WV4296,Black,False
+1782,1782,Honda,City,2017,OD23VB7928,Grey,True
+1783,1783,Tata,Tigor,2023,OD08WK6976,Grey,False
+1784,1784,Maruti Suzuki,Dzire,2022,OD20BS4924,Grey,True
+1785,1785,Honda,City,2022,OD01KS7070,Silver,True
+1786,1786,Honda,Amaze,2017,OD15GS6475,Grey,True
+1787,1787,Hyundai,i10,2020,OD24CQ3434,Silver,False
+1788,1788,Toyota,Etios,2017,OD09CE8039,Blue,False
+1789,1789,Tata,Altroz,2022,OD32RJ9611,Grey,False
+1790,1790,Hyundai,i10,2025,OD28HB6693,Black,False
+1791,1791,Maruti Suzuki,Dzire,2019,OD25SF3956,Silver,True
+1792,1792,Honda,City,2018,OD16AD3197,Grey,True
+1793,1793,Honda,Amaze,2017,OD32MG2768,Blue,True
+1794,1794,Toyota,Etios,2019,OD30VU1278,Blue,True
+1795,1795,Tata,Tiago,2022,OD01NZ3456,Black,True
+1796,1796,Maruti Suzuki,Dzire,2019,OD23NP4376,Red,True
+1797,1797,Honda,City,2021,OD26TX5740,Black,True
+1798,1798,Maruti Suzuki,Swift,2020,OD01WB4556,Red,True
+1799,1799,Honda,Amaze,2016,OD14YE6055,Blue,True
+1800,1800,Honda,City,2022,OD14XZ6322,Black,True
+1801,1801,Tata,Tigor,2017,OD08RQ3478,White,True
+1802,1802,Toyota,Glanza,2026,OD28VW6398,Blue,False
+1803,1803,Hyundai,Aura,2017,OD22GU2049,Red,True
+1804,1804,Maruti Suzuki,Baleno,2018,OD33YC8645,Grey,True
+1805,1805,Hyundai,Aura,2022,OD28MM4744,Grey,True
+1806,1806,Honda,Amaze,2024,OD05UH3594,Grey,True
+1807,1807,Toyota,Etios,2021,OD01GG9050,Blue,True
+1808,1808,Hyundai,Aura,2026,OD18AH9037,Silver,True
+1809,1809,Tata,Altroz,2019,OD07VG3544,Red,True
+1810,1810,Tata,Tiago,2023,OD22NO2607,Blue,True
+1811,1811,Maruti Suzuki,Baleno,2019,OD04LM9213,Grey,True
+1812,1812,Honda,Amaze,2018,OD26KE5653,Blue,True
+1813,1813,Toyota,Glanza,2024,OD23FZ9279,Black,True
+1814,1814,Maruti Suzuki,Baleno,2017,OD21DI8648,Grey,False
+1815,1815,Honda,City,2025,OD06HM2390,Grey,True
+1816,1816,Honda,City,2021,OD09QF3193,Red,False
+1817,1817,Maruti Suzuki,Baleno,2026,OD21VI1388,Black,True
+1818,1818,Toyota,Etios,2025,OD19GV5194,Red,True
+1819,1819,Honda,City,2022,OD26CX4894,Blue,False
+1820,1820,Tata,Altroz,2021,OD02YX1556,Red,True
+1821,1821,Tata,Altroz,2021,OD26XO9447,Black,True
+1822,1822,Hyundai,Aura,2026,OD24YS4084,Grey,True
+1823,1823,Maruti Suzuki,Baleno,2020,OD06EU8531,White,False
+1824,1824,Honda,Amaze,2024,OD21VH7713,White,False
+1825,1825,Toyota,Glanza,2023,OD09AV3291,White,True
+1826,1826,Hyundai,Aura,2024,OD07CF1186,Blue,False
+1827,1827,Honda,City,2022,OD15OF1285,Black,False
+1828,1828,Hyundai,i20,2020,OD33HM6924,Grey,False
+1829,1829,Maruti Suzuki,Dzire,2026,OD07SU1041,Silver,False
+1830,1830,Tata,Tigor,2020,OD13SN9013,Grey,True
+1831,1831,Tata,Tigor,2022,OD29GT4997,White,False
+1832,1832,Tata,Altroz,2025,OD01SX6598,Silver,False
+1833,1833,Toyota,Etios,2019,OD04YL9478,Blue,False
+1834,1834,Toyota,Glanza,2016,OD11KG2548,Black,True
+1835,1835,Honda,City,2018,OD21IP9329,White,True
+1836,1836,Toyota,Etios,2024,OD04JA2484,Silver,False
+1837,1837,Maruti Suzuki,Dzire,2025,OD30YX1212,White,True
+1838,1838,Maruti Suzuki,Baleno,2026,OD04BO4434,Blue,True
+1839,1839,Tata,Tigor,2023,OD15UJ9128,Silver,True
+1840,1840,Honda,Amaze,2025,OD03RT5526,White,True
+1841,1841,Maruti Suzuki,Baleno,2024,OD21SM9156,White,True
+1842,1842,Hyundai,i10,2019,OD01LJ3061,Red,True
+1843,1843,Hyundai,i20,2026,OD05DC1685,Black,True
+1844,1844,Toyota,Etios,2016,OD19FV5631,White,True
+1845,1845,Tata,Altroz,2023,OD03XV4739,Black,True
+1846,1846,Toyota,Etios,2026,OD27OM8048,White,False
+1847,1847,Hyundai,Aura,2024,OD21CG6074,White,True
+1848,1848,Toyota,Etios,2024,OD14RO5698,Silver,True
+1849,1849,Maruti Suzuki,Baleno,2017,OD33GN4912,Black,True
+1850,1850,Toyota,Etios,2016,OD12MY7256,Black,True
+1851,1851,Maruti Suzuki,Dzire,2017,OD23JR2308,Blue,True
+1852,1852,Maruti Suzuki,Swift,2019,OD07CP9345,Grey,True
+1853,1853,Tata,Tigor,2023,OD26OP2171,Blue,True
+1854,1854,Toyota,Glanza,2016,OD15BE9694,Grey,True
+1855,1855,Honda,City,2016,OD23QT4042,Black,True
+1856,1856,Hyundai,i20,2016,OD25OP9681,Grey,True
+1857,1857,Toyota,Glanza,2020,OD31VF7193,Silver,True
+1858,1858,Honda,Amaze,2019,OD26JS7786,Grey,True
+1859,1859,Tata,Tiago,2020,OD21HO6839,Black,True
+1860,1860,Honda,City,2020,OD34RE6294,Black,False
+1861,1861,Toyota,Glanza,2017,OD34LD2687,White,True
+1862,1862,Honda,City,2019,OD15RL2221,Silver,False
+1863,1863,Honda,City,2022,OD32BU7033,White,False
+1864,1864,Toyota,Glanza,2025,OD35GQ4432,White,True
+1865,1865,Tata,Tigor,2021,OD04FY8944,Silver,False
+1866,1866,Maruti Suzuki,Swift,2026,OD20XX6637,Grey,True
+1867,1867,Hyundai,i10,2024,OD10HJ6891,Black,True
+1868,1868,Tata,Tigor,2016,OD22CK6525,Red,False
+1869,1869,Toyota,Glanza,2022,OD13RR1123,Red,True
+1870,1870,Hyundai,i20,2026,OD10OC7185,White,False
+1871,1871,Hyundai,Aura,2024,OD25SO5111,Grey,False
+1872,1872,Hyundai,i10,2026,OD31AG6644,Red,True
+1873,1873,Honda,City,2018,OD27QD4100,White,True
+1874,1874,Hyundai,Aura,2025,OD18CY3878,Red,True
+1875,1875,Hyundai,Aura,2016,OD26FL4942,Red,True
+1876,1876,Maruti Suzuki,Baleno,2021,OD18KL5558,White,True
+1877,1877,Tata,Altroz,2024,OD16CI1058,White,True
+1878,1878,Tata,Tigor,2019,OD02GF9275,Black,False
+1879,1879,Honda,Amaze,2021,OD20TA6052,Grey,False
+1880,1880,Tata,Tigor,2017,OD28ZQ8154,Red,True
+1881,1881,Maruti Suzuki,Swift,2018,OD24BQ7845,Black,False
+1882,1882,Toyota,Etios,2022,OD19UG5883,Grey,False
+1883,1883,Maruti Suzuki,Baleno,2026,OD34RF4455,White,True
+1884,1884,Tata,Altroz,2023,OD12QT5742,Grey,False
+1885,1885,Hyundai,i20,2019,OD05MG4999,White,True
+1886,1886,Honda,Amaze,2017,OD31FX7457,Black,True
+1887,1887,Hyundai,i10,2022,OD20TB9447,Silver,False
+1888,1888,Tata,Altroz,2017,OD06NZ4924,Silver,True
+1889,1889,Maruti Suzuki,Swift,2017,OD04WW2604,Grey,False
+1890,1890,Hyundai,i20,2022,OD12YE9587,Silver,True
+1891,1891,Tata,Tigor,2017,OD19YA9739,Red,True
+1892,1892,Honda,City,2018,OD11SL2244,White,True
+1893,1893,Toyota,Etios,2024,OD28CB7269,Red,False
+1894,1894,Maruti Suzuki,Baleno,2026,OD04FM1100,Silver,False
+1895,1895,Toyota,Glanza,2026,OD07OI6496,Black,True
+1896,1896,Honda,Amaze,2020,OD18CA7822,Grey,False
+1897,1897,Toyota,Etios,2021,OD31HE2247,Grey,True
+1898,1898,Maruti Suzuki,Swift,2026,OD18EG9598,Blue,True
+1899,1899,Tata,Tigor,2020,OD01OC2108,Red,True
+1900,1900,Honda,Amaze,2025,OD34LA3767,Black,True
+1901,1901,Tata,Altroz,2016,OD28NO2544,Silver,True
+1902,1902,Hyundai,i10,2026,OD13YD9185,White,True
+1903,1903,Honda,City,2021,OD17XZ2081,Black,True
+1904,1904,Tata,Altroz,2018,OD11AZ3947,Blue,True
+1905,1905,Tata,Altroz,2018,OD04QS6803,Black,True
+1906,1906,Honda,City,2024,OD01DF7833,Blue,False
+1907,1907,Hyundai,i20,2016,OD21YB8818,Red,True
+1908,1908,Hyundai,i20,2025,OD05HT5838,Black,True
+1909,1909,Hyundai,Aura,2018,OD24BX3758,Grey,True
+1910,1910,Toyota,Etios,2018,OD16RH9287,Silver,True
+1911,1911,Maruti Suzuki,Baleno,2019,OD31UM6812,Silver,True
+1912,1912,Toyota,Etios,2018,OD23XQ1313,Black,True
+1913,1913,Maruti Suzuki,Baleno,2022,OD17DJ7741,Red,True
+1914,1914,Hyundai,Aura,2026,OD03QK1333,Silver,True
+1915,1915,Tata,Altroz,2024,OD32VD6481,Blue,True
+1916,1916,Tata,Tiago,2024,OD09GO8999,Black,True
+1917,1917,Maruti Suzuki,Baleno,2016,OD31IJ5213,Grey,True
+1918,1918,Toyota,Glanza,2017,OD31DP5119,Red,True
+1919,1919,Maruti Suzuki,Swift,2020,OD23MQ9259,Red,True
+1920,1920,Toyota,Etios,2021,OD32YG8845,Silver,True
+1921,1921,Toyota,Etios,2022,OD25AO3213,Black,False
+1922,1922,Honda,Amaze,2020,OD31ID3424,White,True
+1923,1923,Toyota,Glanza,2019,OD28QT4452,Blue,True
+1924,1924,Tata,Tiago,2024,OD19AJ4538,Blue,True
+1925,1925,Tata,Tiago,2022,OD02EM6383,Grey,False
+1926,1926,Tata,Tiago,2022,OD27RJ1840,Black,True
+1927,1927,Honda,Amaze,2022,OD31QC8535,Silver,True
+1928,1928,Tata,Altroz,2024,OD05HK4999,Grey,False
+1929,1929,Tata,Tiago,2025,OD33HY4607,White,True
+1930,1930,Toyota,Etios,2019,OD24EX7506,White,True
+1931,1931,Hyundai,i10,2025,OD30HJ1494,White,True
+1932,1932,Tata,Altroz,2025,OD32XJ8459,Silver,True
+1933,1933,Honda,Amaze,2026,OD29OB5513,Blue,True
+1934,1934,Toyota,Etios,2023,OD35CT6079,Silver,False
+1935,1935,Tata,Altroz,2023,OD29HT7306,White,True
+1936,1936,Hyundai,Aura,2020,OD02KP4368,Grey,True
+1937,1937,Maruti Suzuki,Baleno,2016,OD19ZD9141,Silver,False
+1938,1938,Toyota,Etios,2019,OD03PW3646,White,False
+1939,1939,Honda,Amaze,2026,OD28SS2652,Grey,True
+1940,1940,Toyota,Etios,2018,OD15NH6049,White,True
+1941,1941,Maruti Suzuki,Dzire,2024,OD22OR7874,Grey,True
+1942,1942,Hyundai,i20,2021,OD31WF9998,White,True
+1943,1943,Toyota,Glanza,2018,OD32YR9749,Blue,True
+1944,1944,Hyundai,i20,2025,OD05TM1423,Red,True
+1945,1945,Maruti Suzuki,Baleno,2021,OD22LG8621,Red,True
+1946,1946,Maruti Suzuki,Baleno,2020,OD14ON4329,White,True
+1947,1947,Tata,Altroz,2022,OD32AP3019,Grey,True
+1948,1948,Tata,Altroz,2017,OD18XJ1037,White,True
+1949,1949,Tata,Tiago,2023,OD24NB3441,Black,True
+1950,1950,Maruti Suzuki,Baleno,2022,OD20YB8283,Blue,False
+1951,1951,Hyundai,Aura,2022,OD34XF3891,Red,True
+1952,1952,Tata,Tiago,2023,OD14XI5237,Blue,False
+1953,1953,Toyota,Glanza,2021,OD08ZU8871,Red,True
+1954,1954,Honda,City,2026,OD21IO7000,Blue,False
+1955,1955,Toyota,Glanza,2026,OD31CB6285,Black,True
+1956,1956,Tata,Altroz,2025,OD04ZN9119,Grey,True
+1957,1957,Toyota,Etios,2019,OD26AY2750,Grey,True
+1958,1958,Hyundai,Aura,2016,OD17BF6737,Grey,True
+1959,1959,Maruti Suzuki,Dzire,2017,OD13DN7501,Grey,False
+1960,1960,Tata,Tiago,2023,OD01OD3551,Grey,False
+1961,1961,Maruti Suzuki,Dzire,2022,OD14XK1151,Grey,True
+1962,1962,Hyundai,Aura,2023,OD11SX1385,Red,True
+1963,1963,Hyundai,Aura,2024,OD07PX7671,Grey,False
+1964,1964,Hyundai,i10,2023,OD03EX6697,Silver,True
+1965,1965,Maruti Suzuki,Dzire,2026,OD15SC6219,Blue,True
+1966,1966,Honda,City,2023,OD09KN1887,Silver,False
+1967,1967,Honda,Amaze,2026,OD03VG8140,Blue,True
+1968,1968,Honda,Amaze,2021,OD23BV4027,Grey,True
+1969,1969,Hyundai,i20,2016,OD31HC3212,Black,True
+1970,1970,Honda,City,2023,OD28MK5693,Red,True
+1971,1971,Tata,Tiago,2026,OD12IF2866,Red,False
+1972,1972,Toyota,Etios,2019,OD22HW3730,Blue,False
+1973,1973,Maruti Suzuki,Dzire,2024,OD01LR2110,Black,True
+1974,1974,Tata,Tigor,2019,OD12DH7195,Grey,False
+1975,1975,Tata,Tigor,2021,OD24EN2805,Silver,True
+1976,1976,Maruti Suzuki,Dzire,2016,OD23VL9154,White,True
+1977,1977,Hyundai,Aura,2021,OD03RM9709,Grey,True
+1978,1978,Tata,Tiago,2018,OD13KV9948,Blue,False
+1979,1979,Hyundai,i20,2024,OD26TE7539,Black,True
+1980,1980,Honda,Amaze,2016,OD25UF6484,Red,True
+1981,1981,Maruti Suzuki,Dzire,2017,OD31ZY8319,Red,True
+1982,1982,Maruti Suzuki,Baleno,2019,OD31QI6481,Black,True
+1983,1983,Hyundai,i20,2019,OD18YI6476,Blue,True
+1984,1984,Maruti Suzuki,Baleno,2023,OD28WF2834,Black,True
+1985,1985,Honda,Amaze,2022,OD18VM2260,Silver,True
+1986,1986,Honda,City,2019,OD10ZE3089,Red,True
+1987,1987,Honda,Amaze,2026,OD33DA2756,Silver,True
+1988,1988,Hyundai,Aura,2023,OD05TR9769,Silver,True
+1989,1989,Toyota,Etios,2019,OD29YZ5948,Blue,True
+1990,1990,Hyundai,i20,2024,OD08PY5091,White,True
+1991,1991,Toyota,Glanza,2021,OD33RZ1195,Silver,True
+1992,1992,Toyota,Glanza,2020,OD02GG5630,Red,True
+1993,1993,Tata,Tiago,2024,OD08WX1790,Silver,False
+1994,1994,Hyundai,i20,2026,OD34XV8079,Blue,True
+1995,1995,Hyundai,i10,2019,OD05DN7796,Blue,True
+1996,1996,Honda,Amaze,2018,OD05FJ8047,Grey,False
+1997,1997,Tata,Tiago,2024,OD08EW6680,Blue,True
+1998,1998,Honda,Amaze,2016,OD30ZI9343,Blue,True
+1999,1999,Toyota,Etios,2025,OD05FM1073,Blue,True
+2000,2000,Maruti Suzuki,Swift,2019,OD06XI8089,Silver,False
+2001,2001,Tata,Tigor,2017,OD27ML9044,Blue,True
+2002,2002,Hyundai,i10,2020,OD23BJ4852,Blue,False
+2003,2003,Tata,Altroz,2017,OD26IL1646,Blue,False
+2004,2004,Hyundai,Aura,2025,OD21GZ3132,Black,True
+2005,2005,Maruti Suzuki,Dzire,2018,OD18XR9015,Grey,True
+2006,2006,Maruti Suzuki,Swift,2022,OD07GV6964,Silver,False
+2007,2007,Tata,Tigor,2024,OD26DQ1218,Red,True
+2008,2008,Toyota,Glanza,2025,OD16JB9488,Black,True
+2009,2009,Tata,Altroz,2020,OD10VU8763,Blue,True
+2010,2010,Toyota,Glanza,2025,OD12AN7276,Silver,False
+2011,2011,Toyota,Glanza,2018,OD24VT7795,Black,False
+2012,2012,Honda,Amaze,2018,OD16NR4865,White,True
+2013,2013,Honda,City,2019,OD17DR4372,Blue,True
+2014,2014,Tata,Altroz,2023,OD03FZ3198,Blue,True
+2015,2015,Maruti Suzuki,Dzire,2023,OD06VA7889,Black,True
+2016,2016,Tata,Tiago,2018,OD25VY5690,Silver,False
+2017,2017,Hyundai,i20,2026,OD14ID5618,Red,True
+2018,2018,Toyota,Glanza,2016,OD14FH3026,Blue,False
+2019,2019,Honda,City,2025,OD04NN8968,Red,True
+2020,2020,Honda,City,2026,OD09YB2598,White,True
+2021,2021,Tata,Tiago,2024,OD15QI5045,Red,False
+2022,2022,Toyota,Glanza,2022,OD02ZC9949,Grey,False
+2023,2023,Honda,City,2026,OD15GX5628,Black,True
+2024,2024,Tata,Tiago,2025,OD15TE3194,Silver,True
+2025,2025,Tata,Tigor,2023,OD29YF8470,Grey,True
+2026,2026,Tata,Tigor,2026,OD22BF2747,Red,True
+2027,2027,Hyundai,i10,2017,OD19QJ8077,White,True
+2028,2028,Honda,Amaze,2024,OD15SM9752,Grey,True
+2029,2029,Hyundai,i10,2026,OD19OK5040,Silver,True
+2030,2030,Honda,City,2016,OD25SW5004,Red,True
+2031,2031,Toyota,Etios,2019,OD09UU1894,Black,True
+2032,2032,Tata,Tigor,2017,OD27WV8769,Blue,True
+2033,2033,Honda,City,2026,OD29QV2118,Blue,False
+2034,2034,Hyundai,Aura,2022,OD06HS6334,Blue,True
+2035,2035,Tata,Altroz,2018,OD05DW6493,Red,False
+2036,2036,Hyundai,i10,2026,OD22UB2431,Blue,True
+2037,2037,Honda,Amaze,2023,OD32SN3255,Grey,True
+2038,2038,Toyota,Etios,2021,OD19YS9084,Red,False
+2039,2039,Toyota,Glanza,2023,OD10ZZ3214,White,True
+2040,2040,Toyota,Glanza,2016,OD02DX5186,Black,False
+2041,2041,Honda,Amaze,2022,OD12KC6272,Grey,True
+2042,2042,Toyota,Etios,2017,OD17SY1700,Blue,False
+2043,2043,Honda,Amaze,2026,OD01VQ1129,White,True
+2044,2044,Tata,Altroz,2023,OD12IF3858,Grey,True
+2045,2045,Toyota,Etios,2022,OD23WV3105,Blue,True
+2046,2046,Toyota,Glanza,2016,OD23DO3036,Blue,False
+2047,2047,Hyundai,Aura,2021,OD05FU4557,Silver,True
+2048,2048,Hyundai,i20,2019,OD28OL8331,Red,False
+2049,2049,Honda,City,2019,OD17XZ3131,Grey,True
+2050,2050,Toyota,Etios,2021,OD04GV2140,White,True
+2051,2051,Toyota,Etios,2025,OD06IA8705,Grey,True
+2052,2052,Hyundai,Aura,2016,OD27CV1577,Grey,True
+2053,2053,Honda,City,2022,OD32VI8775,Black,True
+2054,2054,Honda,Amaze,2018,OD19YH7033,Grey,False
+2055,2055,Toyota,Glanza,2016,OD14EL4231,Grey,True
+2056,2056,Hyundai,i20,2021,OD35OX7221,Grey,True
+2057,2057,Tata,Altroz,2016,OD31RY2533,Red,True
+2058,2058,Honda,Amaze,2024,OD15UT5874,Grey,False
+2059,2059,Tata,Altroz,2022,OD05FV7207,White,True
+2060,2060,Toyota,Glanza,2026,OD26VH2758,Blue,False
+2061,2061,Hyundai,i20,2021,OD26WJ5188,Black,True
+2062,2062,Toyota,Etios,2017,OD22MM4566,White,True
+2063,2063,Honda,Amaze,2022,OD10WD1881,Silver,True
+2064,2064,Honda,City,2016,OD29QO1908,Silver,True
+2065,2065,Maruti Suzuki,Swift,2026,OD24YY4201,Red,False
+2066,2066,Hyundai,Aura,2022,OD24FP3673,Blue,True
+2067,2067,Toyota,Etios,2023,OD30PW2002,Silver,True
+2068,2068,Tata,Altroz,2025,OD03PC3984,Red,False
+2069,2069,Toyota,Glanza,2021,OD19WR3999,Grey,True
+2070,2070,Maruti Suzuki,Baleno,2018,OD16GY2718,Black,True
+2071,2071,Honda,Amaze,2023,OD17NA3565,White,True
+2072,2072,Honda,City,2017,OD24PP2369,Red,True
+2073,2073,Toyota,Glanza,2024,OD18FW7134,White,True
+2074,2074,Honda,Amaze,2023,OD28VL6504,Blue,True
+2075,2075,Hyundai,i10,2021,OD24EW9958,Silver,False
+2076,2076,Maruti Suzuki,Dzire,2019,OD01ZV3479,Black,True
+2077,2077,Toyota,Glanza,2019,OD23ER8189,Blue,False
+2078,2078,Maruti Suzuki,Dzire,2019,OD23ZT7716,Silver,False
+2079,2079,Hyundai,i20,2024,OD20XP5359,Grey,True
+2080,2080,Tata,Tigor,2016,OD30VE9518,Black,True
+2081,2081,Maruti Suzuki,Swift,2024,OD23XV1807,Blue,True
+2082,2082,Toyota,Etios,2021,OD26XJ6744,White,True
+2083,2083,Toyota,Glanza,2026,OD01KQ1172,White,True
+2084,2084,Toyota,Etios,2023,OD32ZI5155,Grey,False
+2085,2085,Maruti Suzuki,Baleno,2019,OD29RZ9979,Grey,False
+2086,2086,Hyundai,i20,2026,OD19MY6414,Black,True
+2087,2087,Hyundai,i20,2023,OD29IX7691,Black,True
+2088,2088,Honda,Amaze,2018,OD28FQ2875,Blue,True
+2089,2089,Tata,Tiago,2018,OD14PJ4387,Blue,False
+2090,2090,Hyundai,i20,2021,OD04KF2889,Blue,True
+2091,2091,Maruti Suzuki,Dzire,2026,OD01IP3139,Grey,True
+2092,2092,Toyota,Etios,2026,OD28FT2245,Silver,True
+2093,2093,Toyota,Etios,2023,OD16NM1263,Blue,True
+2094,2094,Toyota,Glanza,2025,OD06OY5883,Grey,True
+2095,2095,Honda,City,2021,OD14TO9662,Blue,True
+2096,2096,Toyota,Etios,2020,OD33XT6674,Red,True
+2097,2097,Honda,Amaze,2019,OD08ZU9769,Silver,True
+2098,2098,Tata,Altroz,2025,OD25CN4983,Blue,True
+2099,2099,Hyundai,i20,2023,OD17PP8919,Silver,True
+2100,2100,Honda,Amaze,2017,OD10HQ5491,Blue,False
+2101,2101,Honda,City,2022,OD05ZT2333,Blue,False
+2102,2102,Tata,Tigor,2023,OD35HE4070,Blue,True
+2103,2103,Maruti Suzuki,Swift,2021,OD01KJ6745,Red,True
+2104,2104,Honda,Amaze,2022,OD21RL5659,White,True
+2105,2105,Toyota,Glanza,2025,OD15IJ4029,Silver,False
+2106,2106,Hyundai,Aura,2023,OD07EG4838,Black,True
+2107,2107,Honda,City,2019,OD13LZ4190,Red,True
+2108,2108,Toyota,Etios,2021,OD35AS7487,Black,True
+2109,2109,Maruti Suzuki,Baleno,2022,OD01QP9008,Red,True
+2110,2110,Honda,Amaze,2023,OD13ON5055,White,False
+2111,2111,Honda,Amaze,2025,OD33XH8165,Grey,False
+2112,2112,Maruti Suzuki,Baleno,2023,OD32QZ6339,Silver,True
+2113,2113,Maruti Suzuki,Baleno,2026,OD19IL1759,Grey,True
+2114,2114,Toyota,Etios,2018,OD02VC1282,Grey,True
+2115,2115,Hyundai,Aura,2018,OD26LE8350,Blue,True
+2116,2116,Tata,Tigor,2022,OD16AK5985,Red,True
+2117,2117,Tata,Tigor,2023,OD08CO8242,Silver,True
+2118,2118,Toyota,Etios,2018,OD18ZU6172,Blue,True
+2119,2119,Toyota,Etios,2026,OD03QV9205,Silver,True
+2120,2120,Honda,City,2021,OD13WR1036,Silver,True
+2121,2121,Honda,City,2025,OD31EN9545,Black,True
+2122,2122,Maruti Suzuki,Dzire,2016,OD23CZ4111,White,False
+2123,2123,Toyota,Etios,2023,OD12CY3105,Blue,True
+2124,2124,Tata,Tigor,2024,OD16RO1460,Black,False
+2125,2125,Toyota,Etios,2019,OD29SR3549,White,True
+2126,2126,Toyota,Glanza,2020,OD06HP2694,Grey,True
+2127,2127,Maruti Suzuki,Dzire,2019,OD03QL9694,Black,True
+2128,2128,Honda,City,2026,OD33GN9452,White,False
+2129,2129,Honda,Amaze,2019,OD35MN6504,Red,False
+2130,2130,Maruti Suzuki,Dzire,2023,OD31LL6828,Grey,True
+2131,2131,Tata,Tigor,2017,OD01KX8240,Grey,True
+2132,2132,Tata,Tiago,2020,OD03FK9735,Red,True
+2133,2133,Maruti Suzuki,Baleno,2024,OD21ZK9660,Grey,True
+2134,2134,Hyundai,i20,2023,OD33JY6894,Grey,True
+2135,2135,Maruti Suzuki,Baleno,2016,OD10JD1268,Silver,True
+2136,2136,Tata,Tiago,2023,OD20SH2915,Grey,False
+2137,2137,Maruti Suzuki,Baleno,2026,OD08NY2877,White,True
+2138,2138,Tata,Altroz,2022,OD28CH5661,White,True
+2139,2139,Honda,City,2016,OD03BJ6500,Blue,True
+2140,2140,Maruti Suzuki,Baleno,2024,OD09EU8824,White,False
+2141,2141,Toyota,Glanza,2026,OD25JT6042,Blue,True
+2142,2142,Tata,Tigor,2026,OD23XW9293,White,True
+2143,2143,Honda,Amaze,2024,OD14MJ8982,Black,True
+2144,2144,Tata,Tigor,2021,OD33XD8938,White,True
+2145,2145,Hyundai,i20,2017,OD19UV4014,Silver,True
+2146,2146,Toyota,Etios,2022,OD16VT1577,White,True
+2147,2147,Tata,Tigor,2019,OD02IW9908,Red,False
+2148,2148,Honda,Amaze,2021,OD07JA7168,White,False
+2149,2149,Maruti Suzuki,Baleno,2025,OD33OG2204,Grey,True
+2150,2150,Toyota,Glanza,2022,OD27RR2681,Black,True
+2151,2151,Hyundai,Aura,2024,OD19MT2779,Red,True
+2152,2152,Toyota,Glanza,2021,OD04DM5135,Silver,True
+2153,2153,Honda,City,2018,OD24OH2830,Black,True
+2154,2154,Hyundai,i20,2017,OD09OM9201,Grey,False
+2155,2155,Hyundai,i10,2025,OD23PZ6063,Grey,True
+2156,2156,Tata,Tiago,2024,OD04US9283,Blue,False
+2157,2157,Maruti Suzuki,Dzire,2019,OD15CY6518,Grey,True
+2158,2158,Honda,Amaze,2020,OD12MC5342,Silver,False
+2159,2159,Maruti Suzuki,Dzire,2021,OD03II2716,Silver,True
+2160,2160,Honda,City,2020,OD23VV9195,Red,True
+2161,2161,Toyota,Etios,2025,OD19XL5209,White,True
+2162,2162,Hyundai,Aura,2023,OD03IT9290,Grey,False
+2163,2163,Hyundai,i10,2025,OD13ZR4151,Grey,True
+2164,2164,Toyota,Etios,2021,OD11JF8786,Red,False
+2165,2165,Maruti Suzuki,Baleno,2023,OD19VV2983,Silver,False
+2166,2166,Tata,Tigor,2016,OD11NW3031,Black,True
+2167,2167,Hyundai,i20,2018,OD21LK7314,White,True
+2168,2168,Hyundai,i20,2018,OD06GR5191,White,True
+2169,2169,Tata,Tiago,2016,OD23IE6931,Black,False
+2170,2170,Tata,Tiago,2021,OD26RQ2011,Blue,True
+2171,2171,Toyota,Glanza,2016,OD29FP2176,Black,False
+2172,2172,Hyundai,i10,2020,OD03WV4020,Red,True
+2173,2173,Honda,Amaze,2019,OD10NP3594,Grey,True
+2174,2174,Hyundai,i10,2022,OD09OO8037,Grey,True
+2175,2175,Honda,City,2024,OD33DS5798,Grey,False
+2176,2176,Honda,City,2025,OD10SJ5398,Blue,True
+2177,2177,Maruti Suzuki,Swift,2022,OD32LU9108,Black,False
+2178,2178,Honda,City,2025,OD01VK4766,Grey,False
+2179,2179,Honda,Amaze,2018,OD03GC7501,White,True
+2180,2180,Maruti Suzuki,Dzire,2023,OD01KH5954,White,True
+2181,2181,Toyota,Glanza,2019,OD13DU6224,Red,True
+2182,2182,Toyota,Glanza,2017,OD26MI9856,White,True
+2183,2183,Hyundai,i20,2018,OD35BD4638,Blue,True
+2184,2184,Hyundai,i10,2017,OD23IY4948,Blue,False
+2185,2185,Toyota,Glanza,2021,OD32HI2418,Silver,True
+2186,2186,Maruti Suzuki,Baleno,2022,OD28AQ7885,Black,True
+2187,2187,Honda,City,2016,OD19MB3312,Grey,True
+2188,2188,Hyundai,i20,2023,OD09EK2716,Red,True
+2189,2189,Honda,Amaze,2019,OD22BN3054,White,True
+2190,2190,Toyota,Etios,2016,OD05KP9133,Red,True
+2191,2191,Honda,Amaze,2025,OD34CB8825,Red,True
+2192,2192,Hyundai,i20,2024,OD26NL1812,Blue,True
+2193,2193,Honda,Amaze,2022,OD11DJ1687,Grey,True
+2194,2194,Honda,Amaze,2016,OD34VO2355,Silver,True
+2195,2195,Toyota,Glanza,2019,OD01TE1428,White,True
+2196,2196,Honda,Amaze,2022,OD03PA3904,Red,True
+2197,2197,Honda,City,2024,OD21UO9575,Red,True
+2198,2198,Maruti Suzuki,Swift,2018,OD30HR2920,Silver,True
+2199,2199,Hyundai,Aura,2019,OD12ES8430,Red,True
+2200,2200,Tata,Tigor,2016,OD08JS5076,Blue,True
+2201,2201,Honda,City,2020,OD16UC9288,Blue,False
+2202,2202,Tata,Tigor,2025,OD18OR1853,White,False
+2203,2203,Toyota,Glanza,2020,OD28GM7735,Blue,True
+2204,2204,Honda,City,2021,OD24UA5589,Silver,True
+2205,2205,Toyota,Etios,2021,OD03AX9188,Red,False
+2206,2206,Maruti Suzuki,Baleno,2025,OD04XG2893,Grey,True
+2207,2207,Maruti Suzuki,Baleno,2017,OD15YL9197,White,True
+2208,2208,Hyundai,i10,2019,OD08ZY7140,Red,False
+2209,2209,Toyota,Etios,2020,OD02DB2366,Silver,False
+2210,2210,Maruti Suzuki,Swift,2025,OD13GK4040,White,False
+2211,2211,Hyundai,i10,2022,OD04VS4392,White,False
+2212,2212,Tata,Tiago,2022,OD26HH2916,Grey,True
+2213,2213,Tata,Tiago,2024,OD10GD1127,White,False
+2214,2214,Maruti Suzuki,Baleno,2023,OD08TZ5834,Silver,False
+2215,2215,Tata,Tiago,2021,OD08TV6930,White,True
+2216,2216,Toyota,Glanza,2016,OD22NY8224,Black,True
+2217,2217,Hyundai,i20,2019,OD24TL2425,Grey,False
+2218,2218,Hyundai,i20,2018,OD17DH1460,Black,True
+2219,2219,Toyota,Etios,2023,OD07BM7786,Silver,False
+2220,2220,Maruti Suzuki,Swift,2020,OD11GL8303,Grey,False
+2221,2221,Tata,Tiago,2026,OD20SB7016,Grey,True
+2222,2222,Honda,City,2019,OD10EW9126,Red,False
+2223,2223,Tata,Tiago,2022,OD08KQ8611,Blue,True
+2224,2224,Honda,Amaze,2017,OD31DK2856,White,True
+2225,2225,Tata,Tiago,2020,OD08FJ9204,Silver,True
+2226,2226,Tata,Tigor,2023,OD14CV4340,Grey,True
+2227,2227,Honda,City,2017,OD01VN7591,Blue,True
+2228,2228,Tata,Tigor,2026,OD04RL8792,Red,True
+2229,2229,Hyundai,i20,2016,OD08UZ2487,Grey,False
+2230,2230,Maruti Suzuki,Dzire,2016,OD25DG1602,White,True
+2231,2231,Hyundai,i20,2019,OD35HC9558,Red,True
+2232,2232,Honda,Amaze,2016,OD16KP7237,Silver,False
+2233,2233,Tata,Tiago,2016,OD05SC6196,Silver,True
+2234,2234,Honda,Amaze,2023,OD10JC3014,Grey,True
+2235,2235,Hyundai,i20,2018,OD20VW2142,White,True
+2236,2236,Honda,City,2020,OD26NE5501,Blue,True
+2237,2237,Hyundai,i10,2016,OD28JE2200,White,False
+2238,2238,Toyota,Etios,2022,OD04HQ6696,White,True
+2239,2239,Toyota,Glanza,2019,OD18WN7404,Silver,True
+2240,2240,Maruti Suzuki,Dzire,2020,OD28IK4085,Black,True
+2241,2241,Honda,City,2025,OD21AN1552,Silver,True
+2242,2242,Maruti Suzuki,Swift,2019,OD31UD4666,Red,True
+2243,2243,Honda,Amaze,2026,OD07YV1194,Grey,True
+2244,2244,Honda,City,2025,OD21OX7156,White,True
+2245,2245,Toyota,Glanza,2016,OD18DW6287,Red,True
+2246,2246,Tata,Tigor,2020,OD32HH5382,Red,True
+2247,2247,Tata,Altroz,2026,OD31HN8828,White,True
+2248,2248,Honda,City,2018,OD24HC8924,Silver,True
+2249,2249,Tata,Tiago,2025,OD14PA2353,Red,True
+2250,2250,Toyota,Etios,2025,OD26RS8334,Silver,True
+2251,2251,Toyota,Etios,2018,OD02KX6804,White,True
+2252,2252,Honda,Amaze,2024,OD05QI8322,Red,True
+2253,2253,Honda,City,2024,OD04MG3816,Silver,True
+2254,2254,Honda,Amaze,2017,OD23IB7246,Black,False
+2255,2255,Toyota,Glanza,2024,OD35XX1883,Grey,True
+2256,2256,Maruti Suzuki,Swift,2018,OD08OS6443,Blue,True
+2257,2257,Toyota,Glanza,2018,OD14HC4037,Silver,False
+2258,2258,Honda,City,2018,OD23AW4509,Blue,True
+2259,2259,Honda,Amaze,2022,OD12WO2902,Silver,True
+2260,2260,Hyundai,i20,2018,OD32UW9102,Black,True
+2261,2261,Hyundai,i20,2026,OD32HW9029,Silver,True
+2262,2262,Maruti Suzuki,Baleno,2020,OD10AT5139,Black,True
+2263,2263,Honda,Amaze,2023,OD17DL9326,Grey,True
+2264,2264,Toyota,Etios,2018,OD22BV6395,Blue,True
+2265,2265,Tata,Tiago,2026,OD01YS6966,Silver,False
+2266,2266,Honda,Amaze,2022,OD19VZ3984,Grey,True
+2267,2267,Honda,City,2023,OD10HQ2630,Grey,True
+2268,2268,Hyundai,Aura,2018,OD06HK2698,White,True
+2269,2269,Hyundai,Aura,2019,OD04DA8789,Silver,True
+2270,2270,Tata,Altroz,2016,OD12IM5569,Blue,True
+2271,2271,Maruti Suzuki,Swift,2019,OD09XE3971,Black,True
+2272,2272,Maruti Suzuki,Baleno,2023,OD16QY6271,Red,False
+2273,2273,Maruti Suzuki,Baleno,2025,OD20GS2717,Black,False
+2274,2274,Maruti Suzuki,Baleno,2021,OD29QG8859,Blue,True
+2275,2275,Maruti Suzuki,Swift,2017,OD28XR4044,Black,False
+2276,2276,Maruti Suzuki,Baleno,2016,OD14OC7101,White,True
+2277,2277,Maruti Suzuki,Dzire,2024,OD20IW9920,Blue,True
+2278,2278,Toyota,Glanza,2019,OD29UI8170,Red,True
+2279,2279,Toyota,Glanza,2017,OD15ZG8297,White,True
+2280,2280,Toyota,Etios,2022,OD11JL6130,Silver,True
+2281,2281,Honda,City,2016,OD01KH6833,Silver,True
+2282,2282,Hyundai,i20,2024,OD07VD9375,White,True
+2283,2283,Toyota,Glanza,2024,OD21BZ3232,Red,True
+2284,2284,Honda,City,2025,OD11KQ8967,Red,True
+2285,2285,Hyundai,i20,2017,OD24NY5829,White,True
+2286,2286,Hyundai,i10,2016,OD29YA7247,Grey,False
+2287,2287,Honda,Amaze,2026,OD26GY4816,White,True
+2288,2288,Toyota,Glanza,2022,OD06DS6445,Silver,True
+2289,2289,Maruti Suzuki,Baleno,2019,OD32GX2869,Black,True
+2290,2290,Maruti Suzuki,Swift,2023,OD32TC8643,White,True
+2291,2291,Honda,Amaze,2016,OD27DZ9822,Blue,True
+2292,2292,Maruti Suzuki,Swift,2020,OD24QE1738,Grey,True
+2293,2293,Maruti Suzuki,Dzire,2018,OD18OW5891,Black,True
+2294,2294,Honda,City,2023,OD16EL6263,White,False
+2295,2295,Tata,Tiago,2025,OD02KW4585,Grey,False
+2296,2296,Toyota,Glanza,2018,OD02OF1560,Blue,True
+2297,2297,Honda,Amaze,2019,OD21WW6256,White,True
+2298,2298,Toyota,Etios,2024,OD17IK8134,Silver,False
+2299,2299,Toyota,Glanza,2023,OD17JF1550,Silver,True
+2300,2300,Maruti Suzuki,Baleno,2021,OD06LW6338,Grey,False
+2301,2301,Tata,Tiago,2025,OD12BD7448,Red,False
+2302,2302,Tata,Altroz,2025,OD16BA2172,Black,True
+2303,2303,Maruti Suzuki,Dzire,2016,OD23XU9828,White,False
+2304,2304,Honda,Amaze,2025,OD05IZ5452,Grey,True
+2305,2305,Tata,Altroz,2020,OD01BA1658,Silver,True
+2306,2306,Maruti Suzuki,Dzire,2022,OD17LI8568,Grey,True
+2307,2307,Tata,Altroz,2024,OD29LF6919,Grey,True
+2308,2308,Tata,Altroz,2025,OD10JM7963,Black,True
+2309,2309,Honda,City,2016,OD06GQ1647,Red,False
+2310,2310,Toyota,Etios,2017,OD06QD3795,Red,True
+2311,2311,Honda,City,2018,OD24BR2925,Silver,True
+2312,2312,Toyota,Glanza,2020,OD16DK1352,Grey,True
+2313,2313,Honda,City,2017,OD28VI8881,Grey,False
+2314,2314,Hyundai,i10,2026,OD03WH3560,Red,True
+2315,2315,Maruti Suzuki,Baleno,2023,OD26PB3656,Silver,True
+2316,2316,Honda,Amaze,2022,OD33IJ5555,Grey,False
+2317,2317,Tata,Tigor,2026,OD33TY3949,Silver,True
+2318,2318,Maruti Suzuki,Baleno,2024,OD15FQ2102,White,True
+2319,2319,Honda,Amaze,2020,OD18YP3574,Blue,False
+2320,2320,Tata,Altroz,2017,OD18JQ6009,White,True
+2321,2321,Toyota,Etios,2022,OD22YR5179,Grey,True
+2322,2322,Toyota,Glanza,2026,OD19RX9243,Grey,True
+2323,2323,Honda,Amaze,2023,OD26VU8820,Grey,True
+2324,2324,Toyota,Etios,2019,OD29QB6269,Black,True
+2325,2325,Hyundai,i20,2017,OD07RO3008,Grey,True
+2326,2326,Toyota,Etios,2020,OD29NZ8499,Grey,False
+2327,2327,Honda,Amaze,2025,OD06SD4108,Silver,True
+2328,2328,Honda,City,2018,OD22SV4450,White,False
+2329,2329,Honda,City,2016,OD34ZL7888,Grey,True
+2330,2330,Toyota,Glanza,2016,OD24UN4482,Red,False
+2331,2331,Honda,Amaze,2026,OD20IZ8296,Grey,False
+2332,2332,Maruti Suzuki,Dzire,2016,OD23ZO8668,White,True
+2333,2333,Tata,Altroz,2016,OD06LL5621,Silver,True
+2334,2334,Maruti Suzuki,Baleno,2025,OD35KO6304,Black,True
+2335,2335,Honda,Amaze,2023,OD17IX5408,Silver,True
+2336,2336,Tata,Altroz,2026,OD31MY7717,Black,True
+2337,2337,Tata,Altroz,2020,OD12AW6471,White,True
+2338,2338,Hyundai,i10,2026,OD29FP8702,Black,True
+2339,2339,Honda,City,2025,OD21VQ9158,White,True
+2340,2340,Hyundai,Aura,2026,OD28MA4846,Grey,False
+2341,2341,Toyota,Glanza,2026,OD12YO8129,Red,True
+2342,2342,Tata,Altroz,2018,OD19GW6904,White,True
+2343,2343,Honda,City,2017,OD28LH8834,Grey,False
+2344,2344,Toyota,Etios,2018,OD18PD7882,Silver,True
+2345,2345,Toyota,Glanza,2022,OD13VN6466,White,False
+2346,2346,Hyundai,i20,2025,OD12LB2623,Grey,True
+2347,2347,Tata,Tigor,2025,OD31QB8870,Blue,True
+2348,2348,Hyundai,i10,2023,OD03AQ2037,Black,True
+2349,2349,Tata,Altroz,2025,OD02EG8869,Silver,True
+2350,2350,Hyundai,i20,2025,OD12YY5566,Blue,True
+2351,2351,Maruti Suzuki,Baleno,2016,OD06WM6774,Blue,True
+2352,2352,Maruti Suzuki,Baleno,2018,OD20NI1645,Black,True
+2353,2353,Maruti Suzuki,Baleno,2018,OD30TD5311,Grey,True
+2354,2354,Toyota,Etios,2017,OD06UE1450,Black,True
+2355,2355,Toyota,Glanza,2021,OD25NV8089,Red,True
+2356,2356,Hyundai,i10,2025,OD19GR4404,Red,False
+2357,2357,Tata,Altroz,2020,OD11QQ5913,Grey,True
+2358,2358,Honda,City,2019,OD20UR6316,White,True
+2359,2359,Maruti Suzuki,Baleno,2018,OD29PZ3238,Red,True
+2360,2360,Honda,Amaze,2017,OD26FL1763,Silver,True
+2361,2361,Hyundai,i10,2022,OD29TT3386,Silver,True
+2362,2362,Toyota,Glanza,2023,OD10MR8559,Red,False
+2363,2363,Toyota,Glanza,2024,OD34SI2298,Black,False
+2364,2364,Honda,Amaze,2024,OD32PI9156,Blue,False
+2365,2365,Toyota,Glanza,2016,OD19AO7216,Red,True
+2366,2366,Toyota,Etios,2025,OD25KF5615,White,True
+2367,2367,Honda,Amaze,2017,OD33BE1299,Silver,True
+2368,2368,Tata,Tiago,2016,OD30ZD2131,Black,True
+2369,2369,Hyundai,Aura,2019,OD30BF7919,Silver,False
+2370,2370,Toyota,Glanza,2020,OD26HZ6858,Silver,True
+2371,2371,Maruti Suzuki,Baleno,2019,OD24GC2301,White,True
+2372,2372,Tata,Altroz,2020,OD24MO4690,White,True
+2373,2373,Honda,Amaze,2016,OD05VW8555,Silver,True
+2374,2374,Maruti Suzuki,Dzire,2021,OD27AZ9186,Black,True
+2375,2375,Hyundai,i10,2023,OD14OG4867,Blue,False
+2376,2376,Maruti Suzuki,Swift,2016,OD07VJ3814,Grey,True
+2377,2377,Maruti Suzuki,Baleno,2025,OD11FX5277,White,True
+2378,2378,Honda,Amaze,2019,OD34MK5422,Red,False
+2379,2379,Honda,Amaze,2018,OD21CI5088,Silver,True
+2380,2380,Tata,Tigor,2017,OD05RW1506,White,True
+2381,2381,Tata,Tiago,2017,OD21XH2147,Red,True
+2382,2382,Toyota,Etios,2025,OD27BE8895,Grey,True
+2383,2383,Tata,Tigor,2023,OD28NB6363,Silver,True
+2384,2384,Honda,Amaze,2021,OD31LA5478,Black,True
+2385,2385,Tata,Tigor,2020,OD04MS5316,Red,False
+2386,2386,Maruti Suzuki,Baleno,2023,OD22ID9490,Black,False
+2387,2387,Honda,Amaze,2017,OD20RR2591,Grey,True
+2388,2388,Tata,Altroz,2016,OD05SP6411,Silver,False
+2389,2389,Maruti Suzuki,Baleno,2018,OD26PX9985,Grey,True
+2390,2390,Maruti Suzuki,Dzire,2020,OD19CJ5571,Red,True
+2391,2391,Toyota,Etios,2018,OD26PZ1307,Blue,True
+2392,2392,Tata,Tiago,2017,OD22DH8180,Red,False
+2393,2393,Hyundai,i20,2024,OD17TO1704,Silver,True
+2394,2394,Tata,Tiago,2022,OD33DJ3455,White,False
+2395,2395,Honda,Amaze,2023,OD01BN9763,White,True
+2396,2396,Hyundai,i20,2021,OD31EV4696,Blue,False
+2397,2397,Honda,City,2017,OD04KI2990,Grey,True
+2398,2398,Tata,Tiago,2016,OD32NA2316,Red,False
+2399,2399,Tata,Tiago,2024,OD01AO8753,Blue,True
+2400,2400,Hyundai,Aura,2020,OD24LO8156,White,False
+2401,2401,Honda,City,2016,OD28NP3150,Red,True
+2402,2402,Toyota,Glanza,2018,OD15JS2922,Silver,True
+2403,2403,Maruti Suzuki,Baleno,2025,OD10DL3595,Grey,True
+2404,2404,Tata,Altroz,2023,OD35HG7927,Grey,True
+2405,2405,Maruti Suzuki,Baleno,2026,OD07FV1736,Silver,True
+2406,2406,Tata,Altroz,2023,OD26SX9739,Blue,True
+2407,2407,Maruti Suzuki,Swift,2026,OD11KY7635,Black,True
+2408,2408,Toyota,Glanza,2022,OD07XA9842,White,True
+2409,2409,Tata,Tigor,2026,OD03ZC7609,Red,True
+2410,2410,Maruti Suzuki,Baleno,2026,OD26WH8498,White,True
+2411,2411,Tata,Tigor,2025,OD23TD6210,White,False
+2412,2412,Honda,City,2017,OD28WN3485,Blue,False
+2413,2413,Tata,Altroz,2022,OD13MB3175,Silver,True
+2414,2414,Honda,City,2019,OD10ZB3427,Black,True
+2415,2415,Tata,Tigor,2016,OD02MT5394,White,False
+2416,2416,Toyota,Etios,2019,OD32DR4278,Red,True
+2417,2417,Maruti Suzuki,Swift,2016,OD01NM6285,Blue,True
+2418,2418,Toyota,Etios,2019,OD15AY1095,Silver,False
+2419,2419,Maruti Suzuki,Swift,2021,OD27AW9743,Blue,False
+2420,2420,Maruti Suzuki,Dzire,2020,OD16PL1087,Silver,True
+2421,2421,Honda,Amaze,2026,OD21XR4974,White,True
+2422,2422,Honda,Amaze,2018,OD32UQ1386,Black,False
+2423,2423,Honda,City,2021,OD08GA1782,Silver,True
+2424,2424,Maruti Suzuki,Baleno,2024,OD21PK5895,Grey,True
+2425,2425,Toyota,Glanza,2024,OD19FP6037,White,False
+2426,2426,Hyundai,Aura,2018,OD33KZ1043,Grey,True
+2427,2427,Tata,Tigor,2019,OD12AL3294,Blue,True
+2428,2428,Maruti Suzuki,Dzire,2021,OD04DG6398,Black,True
+2429,2429,Honda,Amaze,2017,OD29RQ8765,Red,True
+2430,2430,Maruti Suzuki,Baleno,2021,OD08GT2972,Blue,True
+2431,2431,Maruti Suzuki,Baleno,2016,OD23XC5743,White,True
+2432,2432,Maruti Suzuki,Baleno,2016,OD32IU1683,Silver,True
+2433,2433,Maruti Suzuki,Dzire,2022,OD14GZ3523,Grey,False
+2434,2434,Toyota,Glanza,2022,OD17OH9371,Grey,True
+2435,2435,Maruti Suzuki,Baleno,2018,OD24FG1793,Grey,True
+2436,2436,Tata,Tigor,2019,OD27ZB8191,White,True
+2437,2437,Tata,Tiago,2019,OD31GT5867,Blue,True
+2438,2438,Hyundai,Aura,2021,OD35CS4634,Grey,False
+2439,2439,Toyota,Etios,2019,OD28JG8004,Silver,True
+2440,2440,Maruti Suzuki,Baleno,2020,OD21WT5586,Silver,False
+2441,2441,Toyota,Glanza,2021,OD03YR6236,White,True
+2442,2442,Honda,Amaze,2026,OD07RO8846,Grey,True
+2443,2443,Hyundai,Aura,2016,OD09GA5607,Black,True
+2444,2444,Hyundai,i10,2024,OD34UY4920,White,False
+2445,2445,Maruti Suzuki,Swift,2021,OD02TX3515,Grey,True
+2446,2446,Tata,Tiago,2016,OD20HY9950,Grey,False
+2447,2447,Honda,City,2023,OD03ZP3503,Grey,True
+2448,2448,Hyundai,i20,2021,OD31XQ7856,Grey,True
+2449,2449,Honda,Amaze,2021,OD14PG9682,White,True
+2450,2450,Hyundai,i10,2016,OD30AC9880,Black,True
+2451,2451,Honda,City,2016,OD30LD9579,Red,False
+2452,2452,Hyundai,i10,2016,OD33VU7783,Black,False
+2453,2453,Honda,Amaze,2024,OD05NR7344,White,True
+2454,2454,Honda,City,2024,OD34CF8968,Blue,True
+2455,2455,Tata,Altroz,2018,OD24FR5362,Grey,True
+2456,2456,Toyota,Glanza,2022,OD35YC8366,Blue,True
+2457,2457,Hyundai,Aura,2020,OD07VT8476,Blue,False
+2458,2458,Maruti Suzuki,Swift,2017,OD03RB9702,Black,True
+2459,2459,Toyota,Glanza,2025,OD35LX5234,Silver,False
+2460,2460,Toyota,Glanza,2020,OD35HG5177,Grey,True
+2461,2461,Toyota,Etios,2023,OD09MB3994,White,True
+2462,2462,Maruti Suzuki,Baleno,2024,OD02NW7922,Red,False
+2463,2463,Tata,Tiago,2021,OD31UV5975,Black,True
+2464,2464,Toyota,Etios,2024,OD01WG8293,Blue,True
+2465,2465,Tata,Altroz,2019,OD29DE7852,Red,False
+2466,2466,Maruti Suzuki,Dzire,2017,OD22ZK8972,Blue,True
+2467,2467,Hyundai,Aura,2023,OD13WC5648,Black,True
+2468,2468,Honda,City,2022,OD09IP5514,Red,True
+2469,2469,Hyundai,i10,2017,OD32RF8365,Black,True
+2470,2470,Tata,Altroz,2025,OD31NN3209,White,True
+2471,2471,Maruti Suzuki,Dzire,2024,OD18WM5146,White,True
+2472,2472,Tata,Tigor,2023,OD19NM3275,White,False
+2473,2473,Toyota,Etios,2022,OD22UE6178,Silver,True
+2474,2474,Hyundai,i20,2021,OD28MO3859,Blue,True
+2475,2475,Toyota,Glanza,2023,OD11EW7881,Grey,True
+2476,2476,Maruti Suzuki,Dzire,2026,OD02DK5256,White,True
+2477,2477,Toyota,Glanza,2023,OD15RN9807,Blue,True
+2478,2478,Hyundai,Aura,2018,OD13RV9597,Grey,True
+2479,2479,Hyundai,i20,2026,OD17NU9208,Red,False
+2480,2480,Hyundai,Aura,2022,OD28CB4713,Silver,False
+2481,2481,Tata,Tigor,2020,OD04RJ4289,Grey,True
+2482,2482,Tata,Altroz,2018,OD27EP4798,Red,True
+2483,2483,Maruti Suzuki,Baleno,2022,OD03BX2264,Black,False
+2484,2484,Honda,City,2022,OD03SZ8109,White,True
+2485,2485,Toyota,Glanza,2025,OD06AB2742,Grey,False
+2486,2486,Tata,Altroz,2025,OD21JK6095,Red,True
+2487,2487,Maruti Suzuki,Swift,2017,OD31QI7555,Black,False
+2488,2488,Tata,Altroz,2018,OD01UK3963,Red,True
+2489,2489,Tata,Altroz,2026,OD33OV4235,White,False
+2490,2490,Hyundai,i10,2017,OD27ML7551,Blue,True
+2491,2491,Maruti Suzuki,Baleno,2023,OD04UR7619,White,True
+2492,2492,Honda,Amaze,2019,OD17AU3405,Silver,True
+2493,2493,Maruti Suzuki,Dzire,2020,OD12EO7889,Silver,True
+2494,2494,Tata,Altroz,2026,OD20YV7781,Silver,True
+2495,2495,Honda,City,2016,OD21GJ9177,Grey,True
+2496,2496,Maruti Suzuki,Swift,2022,OD01FQ7127,Red,True
+2497,2497,Hyundai,Aura,2024,OD35XP6625,Silver,False
+2498,2498,Tata,Altroz,2018,OD04IX2142,Red,True
+2499,2499,Tata,Tiago,2024,OD11YH1814,White,False
+2500,2500,Tata,Altroz,2019,OD02VH3193,Blue,False
+2501,2501,Honda,City,2020,OD19HH3383,Blue,True
+2502,2502,Tata,Altroz,2023,OD34NP5626,Red,True
+2503,2503,Tata,Tigor,2023,OD09IU7444,Red,True
+2504,2504,Toyota,Etios,2018,OD33GV5846,White,True
+2505,2505,Honda,City,2026,OD05AB8246,Blue,True
+2506,2506,Tata,Tiago,2025,OD33FS5057,White,False
+2507,2507,Tata,Tiago,2017,OD09QE7941,Silver,True
+2508,2508,Toyota,Etios,2016,OD12JQ2170,White,True
+2509,2509,Tata,Tigor,2025,OD06LY9663,Red,True
+2510,2510,Hyundai,i20,2026,OD23ML2916,Red,True
+2511,2511,Hyundai,i20,2019,OD17IB8657,Red,True
+2512,2512,Toyota,Glanza,2022,OD14CX4921,Blue,True
+2513,2513,Toyota,Etios,2019,OD21OR5415,Silver,True
+2514,2514,Honda,Amaze,2017,OD10QF2201,Red,True
+2515,2515,Maruti Suzuki,Swift,2022,OD20UE2550,Red,True
+2516,2516,Tata,Tigor,2020,OD32RQ4562,Grey,False
+2517,2517,Maruti Suzuki,Dzire,2016,OD24AO1411,Blue,True
+2518,2518,Maruti Suzuki,Baleno,2022,OD09MV4560,Black,False
+2519,2519,Honda,Amaze,2020,OD13EN6483,Grey,True
+2520,2520,Maruti Suzuki,Dzire,2025,OD34BI9045,White,False
+2521,2521,Toyota,Glanza,2023,OD34PP6387,Black,True
+2522,2522,Toyota,Etios,2019,OD25SZ2783,Blue,True
+2523,2523,Tata,Tigor,2020,OD07VZ9934,Red,True
+2524,2524,Toyota,Etios,2023,OD10QF7549,Black,True
+2525,2525,Maruti Suzuki,Dzire,2021,OD07KT6138,Black,False
+2526,2526,Tata,Tigor,2024,OD32DL6431,Red,True
+2527,2527,Hyundai,i10,2017,OD29SY4730,White,True
+2528,2528,Tata,Tigor,2021,OD25CT7930,Red,True
+2529,2529,Honda,City,2021,OD04ED1334,White,True
+2530,2530,Hyundai,i20,2024,OD28JV6845,Blue,False
+2531,2531,Maruti Suzuki,Swift,2021,OD08UE6334,Black,True
+2532,2532,Honda,Amaze,2017,OD01KG9125,Grey,True
+2533,2533,Hyundai,Aura,2024,OD30US3748,Red,False
+2534,2534,Tata,Altroz,2022,OD12FM9447,Red,False
+2535,2535,Tata,Tiago,2017,OD05XL3679,Red,True
+2536,2536,Hyundai,Aura,2023,OD09VA8282,Silver,False
+2537,2537,Toyota,Glanza,2017,OD20UJ5113,Red,True
+2538,2538,Maruti Suzuki,Baleno,2025,OD25VI6170,Red,False
+2539,2539,Hyundai,Aura,2020,OD13RI1103,Blue,True
+2540,2540,Honda,City,2026,OD05LO4744,Red,False
+2541,2541,Toyota,Etios,2016,OD29BK2799,Blue,True
+2542,2542,Tata,Tiago,2026,OD08ZA4137,White,False
+2543,2543,Honda,Amaze,2016,OD31LS2727,Silver,True
+2544,2544,Tata,Tigor,2022,OD05TN7593,Red,False
+2545,2545,Honda,Amaze,2017,OD22BW5428,Black,True
+2546,2546,Maruti Suzuki,Swift,2016,OD12MU7095,Silver,False
+2547,2547,Honda,City,2023,OD24NU7468,Silver,False
+2548,2548,Hyundai,Aura,2018,OD31PJ2369,White,True
+2549,2549,Maruti Suzuki,Dzire,2024,OD21TA3488,Black,True
+2550,2550,Maruti Suzuki,Baleno,2020,OD28YW4044,White,True
+2551,2551,Honda,Amaze,2022,OD07MK4609,Grey,True
+2552,2552,Maruti Suzuki,Dzire,2019,OD19FR1001,Grey,True
+2553,2553,Honda,Amaze,2025,OD13BS7190,White,True
+2554,2554,Maruti Suzuki,Dzire,2017,OD04NM2994,Grey,True
+2555,2555,Hyundai,i20,2023,OD04KS1960,Silver,True
+2556,2556,Maruti Suzuki,Dzire,2026,OD31OT8057,Red,True
+2557,2557,Maruti Suzuki,Baleno,2025,OD19NO1528,Blue,False
+2558,2558,Maruti Suzuki,Baleno,2023,OD18TN2134,Black,True
+2559,2559,Toyota,Glanza,2016,OD33VY9029,Blue,True
+2560,2560,Honda,City,2025,OD35QQ3508,Silver,True
+2561,2561,Honda,City,2025,OD26QX7417,Blue,False
+2562,2562,Hyundai,i20,2020,OD33FW4839,White,True
+2563,2563,Toyota,Etios,2017,OD21IP6455,Blue,True
+2564,2564,Maruti Suzuki,Swift,2019,OD14MO3480,Red,True
+2565,2565,Maruti Suzuki,Dzire,2022,OD29YX9550,White,True
+2566,2566,Maruti Suzuki,Baleno,2018,OD35FJ7647,Silver,True
+2567,2567,Hyundai,i20,2017,OD27ZK1916,Blue,True
+2568,2568,Hyundai,Aura,2019,OD07LS7689,Red,True
+2569,2569,Honda,Amaze,2019,OD08UT2027,Silver,True
+2570,2570,Toyota,Glanza,2019,OD25ZS1383,White,True
+2571,2571,Honda,Amaze,2020,OD28XJ5610,Blue,True
+2572,2572,Maruti Suzuki,Dzire,2026,OD35CK2609,Blue,True
+2573,2573,Toyota,Etios,2018,OD32RS2525,Red,True
+2574,2574,Toyota,Glanza,2022,OD35TB1345,Blue,False
+2575,2575,Maruti Suzuki,Baleno,2022,OD34CJ6051,White,False
+2576,2576,Honda,City,2017,OD07PY8644,Red,True
+2577,2577,Toyota,Etios,2018,OD01NP1821,Blue,True
+2578,2578,Tata,Altroz,2024,OD23RE5589,Red,True
+2579,2579,Tata,Altroz,2026,OD31PW6280,Red,False
+2580,2580,Hyundai,i20,2016,OD03HB4232,White,True
+2581,2581,Maruti Suzuki,Baleno,2024,OD27CO6694,Blue,False
+2582,2582,Hyundai,i10,2026,OD20TJ8671,Grey,True
+2583,2583,Maruti Suzuki,Baleno,2020,OD23QG3967,Silver,True
+2584,2584,Toyota,Glanza,2017,OD01EZ7611,Black,True
+2585,2585,Tata,Altroz,2018,OD10OY8967,Red,False
+2586,2586,Maruti Suzuki,Baleno,2021,OD20VF7924,Blue,True
+2587,2587,Hyundai,Aura,2026,OD24XL5324,Black,True
+2588,2588,Tata,Altroz,2018,OD06HQ1068,White,True
+2589,2589,Tata,Altroz,2021,OD31MT5529,White,True
+2590,2590,Maruti Suzuki,Swift,2025,OD35YL7036,Black,True
+2591,2591,Hyundai,i20,2021,OD01QY4534,Blue,False
+2592,2592,Hyundai,i10,2023,OD21FK3451,Red,True
+2593,2593,Hyundai,i20,2019,OD17WE2572,Red,True
+2594,2594,Toyota,Etios,2023,OD28KN3716,Blue,True
+2595,2595,Honda,Amaze,2019,OD24AA7886,Red,True
+2596,2596,Tata,Tigor,2024,OD03JZ9495,Black,True
+2597,2597,Maruti Suzuki,Dzire,2026,OD35FQ7210,Black,True
+2598,2598,Tata,Altroz,2023,OD12SG8402,White,False
+2599,2599,Hyundai,Aura,2026,OD24QO4564,Grey,True
+2600,2600,Toyota,Glanza,2021,OD23RE3226,Grey,True
+2601,2601,Hyundai,Aura,2026,OD06NO7115,White,True
+2602,2602,Maruti Suzuki,Dzire,2019,OD09UO1400,Black,True
+2603,2603,Maruti Suzuki,Dzire,2023,OD31KY7221,Red,False
+2604,2604,Hyundai,Aura,2023,OD06HO9800,Grey,True
+2605,2605,Toyota,Glanza,2021,OD16QF9841,Blue,True
+2606,2606,Hyundai,Aura,2018,OD15VT7395,Silver,False
+2607,2607,Tata,Tiago,2026,OD32ZY7372,Silver,True
+2608,2608,Tata,Tiago,2018,OD21ME3769,Black,True
+2609,2609,Toyota,Glanza,2020,OD27IV5404,Black,False
+2610,2610,Maruti Suzuki,Swift,2024,OD04OC7161,White,False
+2611,2611,Toyota,Glanza,2025,OD17KC1605,Grey,True
+2612,2612,Toyota,Glanza,2025,OD10CM3387,Blue,False
+2613,2613,Maruti Suzuki,Dzire,2018,OD32QL9116,White,True
+2614,2614,Hyundai,i20,2026,OD13UA6903,Grey,True
+2615,2615,Honda,Amaze,2021,OD03VS7280,Blue,True
+2616,2616,Maruti Suzuki,Swift,2019,OD21FR9662,Blue,True
+2617,2617,Toyota,Etios,2016,OD34CC1059,Grey,True
+2618,2618,Tata,Altroz,2018,OD14WM1420,Black,False
+2619,2619,Toyota,Glanza,2024,OD22RV9283,Silver,True
+2620,2620,Tata,Tiago,2023,OD09YD4250,Black,False
+2621,2621,Honda,City,2022,OD14RZ4664,White,True
+2622,2622,Toyota,Glanza,2020,OD15QJ4943,White,False
+2623,2623,Toyota,Etios,2021,OD25QW5283,Black,True
+2624,2624,Toyota,Glanza,2024,OD03CZ9611,Red,False
+2625,2625,Tata,Tigor,2018,OD06WW4742,White,True
+2626,2626,Hyundai,i20,2021,OD29JM1120,Black,True
+2627,2627,Hyundai,Aura,2019,OD07EC9017,Blue,True
+2628,2628,Honda,Amaze,2020,OD12WH3302,Grey,True
+2629,2629,Toyota,Glanza,2017,OD35KT3732,White,False
+2630,2630,Hyundai,i10,2020,OD08ML3134,Grey,True
+2631,2631,Honda,Amaze,2024,OD07AS6638,Black,True
+2632,2632,Maruti Suzuki,Swift,2017,OD30TV3963,Silver,True
+2633,2633,Hyundai,i20,2026,OD11EG9900,Red,True
+2634,2634,Maruti Suzuki,Swift,2026,OD29BF1489,Blue,True
+2635,2635,Toyota,Etios,2016,OD05YI7359,Blue,False
+2636,2636,Maruti Suzuki,Baleno,2019,OD26BO9115,Black,False
+2637,2637,Hyundai,i10,2026,OD19LB1117,Grey,True
+2638,2638,Tata,Tiago,2019,OD14LA2835,Grey,True
+2639,2639,Honda,Amaze,2021,OD05BJ5458,Grey,True
+2640,2640,Honda,Amaze,2016,OD24VC6536,White,True
+2641,2641,Hyundai,Aura,2018,OD02SM8260,Black,True
+2642,2642,Toyota,Glanza,2020,OD01PJ2529,Red,True
+2643,2643,Tata,Altroz,2026,OD27NK4913,Black,True
+2644,2644,Hyundai,i20,2019,OD34LP5553,Black,True
+2645,2645,Toyota,Glanza,2025,OD21QA1191,White,True
+2646,2646,Maruti Suzuki,Dzire,2018,OD25PL1717,White,True
+2647,2647,Honda,Amaze,2026,OD08IM6942,White,True
+2648,2648,Hyundai,Aura,2020,OD24LQ5758,Grey,True
+2649,2649,Hyundai,i10,2017,OD33DY1348,Black,True
+2650,2650,Hyundai,i10,2017,OD25LD9557,Blue,True
+2651,2651,Honda,Amaze,2025,OD08PY6718,White,False
+2652,2652,Tata,Tiago,2025,OD11MO8752,Red,True
+2653,2653,Maruti Suzuki,Dzire,2022,OD07MU3613,Red,True
+2654,2654,Toyota,Etios,2019,OD28LN9813,Red,False
+2655,2655,Hyundai,i10,2018,OD01IR8965,White,True
+2656,2656,Hyundai,i20,2026,OD22HJ8993,Grey,True
+2657,2657,Maruti Suzuki,Dzire,2020,OD10XW8684,White,False
+2658,2658,Tata,Tigor,2019,OD05JL7032,Silver,True
+2659,2659,Toyota,Glanza,2016,OD10UT1302,Grey,True
+2660,2660,Tata,Tigor,2019,OD21NI3215,Grey,True
+2661,2661,Toyota,Etios,2019,OD27UC1622,Blue,True
+2662,2662,Toyota,Glanza,2020,OD21BU9544,White,True
+2663,2663,Honda,City,2023,OD03EG7854,White,False
+2664,2664,Tata,Tiago,2023,OD04ZN1208,Black,True
+2665,2665,Tata,Tiago,2021,OD21GV2315,Black,True
+2666,2666,Maruti Suzuki,Dzire,2022,OD12FR1461,Blue,True
+2667,2667,Tata,Tiago,2023,OD24IV1517,White,False
+2668,2668,Hyundai,i20,2025,OD03LY5393,Blue,True
+2669,2669,Toyota,Glanza,2023,OD13TG4461,Blue,False
+2670,2670,Toyota,Glanza,2016,OD35FZ7935,Red,True
+2671,2671,Honda,Amaze,2018,OD04ZM5667,Grey,True
+2672,2672,Honda,City,2022,OD17OR6826,Grey,True
+2673,2673,Tata,Tiago,2024,OD17LB2273,Red,True
+2674,2674,Hyundai,Aura,2025,OD10LO1255,Blue,True
+2675,2675,Toyota,Etios,2017,OD01EQ6641,Red,True
+2676,2676,Maruti Suzuki,Dzire,2019,OD34VE6281,Red,True
+2677,2677,Hyundai,i10,2019,OD12VX9872,Grey,True
+2678,2678,Toyota,Glanza,2024,OD08SZ9668,White,True
+2679,2679,Hyundai,Aura,2019,OD03KG1247,Grey,False
+2680,2680,Hyundai,i10,2026,OD35HZ1869,Black,True
+2681,2681,Maruti Suzuki,Swift,2022,OD31OZ7583,Blue,True
+2682,2682,Maruti Suzuki,Baleno,2026,OD08XA6380,White,False
+2683,2683,Maruti Suzuki,Baleno,2023,OD03TL8946,Silver,True
+2684,2684,Tata,Altroz,2020,OD02NS2906,Silver,True
+2685,2685,Toyota,Etios,2022,OD31GR6000,Black,True
+2686,2686,Tata,Altroz,2021,OD27PN6152,Blue,False
+2687,2687,Toyota,Glanza,2025,OD25FX7700,Black,True
+2688,2688,Honda,Amaze,2018,OD17HP1702,Black,True
+2689,2689,Toyota,Glanza,2021,OD27MY6261,Red,True
+2690,2690,Tata,Tiago,2026,OD15JG1345,Grey,False
+2691,2691,Toyota,Glanza,2018,OD33OM9967,White,False
+2692,2692,Maruti Suzuki,Dzire,2026,OD06SD8713,White,True
+2693,2693,Tata,Tiago,2019,OD28XH8232,Silver,True
+2694,2694,Honda,Amaze,2024,OD03CG2232,Blue,True
+2695,2695,Hyundai,i20,2017,OD13LV8889,Red,True
+2696,2696,Honda,Amaze,2022,OD08CD5701,Grey,False
+2697,2697,Hyundai,i10,2023,OD14IO9825,Grey,True
+2698,2698,Tata,Tigor,2017,OD18KL7841,Silver,False
+2699,2699,Hyundai,i10,2026,OD07YM9386,Blue,True
+2700,2700,Toyota,Glanza,2022,OD26HP1308,White,True
+2701,2701,Hyundai,Aura,2019,OD03DJ9962,Red,True
+2702,2702,Honda,Amaze,2022,OD24NA9504,Blue,True
+2703,2703,Tata,Tiago,2024,OD03YV3127,Silver,True
+2704,2704,Honda,Amaze,2024,OD34ZF8081,White,False
+2705,2705,Hyundai,i20,2022,OD03ZR8495,Black,False
+2706,2706,Hyundai,i10,2020,OD13WC9458,White,True
+2707,2707,Honda,Amaze,2018,OD13QX1113,Silver,True
+2708,2708,Maruti Suzuki,Baleno,2019,OD01YU9595,Red,True
+2709,2709,Tata,Altroz,2017,OD06MJ9029,Grey,True
+2710,2710,Toyota,Glanza,2023,OD13RW7670,Blue,True
+2711,2711,Hyundai,i10,2023,OD09WF8985,Red,True
+2712,2712,Toyota,Glanza,2021,OD23GV4037,Silver,True
+2713,2713,Maruti Suzuki,Swift,2017,OD13MP2039,Grey,True
+2714,2714,Hyundai,i10,2024,OD20CX8758,Blue,False
+2715,2715,Honda,Amaze,2018,OD33PJ1235,Grey,True
+2716,2716,Honda,City,2024,OD33CA6546,Red,True
+2717,2717,Hyundai,Aura,2017,OD27PR2221,Black,True
+2718,2718,Honda,Amaze,2025,OD35KU4658,White,True
+2719,2719,Hyundai,i20,2026,OD34DI7974,Blue,True
+2720,2720,Hyundai,Aura,2021,OD16YN9463,Red,True
+2721,2721,Hyundai,i10,2016,OD29FU5923,Blue,False
+2722,2722,Maruti Suzuki,Baleno,2017,OD22NZ3609,Black,True
+2723,2723,Honda,City,2024,OD02CV5578,Grey,False
+2724,2724,Maruti Suzuki,Swift,2020,OD05ER1014,Silver,True
+2725,2725,Honda,Amaze,2018,OD03RG7878,Black,True
+2726,2726,Toyota,Etios,2020,OD33KM4044,Black,False
+2727,2727,Toyota,Etios,2017,OD31HZ3128,Grey,False
+2728,2728,Honda,Amaze,2022,OD13TU6436,Red,True
+2729,2729,Hyundai,i20,2024,OD04NL8774,Silver,True
+2730,2730,Honda,City,2026,OD15NM4992,Red,True
+2731,2731,Honda,City,2022,OD06QI6792,Black,True
+2732,2732,Honda,City,2023,OD32QL3262,Red,True
+2733,2733,Tata,Altroz,2019,OD27CR9405,Red,True
+2734,2734,Honda,City,2020,OD35SF4114,Blue,False
+2735,2735,Maruti Suzuki,Dzire,2018,OD18IK1071,Black,True
+2736,2736,Honda,City,2026,OD04ED8854,Blue,True
+2737,2737,Toyota,Etios,2025,OD35CM2776,Red,True
+2738,2738,Hyundai,i20,2022,OD14YF5780,White,True
+2739,2739,Toyota,Glanza,2020,OD14PI2475,Red,True
+2740,2740,Honda,Amaze,2024,OD25KK2968,White,False
+2741,2741,Maruti Suzuki,Baleno,2025,OD30AP9231,Black,True
+2742,2742,Maruti Suzuki,Swift,2018,OD20BF8716,Silver,True
+2743,2743,Hyundai,i20,2016,OD05ML8345,Silver,True
+2744,2744,Tata,Tigor,2020,OD34MG3432,Blue,True
+2745,2745,Maruti Suzuki,Baleno,2026,OD32VX1052,Silver,False
+2746,2746,Maruti Suzuki,Dzire,2021,OD31GQ5650,White,True
+2747,2747,Toyota,Etios,2016,OD02XN7218,White,False
+2748,2748,Maruti Suzuki,Baleno,2021,OD13CO7200,Grey,True
+2749,2749,Hyundai,i20,2020,OD24MT8586,Red,True
+2750,2750,Toyota,Glanza,2020,OD14HY7341,Blue,False
+2751,2751,Tata,Tigor,2021,OD24IM1273,Grey,True
+2752,2752,Tata,Tiago,2022,OD02LG4857,Blue,True
+2753,2753,Tata,Altroz,2025,OD28SM7179,Red,True
+2754,2754,Toyota,Glanza,2024,OD30YK9479,Blue,True
+2755,2755,Tata,Tiago,2020,OD02GN4654,Silver,False
+2756,2756,Tata,Tigor,2017,OD09ZX7395,White,True
+2757,2757,Honda,Amaze,2018,OD11UX4412,White,True
+2758,2758,Tata,Tiago,2017,OD11CZ4232,Silver,True
+2759,2759,Tata,Tigor,2025,OD02BP4039,Silver,False
+2760,2760,Honda,City,2018,OD16BM4436,Grey,True
+2761,2761,Honda,Amaze,2023,OD05UV7066,White,True
+2762,2762,Tata,Tiago,2019,OD26PO8917,Grey,False
+2763,2763,Toyota,Etios,2025,OD13XE3172,Silver,False
+2764,2764,Honda,Amaze,2023,OD06SN8727,Silver,True
+2765,2765,Honda,Amaze,2018,OD02TJ6480,Silver,True
+2766,2766,Hyundai,Aura,2025,OD18JG9656,Black,False
+2767,2767,Toyota,Etios,2022,OD18DH7367,Grey,False
+2768,2768,Tata,Altroz,2024,OD28QT7403,Blue,True
+2769,2769,Toyota,Etios,2024,OD28HS2289,Silver,True
+2770,2770,Toyota,Glanza,2021,OD03XX5674,Blue,True
+2771,2771,Tata,Tigor,2020,OD30IF8504,White,False
+2772,2772,Hyundai,i20,2020,OD18KX3466,Grey,False
+2773,2773,Maruti Suzuki,Swift,2025,OD22IO3672,Blue,False
+2774,2774,Tata,Tiago,2023,OD21CT5025,Blue,True
+2775,2775,Tata,Tigor,2016,OD16OR3758,Blue,True
+2776,2776,Hyundai,i20,2022,OD34TT2886,Red,True
+2777,2777,Toyota,Etios,2024,OD32PO1006,Red,False
+2778,2778,Tata,Tiago,2017,OD13SU4530,Blue,True
+2779,2779,Tata,Tigor,2023,OD31WY5988,Red,False
+2780,2780,Hyundai,i10,2023,OD31CQ7606,Black,False
+2781,2781,Honda,City,2024,OD27CM4808,Black,False
+2782,2782,Hyundai,Aura,2017,OD16AG3333,Red,False
+2783,2783,Hyundai,i20,2026,OD34NJ1446,Blue,True
+2784,2784,Honda,City,2021,OD18SP8413,White,True
+2785,2785,Hyundai,i20,2020,OD18ZH5205,Blue,True
+2786,2786,Tata,Tiago,2018,OD07UO7230,Black,True
+2787,2787,Toyota,Glanza,2017,OD12QT5088,Silver,True
+2788,2788,Toyota,Glanza,2016,OD11AL5032,Grey,True
+2789,2789,Maruti Suzuki,Dzire,2026,OD23MQ7984,Blue,False
+2790,2790,Toyota,Glanza,2016,OD06TF4579,Black,True
+2791,2791,Tata,Tiago,2020,OD01ID6132,Red,False
+2792,2792,Tata,Altroz,2020,OD10ON9474,Grey,True
+2793,2793,Hyundai,i20,2023,OD13ZH4706,Black,True
+2794,2794,Honda,City,2018,OD02CR5386,Silver,True
+2795,2795,Honda,City,2022,OD06NW3871,Blue,True
+2796,2796,Maruti Suzuki,Baleno,2022,OD19CA4502,White,True
+2797,2797,Maruti Suzuki,Baleno,2026,OD32HV3958,Red,False
+2798,2798,Tata,Tiago,2019,OD17UN7053,Red,True
+2799,2799,Tata,Tigor,2017,OD09VZ2008,Black,True
+2800,2800,Honda,City,2026,OD12NI5959,Red,True
+2801,2801,Maruti Suzuki,Baleno,2024,OD12WQ2876,Silver,True
+2802,2802,Tata,Tiago,2021,OD17FK8041,Black,False
+2803,2803,Maruti Suzuki,Dzire,2024,OD06YH9303,Silver,False
+2804,2804,Tata,Tiago,2019,OD17YB8589,Red,True
+2805,2805,Toyota,Glanza,2024,OD21AL9776,Black,True
+2806,2806,Maruti Suzuki,Dzire,2026,OD21YI7843,Red,True
+2807,2807,Maruti Suzuki,Swift,2016,OD26TA8057,White,True
+2808,2808,Toyota,Etios,2025,OD30GU8202,Black,True
+2809,2809,Hyundai,i10,2019,OD08KR5470,Grey,True
+2810,2810,Hyundai,Aura,2020,OD18YE9962,White,True
+2811,2811,Tata,Altroz,2016,OD04SF4452,White,True
+2812,2812,Maruti Suzuki,Dzire,2024,OD32HA6607,Red,True
+2813,2813,Toyota,Glanza,2016,OD16YI4427,Black,True
+2814,2814,Honda,Amaze,2016,OD22VL7024,Red,True
+2815,2815,Honda,Amaze,2024,OD20TP7086,Grey,True
+2816,2816,Honda,Amaze,2019,OD16TS5739,Black,True
+2817,2817,Maruti Suzuki,Baleno,2026,OD23CR9267,Blue,True
+2818,2818,Honda,City,2024,OD12ZQ1247,Red,True
+2819,2819,Honda,Amaze,2024,OD16TO9493,Black,True
+2820,2820,Maruti Suzuki,Baleno,2025,OD28LU9562,Silver,False
+2821,2821,Maruti Suzuki,Dzire,2020,OD22NF6232,Red,False
+2822,2822,Honda,Amaze,2019,OD11OD9753,Red,False
+2823,2823,Tata,Altroz,2023,OD22BZ1522,Red,True
+2824,2824,Maruti Suzuki,Dzire,2021,OD09BI7559,Blue,True
+2825,2825,Honda,City,2019,OD02UM5254,Blue,True
+2826,2826,Honda,City,2019,OD11BE5880,Red,True
+2827,2827,Tata,Tiago,2026,OD31HU2658,Blue,False
+2828,2828,Maruti Suzuki,Baleno,2026,OD01DC3963,White,True
+2829,2829,Honda,City,2018,OD05XM5139,Black,False
+2830,2830,Maruti Suzuki,Baleno,2022,OD27VN5498,Grey,True
+2831,2831,Maruti Suzuki,Dzire,2025,OD15LF8257,Silver,False
+2832,2832,Tata,Tiago,2016,OD35HD4158,White,True
+2833,2833,Maruti Suzuki,Baleno,2022,OD06UQ4624,Black,True
+2834,2834,Tata,Tiago,2025,OD03BP5836,White,False
+2835,2835,Honda,City,2019,OD03RM1396,Silver,True
+2836,2836,Toyota,Glanza,2017,OD26PE4477,Black,True
+2837,2837,Honda,City,2020,OD31DB7238,White,False
+2838,2838,Maruti Suzuki,Dzire,2023,OD16PO9656,Blue,True
+2839,2839,Maruti Suzuki,Dzire,2017,OD35DB1982,Grey,True
+2840,2840,Toyota,Glanza,2024,OD17PT9733,Red,True
+2841,2841,Maruti Suzuki,Baleno,2017,OD30BX6649,Grey,True
+2842,2842,Honda,City,2021,OD35UL8447,Silver,False
+2843,2843,Toyota,Glanza,2019,OD15MU8555,Red,True
+2844,2844,Toyota,Etios,2023,OD06AS4562,Red,False
+2845,2845,Toyota,Etios,2024,OD26KF4558,White,True
+2846,2846,Tata,Tigor,2019,OD13IG1406,Silver,True
+2847,2847,Maruti Suzuki,Dzire,2016,OD01AE7433,Grey,True
+2848,2848,Tata,Tigor,2023,OD23GZ8113,Silver,True
+2849,2849,Honda,Amaze,2024,OD09KC2705,Grey,True
+2850,2850,Hyundai,i10,2019,OD23QF2470,Grey,True
+2851,2851,Honda,Amaze,2026,OD16AR1867,Red,True
+2852,2852,Toyota,Glanza,2024,OD33WN2295,White,True
+2853,2853,Tata,Altroz,2016,OD20JW4795,White,False
+2854,2854,Tata,Altroz,2023,OD31EC2637,Black,False
+2855,2855,Maruti Suzuki,Baleno,2022,OD34DA9696,White,False
+2856,2856,Honda,City,2019,OD24EC6469,Black,False
+2857,2857,Honda,Amaze,2026,OD29DC1204,Grey,True
+2858,2858,Honda,City,2024,OD28IN6032,White,True
+2859,2859,Honda,Amaze,2021,OD20NR6499,Black,False
+2860,2860,Tata,Tiago,2021,OD12KO8278,Grey,False
+2861,2861,Honda,Amaze,2026,OD24CM7320,White,True
+2862,2862,Hyundai,Aura,2026,OD16VP1493,White,True
+2863,2863,Maruti Suzuki,Baleno,2021,OD04VO2256,Silver,True
+2864,2864,Toyota,Etios,2026,OD15EH1949,Red,True
+2865,2865,Honda,City,2018,OD22WS7857,White,True
+2866,2866,Tata,Altroz,2026,OD23VV4767,Black,True
+2867,2867,Maruti Suzuki,Dzire,2018,OD02NF9970,Red,True
+2868,2868,Tata,Altroz,2022,OD26BV4162,White,True
+2869,2869,Tata,Tiago,2026,OD34GI4277,Silver,True
+2870,2870,Honda,Amaze,2021,OD28QB9557,Grey,False
+2871,2871,Toyota,Glanza,2020,OD32EJ5269,White,False
+2872,2872,Honda,City,2018,OD07ZR9040,Red,True
+2873,2873,Hyundai,i10,2025,OD27JP5938,Black,True
+2874,2874,Hyundai,i20,2024,OD16XJ9560,Grey,True
+2875,2875,Toyota,Glanza,2025,OD22DN3765,Blue,True
+2876,2876,Toyota,Etios,2021,OD17QZ3529,Grey,True
+2877,2877,Honda,City,2019,OD15DF6531,Blue,True
+2878,2878,Hyundai,Aura,2024,OD30MM4652,Silver,True
+2879,2879,Tata,Tiago,2025,OD29XI5280,Grey,False
+2880,2880,Tata,Altroz,2018,OD09JM7571,Blue,True
+2881,2881,Maruti Suzuki,Dzire,2025,OD12CP7073,White,False
+2882,2882,Maruti Suzuki,Swift,2021,OD10UR5867,Silver,True
+2883,2883,Honda,Amaze,2026,OD21AU1376,Silver,False
+2884,2884,Tata,Altroz,2021,OD34BP7815,Grey,True
+2885,2885,Toyota,Etios,2024,OD20DH9939,Red,True
+2886,2886,Maruti Suzuki,Swift,2023,OD28BP9778,Black,True
+2887,2887,Tata,Altroz,2020,OD35FU3089,Silver,True
+2888,2888,Hyundai,i20,2024,OD35DM1253,Red,True
+2889,2889,Tata,Tiago,2020,OD07PN6781,Silver,False
+2890,2890,Maruti Suzuki,Dzire,2017,OD07UY2789,White,True
+2891,2891,Tata,Altroz,2023,OD15SU2302,Red,True
+2892,2892,Toyota,Glanza,2021,OD34IJ1134,Red,True
+2893,2893,Hyundai,i20,2023,OD05EO9025,Red,True
+2894,2894,Tata,Tigor,2026,OD33KG1073,Blue,True
+2895,2895,Honda,City,2020,OD32SI1229,Blue,True
+2896,2896,Hyundai,i10,2024,OD11FS1732,Grey,True
+2897,2897,Maruti Suzuki,Baleno,2025,OD25KR5840,White,True
+2898,2898,Toyota,Glanza,2023,OD27IK3076,Grey,True
+2899,2899,Toyota,Etios,2018,OD34AF4899,Blue,False
+2900,2900,Tata,Tigor,2018,OD27BA1133,Silver,True
+2901,2901,Maruti Suzuki,Baleno,2024,OD33AA5053,White,True
+2902,2902,Tata,Tiago,2023,OD35ER7509,Blue,False
+2903,2903,Hyundai,Aura,2026,OD10BY4123,White,False
+2904,2904,Maruti Suzuki,Swift,2024,OD05YN3786,Black,True
+2905,2905,Toyota,Etios,2022,OD26FD7001,Silver,True
+2906,2906,Tata,Altroz,2017,OD04OA3078,Grey,True
+2907,2907,Toyota,Glanza,2025,OD20EV7699,Black,True
+2908,2908,Toyota,Glanza,2020,OD11WM4280,Blue,False
+2909,2909,Tata,Altroz,2021,OD23TC1868,Blue,True
+2910,2910,Hyundai,i10,2021,OD24QQ6708,Grey,True
+2911,2911,Toyota,Glanza,2020,OD26UG9448,Blue,True
+2912,2912,Honda,Amaze,2026,OD02LK8999,Silver,True
+2913,2913,Maruti Suzuki,Baleno,2026,OD10SN2413,Silver,True
+2914,2914,Toyota,Etios,2017,OD28OS6369,Red,True
+2915,2915,Maruti Suzuki,Swift,2023,OD33TV2570,Silver,True
+2916,2916,Tata,Altroz,2017,OD05RT2982,Grey,True
+2917,2917,Toyota,Etios,2021,OD34JR8924,Silver,True
+2918,2918,Maruti Suzuki,Swift,2025,OD12NF9466,Grey,True
+2919,2919,Toyota,Glanza,2023,OD12AB1368,Silver,False
+2920,2920,Maruti Suzuki,Swift,2025,OD32JG6272,Grey,True
+2921,2921,Hyundai,Aura,2025,OD09KL7121,Red,False
+2922,2922,Toyota,Glanza,2024,OD18NT1217,White,True
+2923,2923,Tata,Altroz,2026,OD08EY4458,Grey,True
+2924,2924,Tata,Altroz,2018,OD19TU5676,Grey,True
+2925,2925,Maruti Suzuki,Swift,2021,OD08SW1651,Grey,False
+2926,2926,Hyundai,i20,2020,OD28BT6890,Grey,False
+2927,2927,Hyundai,i20,2024,OD31PJ8505,Grey,True
+2928,2928,Maruti Suzuki,Baleno,2024,OD14KO3163,Red,True
+2929,2929,Toyota,Glanza,2026,OD04BW7841,Black,True
+2930,2930,Honda,City,2026,OD06QA5327,Black,True
+2931,2931,Hyundai,i10,2019,OD01KY8810,Silver,False
+2932,2932,Hyundai,i10,2022,OD12QP7195,Silver,False
+2933,2933,Tata,Altroz,2021,OD23EK9338,Grey,True
+2934,2934,Honda,City,2016,OD28YM5380,Blue,False
+2935,2935,Toyota,Glanza,2026,OD26JQ8749,White,True
+2936,2936,Maruti Suzuki,Swift,2016,OD12KL5279,Grey,True
+2937,2937,Tata,Tiago,2019,OD19OT9351,Silver,True
+2938,2938,Toyota,Etios,2026,OD33JJ8456,White,True
+2939,2939,Maruti Suzuki,Baleno,2020,OD24BK7318,Black,True
+2940,2940,Honda,Amaze,2022,OD22UD2075,Blue,True
+2941,2941,Toyota,Etios,2026,OD08GR8223,Silver,True
+2942,2942,Tata,Altroz,2020,OD11FS9593,White,True
+2943,2943,Hyundai,Aura,2018,OD19CT8540,Grey,True
+2944,2944,Maruti Suzuki,Baleno,2016,OD07WW7183,Grey,False
+2945,2945,Tata,Tiago,2022,OD04IR1041,Blue,True
+2946,2946,Toyota,Glanza,2023,OD07IH7809,Blue,True
+2947,2947,Honda,City,2025,OD14UJ8863,Grey,True
+2948,2948,Toyota,Etios,2017,OD26UX2485,Red,False
+2949,2949,Honda,City,2020,OD21QV1913,Blue,True
+2950,2950,Hyundai,i10,2025,OD27UK3663,Red,True
+2951,2951,Honda,Amaze,2026,OD02KG2061,Black,False
+2952,2952,Maruti Suzuki,Dzire,2021,OD32JB3292,Red,True
+2953,2953,Tata,Altroz,2021,OD35YO7937,Blue,True
+2954,2954,Tata,Altroz,2017,OD11NQ2482,Black,True
+2955,2955,Honda,Amaze,2023,OD14DZ9523,Red,True
+2956,2956,Tata,Altroz,2020,OD07FX4865,Red,True
+2957,2957,Tata,Altroz,2018,OD13FZ7058,Red,True
+2958,2958,Hyundai,i20,2021,OD21PC2665,Grey,True
+2959,2959,Honda,City,2019,OD22DZ5636,Blue,True
+2960,2960,Toyota,Etios,2019,OD09PW1896,Black,True
+2961,2961,Maruti Suzuki,Dzire,2020,OD03EQ2216,White,False
+2962,2962,Maruti Suzuki,Baleno,2023,OD25HJ5485,Black,True
+2963,2963,Tata,Altroz,2022,OD01FU7149,Black,True
+2964,2964,Tata,Tigor,2020,OD05WM3936,Blue,False
+2965,2965,Maruti Suzuki,Swift,2021,OD10DL2444,Silver,True
+2966,2966,Tata,Tiago,2023,OD09UG7247,Blue,True
+2967,2967,Maruti Suzuki,Dzire,2026,OD20RL3776,Grey,True
+2968,2968,Hyundai,Aura,2019,OD22JU8710,Black,True
+2969,2969,Tata,Tiago,2021,OD24ZH1744,Grey,True
+2970,2970,Maruti Suzuki,Swift,2025,OD02AI6989,Red,True
+2971,2971,Honda,City,2026,OD11GI1843,Blue,False
+2972,2972,Maruti Suzuki,Dzire,2022,OD15HK6996,Silver,False
+2973,2973,Hyundai,Aura,2021,OD05QY3520,Blue,True
+2974,2974,Hyundai,Aura,2025,OD29JQ7382,Blue,True
+2975,2975,Maruti Suzuki,Dzire,2021,OD32WG4316,Blue,True
+2976,2976,Honda,Amaze,2022,OD25AS5733,White,True
+2977,2977,Tata,Tigor,2021,OD02DO6154,White,True
+2978,2978,Honda,City,2021,OD21QT1637,Red,False
+2979,2979,Tata,Altroz,2022,OD32ZX3180,Black,True
+2980,2980,Hyundai,i20,2018,OD03IH1297,White,False
+2981,2981,Hyundai,Aura,2017,OD07BN8689,White,True
+2982,2982,Honda,Amaze,2021,OD06YV2489,Silver,True
+2983,2983,Maruti Suzuki,Swift,2024,OD26DE3366,Black,True
+2984,2984,Toyota,Etios,2026,OD08IA3156,Red,True
+2985,2985,Tata,Tigor,2018,OD10IX3559,Black,True
+2986,2986,Hyundai,i10,2018,OD15WE1913,White,True
+2987,2987,Maruti Suzuki,Swift,2018,OD29QT3806,Blue,True
+2988,2988,Tata,Altroz,2019,OD22BU9000,Blue,True
+2989,2989,Hyundai,i20,2019,OD11TK7236,White,False
+2990,2990,Honda,Amaze,2025,OD18XW9510,Silver,False
+2991,2991,Honda,City,2020,OD04YR8443,Grey,True
+2992,2992,Hyundai,i20,2017,OD18AR4100,White,False
+2993,2993,Maruti Suzuki,Baleno,2016,OD26HH7172,White,True
+2994,2994,Honda,Amaze,2017,OD22NP3684,Grey,True
+2995,2995,Honda,Amaze,2022,OD12SE5775,Silver,False
+2996,2996,Honda,City,2019,OD35XX3986,Red,True
+2997,2997,Hyundai,Aura,2018,OD05IN3722,Blue,True
+2998,2998,Hyundai,i10,2018,OD34HG9553,Red,True
+2999,2999,Hyundai,Aura,2021,OD12XF4563,Silver,True
+3000,3000,Honda,Amaze,2023,OD02YS5772,White,True

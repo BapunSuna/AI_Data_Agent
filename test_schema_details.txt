@@ -1,0 +1,89 @@
+Database Schema: public
+
+Table: rides
+ Column: ride_id, Data Type: integer
+ Column: rider_id, Data Type: integer
+ Column: driver_id, Data Type: integer
+ Column: requested_at, Data Type: timestamp without time zone
+ Column: pickup_time, Data Type: timestamp without time zone
+ Column: dropoff_time, Data Type: timestamp without time zone
+ Column: pickup_latitude, Data Type: numeric
+ Column: pickup_longitude, Data Type: numeric
+ Column: dropoff_latitude, Data Type: numeric
+ Column: dropoff_longitude, Data Type: numeric
+ Column: distance_km, Data Type: numeric
+ Column: fare, Data Type: numeric
+ Column: surge_multiplier, Data Type: numeric
+ Column: status, Data Type: character varying
+ Column: cancellation_reason, Data Type: character varying
+ Sample Data:
+   (1, 5277, 1226, datetime.datetime(2025, 11, 25, 9, 5, 13, 921430), datetime.datetime(2025, 11, 25, 9, 11, 13, 921430), datetime.datetime(2025, 11, 25, 10, 4, 13, 921430), Decimal('20.250328'), Decimal('85.805452'), Decimal('20.288555'), Decimal('85.753942'), Decimal('37.05'), Decimal('923.81'), Decimal('1.19'), 'completed', None)
+   (2, 8451, 2643, datetime.datetime(2026, 6, 4, 19, 9, 0, 921430), datetime.datetime(2026, 6, 4, 19, 20, 0, 921430), datetime.datetime(2026, 6, 4, 19, 59, 0, 921430), Decimal('20.255908'), Decimal('85.886332'), Decimal('20.338828'), Decimal('85.842041'), Decimal('36.30'), Decimal('900.13'), Decimal('1.70'), 'completed', None)
+   (3, 4550, 806, datetime.datetime(2026, 7, 4, 2, 8, 43, 921430), datetime.datetime(2026, 7, 4, 2, 14, 43, 921430), datetime.datetime(2026, 7, 4, 2, 38, 43, 921430), Decimal('20.363800'), Decimal('85.859111'), Decimal('20.385836'), Decimal('85.785143'), Decimal('14.74'), Decimal('285.37'), Decimal('1.20'), 'completed', None)
+   (4, 8863, 2140, datetime.datetime(2026, 4, 18, 23, 49, 23, 921430), datetime.datetime(2026, 4, 19, 0, 1, 23, 921430), datetime.datetime(2026, 4, 19, 1, 25, 23, 921430), Decimal('20.361326'), Decimal('85.841411'), Decimal('20.268069'), Decimal('85.864367'), Decimal('15.24'), Decimal('492.25'), Decimal('1.62'), 'completed', None)
+   (5, 7746, 2618, datetime.datetime(2026, 8, 12, 15, 32, 5, 921430), datetime.datetime(2026, 8, 12, 15, 39, 5, 921430), datetime.datetime(2026, 8, 12, 17, 0, 5, 921430), Decimal('20.339863'), Decimal('85.777775'), Decimal('20.361724'), Decimal('85.821550'), Decimal('19.81'), Decimal('392.23'), Decimal('1.57'), 'completed', None)
+
+Table: vehicles
+ Column: is_active, Data Type: boolean
+ Column: driver_id, Data Type: integer
+ Column: year, Data Type: integer
+ Column: vehicle_id, Data Type: integer
+ Column: color, Data Type: character varying
+ Column: license_plate, Data Type: character varying
+ Column: make, Data Type: character varying
+ Column: model, Data Type: character varying
+ Sample Data:
+   (1, 1, 'Tata', 'Altroz', 2024, 'OD14DC6101', 'White', True)
+   (2, 2, 'Honda', 'Amaze', 2026, 'OD07YE4716', 'Red', True)
+   (3, 3, 'Maruti Suzuki', 'Swift', 2022, 'OD35OD6313', 'Red', False)
+   (4, 4, 'Toyota', 'Glanza', 2016, 'OD29OT8313', 'Blue', True)
+   (5, 5, 'Hyundai', 'i10', 2026, 'OD20ZY5374', 'Silver', False)
+
+Table: users
+ Column: user_id, Data Type: integer
+ Column: signup_date, Data Type: date
+ Column: is_active, Data Type: boolean
+ Column: email, Data Type: character varying
+ Column: phone, Data Type: character varying
+ Column: city, Data Type: character varying
+ Column: province, Data Type: character varying
+ Column: user_type, Data Type: character varying
+ Column: first_name, Data Type: character varying
+ Column: last_name, Data Type: character varying
+ Sample Data:
+   (1, 'Isaac', 'Bakshi', 'user1@example.com', '8746317213', 'Bhubaneswar', 'Odisha', 'driver', datetime.date(2024, 12, 27), True)
+   (2, 'Yash', 'Kapoor', 'user2@example.com', '9184935163', 'Puri', 'Odisha', 'driver', datetime.date(2024, 5, 30), True)
+   (3, 'Harsh', 'Chahal', 'user3@example.com', '6958682846', 'Cuttack', 'Odisha', 'driver', datetime.date(2026, 5, 1), True)
+   (4, 'Pahal', 'Balay', 'user4@example.com', '8906402157', 'Berhampur', 'Odisha', 'driver', datetime.date(2023, 12, 12), True)
+   (5, 'Girik', 'Kamdar', 'user5@example.com', '8536146025', 'Rourkela', 'Odisha', 'driver', datetime.date(2024, 10, 22), True)
+
+Table: ratings
+ Column: driver_id, Data Type: integer
+ Column: ride_id, Data Type: integer
+ Column: rider_id, Data Type: integer
+ Column: rating_id, Data Type: integer
+ Column: rating, Data Type: integer
+ Column: rated_at, Data Type: timestamp without time zone
+ Column: comment, Data Type: text
+ Sample Data:
+   (1, 14336, 4699, 613, 4, 'Clean vehicle', datetime.datetime(2026, 9, 29, 18, 37, 23, 921430))
+   (2, 2263, 6255, 919, 4, 'Clean vehicle', datetime.datetime(2026, 4, 20, 22, 15, 41, 921430))
+   (3, 17872, 9071, 812, 4, 'Clean vehicle', datetime.datetime(2026, 2, 12, 2, 4, 54, 921430))
+   (4, 4760, 3774, 2671, 5, 'Great driver', datetime.datetime(2026, 6, 27, 22, 5, 43, 921430))
+   (5, 9756, 7556, 2623, 5, 'Excellent service', datetime.datetime(2026, 5, 17, 22, 10, 32, 921430))
+
+Table: payments
+ Column: payment_id, Data Type: integer
+ Column: ride_id, Data Type: integer
+ Column: user_id, Data Type: integer
+ Column: amount, Data Type: numeric
+ Column: payment_time, Data Type: timestamp without time zone
+ Column: payment_status, Data Type: character varying
+ Column: transaction_id, Data Type: character varying
+ Column: payment_method, Data Type: character varying
+ Sample Data:
+   (1, 13978, 6897, Decimal('1336.48'), 'UPI', 'successful', 'TXN0000000001', datetime.datetime(2026, 3, 14, 10, 46, 14, 921430))
+   (2, 2153, 9107, Decimal('1068.03'), 'UPI', 'successful', 'TXN0000000002', datetime.datetime(2026, 8, 21, 1, 9, 43, 921430))
+   (3, 14050, 3790, Decimal('412.04'), 'Debit Card', 'successful', 'TXN0000000003', datetime.datetime(2025, 12, 23, 20, 15, 21, 921430))
+   (4, 3405, 5033, Decimal('762.73'), 'Debit Card', 'successful', 'TXN0000000004', datetime.datetime(2025, 11, 23, 19, 26, 50, 921430))
+   (5, 4319, 5435, Decimal('640.08'), 'Wallet', 'successful', 'TXN0000000005', datetime.datetime(2025, 12, 24, 22, 50, 2, 921430))
